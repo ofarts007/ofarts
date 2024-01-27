@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Test LIFF</title>
+    <link rel="shortcut icon" href="icon/icon.ico" type="image/x-icon" />
+    <link rel="icon" href="https://dl.dropbox.com/s/9pf1tx0cncmhhcm/20200513_203416.png" type="image/x-icon" />
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script>
+
+  </head>
+  <body>
+
+
+  
+    <script src="https://static.line-scdn.net/liff/edge/2.1/sdk.js"></script>
+   
+    <script >
+
+
+const liffId = "1654985163-lRwqeMgJx";
+
+
+
+
+liff.init(
+  { liffId: liffId },
+  () => {
+    if (!liff.isInClient() && !liff.isLoggedIn()) {
+                window.alert("กรุณาเข้าสู่ระบบบัญชี LINE ของคุณ");
+                liff.login({redirectUri: "https://line.me/ti/p/@012ctyky"});
+            }
+    usecase();
+  },
+  err => {
+    window.alert(err);
+  }
+);
+    function getParameterByName(name) {
+  return url.searchParams.get(name);
+}
+
+      function getParameterByName(name, url) {
+    if (!url) url = window.location.href;
+    name = name.replace(/[\[\]]/g, '\\$&');
+    var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+        results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, ' '));
+}
+function usecase() {
+var ofarts = getParameterByName("refer");
+
+  //ตารางเรียน
+  
+  if (ofarts === "stpstudent"){
+var x = getParameterByName("img");
+liff.sendMessages([{
+            type: 'image',
+            originalContentUrl: x,
+            previewImageUrl: x
+}]).then(function () {
+            liff.closeWindow();
+        }).catch(function (error) {
+            window.alert("Error sending message: " + error);
+        });    
+}
+  
+  
+  if (ofarts === "def"){
+var x = getParameterByName("img");
+liff.sendMessages([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "direction": "ltr",
+  "hero": {
+    "type": "image",
+    "url": "https://sdl-stickershop.line.naver.jp/stickershop/v1/product/10575536/iphone/main@2x.png",
+    "size": "full",
+    "aspectRatio": "1.51:1",
+    "aspectMode": "fit",
+    "backgroundColor": "#BAFB74FF"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "hello, world",
+        "size": "lg",
+        "align": "start",
+        "wrap": true,
+        "contents": []
+      }
+    ]
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#BAFB74FF"
+    }
+  }
+}
+}]).then(function () {
+            liff.closeWindow();
+        }).catch(function (error) {
+            window.alert("Error sending message: " + error);
+        });    
+}
+  
+  //flex ซ้ำซ้อนที่คิดว่าจะตัดออก
+  
+  if(ofarts === "code1"){
+        var inputuserid = getParameterByName('q');
+    var xmlhttp = new XMLHttpRequest();
+xmlhttp.onreadystatechange = function() {
+  if (this.readyState == 4 && this.status == 200) {
+    var myObj = JSON.parse(this.responseText)
+    for (var i = 0; i < myObj.feed.entry.length; i++) {
+         if (myObj.feed.entry[i].gsx$code.$t === inputuserid ){
+           var x = myObj.feed.entry[i].gsx$code.$t
+           var y = myObj.feed.entry[i].gsx$picture.$t
+           var z = myObj.feed.entry[i].gsx$button.$t
+     liff.sendMessages([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://drive.google.com/uc?id=1Ff-VIIeivLITLB9x4Nad2KTVDVmM2ngY",
+    "size": "full",
+    "aspectRatio": "20:13",
+    "aspectMode": "cover"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": ""+x,
+        "align": "center",
+        "wrap": true,
+        "contents": []
+      },
+      {
+        "type": "image",
+        "url": ""+y,
+        "aspectRatio": "20:13",
+        "aspectMode": "fit"
+      },
+      {
+        "type": "text",
+        "text": "picture",
+        "align": "center",
+        "wrap": true,
+        "contents": []
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "flex": 0,
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "Button",
+          "uri": ""+z
+        }
+      }
+    ]
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#D5C0AFFF"
+    },
+    "footer": {
+      "backgroundColor": "#D5C0AFFF"
+    }
+  }
+}
+}]).then(function () {
+            liff.closeWindow();
+        })
+  }
+    }
+}
+  };
+xmlhttp.open("GET", "https://spreadsheets.google.com/feeds/list/1wHx6M_oQgu6EGTf3Kvc_ftwtoERlD2n6RWUkp6r8df4/1/public/values?alt=json", true);
+xmlhttp.send(null);
+    }
+ 
+  
+  //เบอร์โทรศัพท์บุคคลากร
+  if(ofarts === "tel01"){
+        var inputuserid = getParameterByName('q');
+    var xmlhttp = new XMLHttpRequest();
+xmlhttp.onreadystatechange = function() {
+  if (this.readyState == 4 && this.status == 200) {
+    var myObj = JSON.parse(this.responseText)
+    for (var i = 0; i < myObj.feed.entry.length; i++) {
+         if (myObj.feed.entry[i].gsx$code.$t === inputuserid ){
+           var x = myObj.feed.entry[i].gsx$ภาพบุคคล.$t
+           var y = myObj.feed.entry[i].gsx$ฝ่ายกลุ่มงาน.$t
+           var z = myObj.feed.entry[i].gsx$ชื่อ.$t
+           var xx = myObj.feed.entry[i].gsx$สกุล.$t
+           var yy = myObj.feed.entry[i].gsx$ชื่อเล่น.$t
+           var zz = myObj.feed.entry[i].gsx$tel.$t
+           var xxx = myObj.feed.entry[i].gsx$backstptel.$t
+           var yyy = myObj.feed.entry[i].gsx$backacadamicdepartment.$t
+           var zzz = myObj.feed.entry[i].gsx$backstpindex.$t
+     liff.sendMessages([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+   "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": ""+x,
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "label": "Line",
+      "uri": "https://linecorp.com/"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "เบอร์โทรศัพท์บุคลากร",
+        "weight": "bold",
+        "size": "xl",
+        "align": "center",
+        "contents": []
+      },
+      { 
+         "type": "text",
+        "text": ""+y,
+        "weight": "bold",
+        "size": "lg",
+        "align": "center",
+        "wrap": true,
+        "contents": []
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ชื่อ : "+z,
+            "weight": "bold",
+            "size": "lg",
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": "นามสกุล : "+xx,
+            "weight": "bold",
+            "size": "lg",
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": "ชื่อเล่น : "+yy,
+            "weight": "bold",
+            "size": "lg",
+            "align": "start",
+            "wrap": true,
+            "contents": []
+          },
+          {
+             "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เบอร์โทรศัพท์",
+              "uri": "tel:"+zz
+            },
+            "color": "#81A0F5FF",
+            "margin": "xxl",
+            "height": "sm",
+            "style": "secondary"
+          }
+        ]
+      }
+    ]
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#BDBDBDFF",
+      "separatorColor": "#FFFFFFFF"
+    }
+  }
+}
+}]).then(function () {
+            liff.closeWindow();
+        })
+  }
+    }
+}
+  };
+xmlhttp.open("GET", "https://spreadsheets.google.com/feeds/list/1eQ32bN6TajWr7KB8YdH8HNj04ttLbr6NT_UkaiYv-ug/1/public/values?alt=json", true);
+xmlhttp.send(null);
+    }
+  
+  
+}
+</script>
+  </body>
+</html>

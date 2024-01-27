@@ -1,0 +1,388 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>xxxxxใส่ข้อความxxxxx</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <link rel="stylesheet" href="https://bit.ly/fontiton5" type="text/css" charset="utf-8" />
+  <style type="text/css">
+    body {
+      font-family: 'line_seed_sans_th';
+
+    }
+
+    :root {
+      --primary-one: #24292e;
+      --primary-two: #181c20;
+      --primary-three: #f1f1f1;
+      --secondary: #6c757d;
+      --accent: #49f868;
+      --text: #c9c9c9;
+      --white: #ffffff;
+      --black: #000000;
+    }
+
+    * {
+      transition: all 0.3s ease !important;
+    }
+
+    body::-webkit-scrollbar {
+      width: 0 !important;
+    }
+
+    .main_wrapper {
+      width: 100vw;
+      height: 100vh;
+      background: var(--primary-two);
+      overflow: hidden;
+      padding: 25px;
+    }
+
+    .wrapper {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+
+      box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.2);
+      border-radius: 12px;
+      background-color: rgba(255, 255, 255, 0.08);
+    }
+
+    header {
+      background: var(--primary-two);
+    }
+
+    .nav-links .nav-link {
+      color: var(--white);
+    }
+
+    .home,
+    .news,
+    .gform,
+    .vdo {
+      flex: 1;
+      max-height: calc(100vh - 155px);
+      overflow-y: auto;
+    }
+
+    .home::-webkit-scrollbar,
+    .news::-webkit-scrollbar,
+    .gform::-webkit-scrollbar,
+    .vdo::-webkit-scrollbar {
+      width: 5px;
+    }
+
+    .home::-webkit-scrollbar-track,
+    .news::-webkit-scrollbar-track,
+    .gform::-webkit-scrollbar-track,
+    .vdo::-webkit-scrollbar-track {
+      background: transparent;
+    }
+
+    .home::-webkit-scrollbar-thumb,
+    .news::-webkit-scrollbar-thumb,
+    .gform::-webkit-scrollbar-thumb,
+    .vdo::-webkit-scrollbar-thumb {
+      background: var(--primary-two);
+      border-radius: 5px;
+    }
+
+    .main>div {
+      display: none;
+      transition: display 1s ease-in-out !important;
+    }
+
+    .active-link {
+      background-color: var(--primary-one);
+      color: var(--accent) !important;
+    }
+
+    .p-text {
+      color: var(--text);
+      font-size: 13px;
+    }
+
+    .socials-svg {
+      width: 25px;
+      height: 25px;
+      fill: var(--text);
+    }
+
+    .socials-svg:hover {
+      fill: var(--accent);
+    }
+
+    .cv-btn:hover {
+      background-color: var(--accent) !important;
+    }
+
+    /* Media Queries */
+    @media screen and (max-width: 576px) {
+      .main_wrapper {
+        padding: 12px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="main_wrapper">
+    <div class="wrapper">
+      <section class="flex items-start justify-start pt-4" style="margin-left:20px;">
+        <p class="dot draggable" style="width: 10px;height: 10px;border-radius: 50%;background: #e26172;"></p>
+        <p class="dot mx-2 draggable" style="width: 10px;height: 10px;border-radius: 50%;background: #dab35a;"></p>
+        <p class="dot draggable" style="width: 10px;height:10px;border-radius: 50%;background: #33ac48;"></p>
+      </section>
+
+      <section class="m-4 all-content-wrapper">
+        <!-- Header Section -->
+        <header class="w-full md:w-8/12 mx-auto text-center rounded-full p-2">
+          <div class="nav-links flex items-center justify-around">
+            <a href="#" class="nav-link py-3 px-2 md:px-0 text-sm md:text-base font-medium rounded-full w-full">Home</a>
+            <a href="#" class="nav-link py-3 px-2 md:px-0 text-sm md:text-base font-medium rounded-full w-full">NEWS</a>
+            <a href="#"
+              class="nav-link py-3 px-2 md:px-0 text-sm md:text-base font-medium rounded-full w-full">GForm</a>
+            <a href="#" class="nav-link py-3 px-2 md:px-0 text-sm md:text-base font-medium rounded-full w-full">VDO</a>
+
+          </div>
+        <!-- pp1 -->
+        </header>
+
+        <main class="main">
+          <div class="home px-2 md:px-8 py-6">
+            <div class="grid grid-cols-1 gap-5">
+              <img class="max-w-full w-26 md:w-24 rounded-full"
+                src="xxxxxใส่linkภาพxxxxx"
+                alt="Profile Image">
+              <div class="flex flex-col gap-1">
+                <h1 class="text-2xl sm:text-4xl md:+96text-5xl text-white font-semibold">xxxxxใส่ข้อความxxxxx
+                </h1>
+                <h2 class="text-2xl sm:text-4xl md:+96text-5xl text-white font-semibold">xxxxxใส่ข้อความxxxxx</h2>
+              </div>
+              <p class="p-text w-full lg:w-7/12">xxxxxใส่ข้อความxxxxx</p>
+              <div class="flex items-center justify-start gap-4">
+
+
+                <div class="line-it-button" data-lang="en" data-type="friend" data-env="REAL" data-count="true"
+                  data-home="true" data-lineId="@botstickerlth" style="display: none;"></div>
+                <div class="line-it-button" data-lang="en" data-type="share-a" data-env="REAL"
+                  data-url="https://www.facebook.com/thomson.ton/" data-color="default" data-size="small"
+                  data-count="true" data-ver="3" style="display: none;"></div>
+                <div class="line-it-button" data-lang="en" data-type="like" data-env="REAL"
+                  data-url="https://m.youtube.com/channel/UC1mR9lNlJjqV-P67LkkJO4Q?sub_confirmation=1"
+                  style="display: none;"></div>
+
+
+              </div>
+
+
+            </div>
+
+          </div>
+          <!-- pp2 -->
+          <div class="news px-2 md:px-8 py-6">
+            <div class="flex flex-col gap-1">
+              <h1 class="text-2xl sm:text-4xl md:+96text-5xl text-white font-semibold">NEWS</h1>
+              <div
+                class="mx-auto rounded-lg bg-white space-y-2.5 sm:my-10 w-full sm:w-5/12 lg:w-10/12 shadow-[0px_5px_15px_3px_rgba(0,0,0,0.6)]">
+                <h1 class="text-stone-600 text-lg pt-2 px-3">xxxxxใส่ข้อความxxxxx<br />xxxxxใส่ข้อความxxxxx</h1>
+                <div class="flex items-center justify-between px-3">
+                  <p class="text-blue-500 font-medium"> 5 ข่าว </p>
+                  <i id='showHide'
+                    class="fa-solid fa-chevron-up text-slate-600 cursor-pointer hover:text-slate-800 hover:scale-125"></i>
+                </div>
+
+                <hr class="border-t-1 border-slate-300 mx-3" />
+
+                <div id='mix' class="space-y-1"></div>
+              </div>
+
+            </div>
+
+          </div>
+          <!-- pp3 -->
+          <div class="gform px-2 md:px-8 py-6">
+            <div class="flex flex-col gap-1">
+              <h1 class="text-2xl sm:text-4xl md:+96text-5xl text-white font-semibold">Google Form</h1>
+
+              <iframe id="formframe"
+                src="https://docs.google.com/forms/d/e/1FAIpQLSdD6ikLsQN1zeKgeAHeNzxyJcJfav7cA2ONx8qmRUGs9CYDVw/viewform"
+                frameborder="0"
+                style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:100%;width:100%;position:absolute;top:120px;left:0px;right:0px;bottom:0px"
+                height="100%" width="100%"></iframe>
+
+            </div>
+
+          </div>
+          <!-- pp4 -->
+          <div class="vdo px-2 md:px-8 py-6">
+            <div class="flex flex-col gap-1">
+              <h1 class="text-2xl sm:text-4xl md:+96text-5xl text-white font-semibold">VDO</h1>
+
+
+              <video class="h-80" controls>
+                <source
+                  src="https://obs.line-scdn.net/hW3GuJzpfFB0hYAcTGDYTZAZYHzIFZ04DFBweOgpQUm0CYBoPLWkgMyRTKiQHYz9IPTUncgxuPSw2WTtJEw8aITR5JWgEdzgILSE3Jg9pV2Q"
+                  type="video/mp4">
+
+              </video>
+
+
+            </div>
+          </div
+        <!-- สิ้นสุดส่วนของ pp4 -->
+        </main>
+      </section>
+    </div>
+  </div>
+
+
+  <script src="https://www.line-website.com/social-plugins/js/thirdparty/loader.min.js" async="async"
+    defer="defer"></script>
+  <script>
+
+    const navLinks = document.querySelectorAll(".nav-link");
+    const sections = document.querySelectorAll("main > div");
+
+
+    const hideSections = () => {
+      sections.forEach((section) => {
+        section.style.display = "none";
+      });
+    };
+
+
+    const handleNavLinks = (e) => {
+      e.preventDefault();
+
+
+      navLinks.forEach((link) => {
+        link.classList.remove("active-link");
+      });
+
+
+      e.target.classList.add("active-link");
+
+
+      hideSections();
+
+
+      const index = Array.from(navLinks).indexOf(e.target);
+      sections[index].style.display = "block";
+    };
+
+
+    navLinks.forEach((link) => {
+      link.addEventListener("click", handleNavLinks);
+    });
+
+    navLinks[0].classList.add("active-link");
+    sections[0].style.display = "block";
+
+
+
+
+  </script>
+   <!-- spp2 -->
+  <script>
+    const mix = document.getElementById("mix");
+
+    const data = [
+      {
+        id: 1,
+        title: "xxxxxใส่ข้อความxxxxx",
+        desc: "xxxxxใส่ข้อความxxxxx",
+        img: "xxxxxใส่linkภาพxxxxx",
+        url: "xxxxxใส่linkข่าวxxxxx",
+
+      },
+      {
+        id: 2,
+        title: "xxxxxใส่ข้อความxxxxx",
+        desc: "xxxxxใส่ข้อความxxxxx",
+        img: "xxxxxใส่linkภาพxxxxx",
+        url: "xxxxxใส่linkข่าวxxxxx",
+
+      },
+      {
+        id: 3,
+        title: "xxxxxใส่ข้อความxxxxx",
+        desc: "xxxxxใส่ข้อความxxxxx",
+        img: "xxxxxใส่linkภาพxxxxx",
+        url: "xxxxxใส่linkข่าวxxxxx",
+
+      },
+      {
+        id: 4,
+        title: "xxxxxใส่ข้อความxxxxx",
+        desc: "xxxxxใส่ข้อความxxxxx",
+        img: "xxxxxใส่linkภาพxxxxx",
+        url: "xxxxxใส่linkข่าวxxxxx",
+
+      },
+      {
+        id: 5,
+        title: "xxxxxใส่ข้อความxxxxx",
+        desc: "xxxxxใส่ข้อความxxxxx",
+        img: "xxxxxใส่linkภาพxxxxx",
+        url: "xxxxxใส่linkข่าวxxxxx",
+
+      },
+
+    ];
+
+    for (let content of data) {
+      mix.insertAdjacentHTML(
+        "beforeend",
+        `<div class="
+     grid grid-rows-[6rem] grid-cols-5 gap-x-2 sm:gap-x-4 text-sm sm:text-lg hover:cursor-pointer group p-3 overflow-hidden transition-all
+    hover:bg-gradient-to-r
+    hover:from-blue-400
+    hover:to-blue-500
+    hover:rounded-xl
+    hover:scale-105
+    ">
+  <div class='col-span-2 row-auto rounded-sm relative bg-no-repeat'>
+    <img src=${content.img} class="object-cover w-full h-full" />
+   
+  </div>
+
+  <div class='col-start-3 row-auto  col-end-6' onclick="window.open('${content.url}')">
+    <h3 class="capitalize text-sm font-medium group-hover:text-white">
+      ${content.title}
+    </h3>
+    <p class="text-blue-500 group-hover:text-blue-200 font-bold text-xs">
+      ${content.desc}
+    </p>
+   
+                  
+                
+  </div>
+
+</div>`
+      );
+    }
+
+
+    const showHide = document.getElementById('showHide');
+    showHide.addEventListener('click', function () {
+      mix.classList.toggle('hidden');
+      const condition = mix.classList.contains('hidden');
+      if (condition) {
+        showHide.classList.remove('fa-chevron-up');
+        showHide.classList.add('fa-chevron-down');
+      } else {
+        showHide.classList.remove('fa-chevron-down');
+        showHide.classList.add('fa-chevron-up');
+      }
+    })
+  </script>
+  <!-- ส่วนของหน้า 2 วางต่อ script spp2-->
+</body>
+
+</html>
+

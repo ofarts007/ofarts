@@ -1,0 +1,4200 @@
+document.getElementById('900Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('899Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('898Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('897Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('896Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('895Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('894Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('893Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('892Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('891Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('890Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('889Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('888Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('887Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('886Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('885Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('884Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('883Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('882Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('881Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('880Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('879Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('878Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('877Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('876Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('875Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('874Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('873Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('872Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('871Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('870Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('869Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('868Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('867Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('866Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('865Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('864Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('863Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('862Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('861Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('860Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('859Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('858Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('857Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('856Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('855Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('854Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('853Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('852Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('851Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('850Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('849Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('848Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('847Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('846Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('845Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('844Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('843Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('842Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('841Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('840Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('839Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('838Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('837Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('836Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('835Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('834Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('833Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('832Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('831Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('830Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('829Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('828Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('827Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('826Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('825Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('824Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('823Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('822Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('821Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('820Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('819Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('818Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('817Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('816Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('815Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('814Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('813Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('812Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('811Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('810Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('809Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('808Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('807Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('806Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('805Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('804Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('803Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('802Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('801Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('800Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('799Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('798Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('797Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('796Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('795Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('794Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('793Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('792Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('791Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('790Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('789Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('788Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('787Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('786Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('785Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('784Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('783Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('782Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('781Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('780Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('779Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('778Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('777Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('776Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('775Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('774Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('773Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('772Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('771Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('770Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('769Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('768Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('767Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('766Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('765Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('764Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('763Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('762Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('761Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('760Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('759Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('758Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('757Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('756Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('755Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('754Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('753Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('752Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('751Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('750Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('749Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('748Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('747Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('746Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('745Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('744Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('743Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('742Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('741Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('740Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('739Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('738Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('737Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('736Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('735Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('734Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('733Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('732Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('731Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('730Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('729Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('728Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('727Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('726Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('725Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('724Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('723Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('722Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('721Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('720Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('719Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('718Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('717Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('716Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('715Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('714Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('713Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('712Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('711Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('710Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('709Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('708Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('707Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('706Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('705Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('704Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('703Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('702Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('701Thanks').addEventListener('click',function(){
+var x = prompt("โปรดใส่ size//giga//mega//kilo//micro/nano")
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": {
+"type": "bubble",
+"size": ""+x,
+"hero": {
+"type": "image",
+"url": "xxxxx",
+"size": "full",
+"aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });

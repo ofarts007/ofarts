@@ -1,0 +1,51 @@
+
+          document.getElementById('bigtext').addEventListener('click',function(){
+            var a = prompt("โปรดใส่ link")
+            var b = prompt("โปรดใส่โค้ด Flex")
+          liff.shareTargetPicker([{
+          "type": "flex",
+          "altText": "Please open!",
+          "contents": 
+               }
+          ]).then(function (){
+          liff.closeWindow();
+                });
+                     });
+
+
+
+
+
+          //........................................................................    
+          <button type="button" class="btn btn-primary" id="xxx">001-วันอาทิตย์</button>
+          <button type="button" class="btn btn-primary" id="xxx">002-วันจันทร์</button>
+          <button type="button" class="btn btn-primary" id="xxx">003-วันอังคาร</button>
+          <button type="button" class="btn btn-primary" id="xxx">004-วันพุธ</button>
+          <button type="button" class="btn btn-primary" id="xxx">005-วันพฤหัสบดี</button>
+          <button type="button" class="btn btn-primary" id="xxx">006-วันศุกร์</button>
+          <button type="button" class="btn btn-primary" id="xxx">007-วันเสาร์</button>
+
+
+          
+          <button type="button" class="btn btn-primary" id="xxx">003</button>
+          <button type="button" class="btn btn-primary" id="xxx">002</button>
+          <button type="button" class="btn btn-primary" id="xxx">001</button>
+
+
+
+
+
+          document.getElementById('bigtext').addEventListener('click',function(){
+            var a = prompt("โปรดใส่ link")
+            var b = prompt("โปรดใส่ข้อความ")
+          liff.shareTargetPicker([{
+          "type": "flex",
+          "altText": "Please open!",
+          "contents": 
+               }
+          ]).then(function (){
+          liff.closeWindow();
+                });
+                     });
+                     
+                     

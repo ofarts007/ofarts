@@ -1,0 +1,638 @@
+
+
+
+
+
+
+อัพเดทข่าวประจำวัน-กระทรวงศึกษาธิการ//วันจันทร์ที่ 2 พฤษภาคม 2565
+
+อัพเดทข่าวประจำวัน-กระทรวงศึกษาธิการ//วันอังคารที่ 3 พฤษภาคม 2565
+
+อัพเดทข่าวประจำวัน-กระทรวงศึกษาธิการ//วันพุธที่ 4 พฤษภาคม 2565
+
+อัพเดทข่าวประจำวัน-กระทรวงศึกษาธิการ//วันพฤหัสบดีที่ 5 พฤษภาคม 2565
+
+อัพเดทข่าวประจำวัน-กระทรวงศึกษาธิการ//วันศุกร์ที่ 6 พฤษภาคม 2565
+
+
+
+//........................................  MinistryOfEducationNews  ...............  ข่าวประจำวัน-กระทรวงศึกษาธิการ///
+
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">100-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">099-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">098-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">097-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">096-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">095-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">094-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">093-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">092-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">091-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">090-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">089-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">088-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">087-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">086-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">085-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">084-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">083-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">082-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">081-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">080-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">079-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">078-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">077-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">076-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">075-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">074-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">073-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">072-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">071-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">070-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">069-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">068-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">067-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">066-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">065-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">064-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">063-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">062-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">061-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">060-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">059-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">058-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">057-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">056-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">055-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">054-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">053-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">052-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">051-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">050-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">049-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">048-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">047-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">046-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">045-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">044-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">043-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">042-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">041-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">040-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">039-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">038-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">037-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">036-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">035-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">034-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">033-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">032-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">031-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">030-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">029-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">028-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">027-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">026-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">025-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">024-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">023-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">022-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">021-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">020-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">019-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">018-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">017-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">016-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">015-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">014-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">013-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">012-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">011-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">010-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">009-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">008-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">007-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">006-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">005-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">004-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">003-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">002-ข่าว ศธ.//yyymmmddd</button>
+<button type="button" class="btn btn-primary" id="yymmddMinistryOfEducationNews">001-ข่าว ศธ.//yyymmmddd</button>
+
+
+
+//.......................................................................................................................
+
+
+คุณสามารถเลือกกดปุ่มข่าวที่คุณสนใจ แล้วเลือกส่งที่นี่เพื่ออ่านเอง หรือคุณต้องการแบ่งปันให้เพื่อนของคุณก็ได้
+**************************************************************************       
+//....................................................................       
+//....................................................................    
+//.....  ข่าวประจำวัน-กระทรวงศึกษาธิการ 2565
+//.....  NEW
+<button type="button" class="btn btn-danger" id="65098MinistryOfEducationNews">//วันศุกร์ที่ 3 มิถุนายน 2565</button>
+//........................................................................
+//.....  ข่าวประจำวัน-ย้อนหลัง 2565  
+
+
+//........................................................................ 
+
+      
+     <script> 
+window.onload = function(e){
+        liff.init({liffId:'1654985163-PNeNx0AK'},function(){
+           if (liff.isLoggedIn()) {
+           usecase();
+          ofarts();
+           }else {
+        liff.login();
+      }
+        });
+      }
+        
+        function usecase(){
+// ........................................................................................  id007   
+///// 0003 - 1654985163-PNeNx0AK
+/////        https://liff.line.me/1654985163-PNeNx0AK
+///// 03 -   1655371726-jnPow48z
+/////        https://liff.line.me/1655371726-jnPow48z
+
+//.......................................................................................  ข่าวประจำวัน-กระทรวงศึกษาธิการ
+//65MinistryOfEducationNews
+          document.getElementById('yymmddMinistryOfEducationNews').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "ข่าวกระทรวงศึกษาธิการ//yyymmmddd",
+    "contents": 
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+
+
+
+
+
+
+
+
+
+//   00000
+
+
+// .............................. รายงานวันปกติ
+
+        "type": "text",
+        "text": "- click -\nข่าวกระทรวงศึกษาธิการ\nวันพุธที่ 3 พฤศจิกายน 2564",
+        "weight": "bold",
+        "size": "md",
+        "align": "center",
+        "wrap": true,
+        "action": {
+          "type": "uri",
+          "uri": "xxxxx"
+        },
+        "contents": []
+
+
+
+// .............................. รายงานวันหยุด
+
+        "type": "text",
+        "text": "ข่าวกระทรวงศึกษาธิการ\nวันพุธที่ 13 เมษายน 2565\n- ศธ.งดส่งข่าว -\nเนื่องในวันหยุด\nวันสงกรานต์",
+        "weight": "bold",
+        "size": "md",
+        "align": "center",
+        "wrap": true,
+        "contents": []
+
+
+//203MinistryOfEducationNews
+          document.getElementById('203MinistryOfEducationNews').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "ข่าวกระทรวงศึกษาธิการ//วันศุกร์ที่ 24 กันยายน 2564",
+    "contents": {
+  "type": "bubble",
+  "size": "kilo",
+  "hero": {
+    "type": "image",
+    "url": "https://i.ibb.co/ZxRwPv5/uc-id-1y-Yw-IHFKPTYl-PZa-X7cnmw-KW0j406-GEyp3.jpg",
+    "size": "full",
+    "aspectRatio": "20:13",
+    "aspectMode": "cover"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "ข่าวกระทรวงศึกษาธิการ\nวันพฤหัสบดีที่ 23 กันยายน 2564\n- ศธ.งดส่งข่าว -\nเนื่องในวัน",
+        "weight": "bold",
+        "size": "md",
+        "align": "center",
+        "wrap": true,
+        "contents": []
+      },
+      {
+        "type": "text",
+        "text": "\n- share -\nข่าวกระทรวงศึกษาธิการ",
+        "weight": "bold",
+        "size": "md",
+        "align": "center",
+        "wrap": true,
+        "action": {
+          "type": "uri",
+          "uri": "line://app/1655371726-jnPow48z"
+        },
+        "contents": []
+      },
+      {
+        "type": "text",
+        "text": "- click -\nกระดานดำออนไลน์",
+        "weight": "bold",
+        "size": "md",
+        "align": "center",
+        "margin": "xl",
+        "wrap": true,
+        "action": {
+          "type": "uri",
+          "uri": "https://lin.ee/5RwzOK7"
+        },
+        "contents": []
+      }
+    ]
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#F1C54AFF"
+    }
+  }
+}
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//MinistryOfEducationNews  
+    document.getElementById('MinistryOfEducationNews').addEventListener('click',function(){
+    liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Ministry of Education News//วันศุกร์ที่ 24 กันยายน 2564",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://drive.google.com/uc?id=1yYwIHFKPTYlPZaX7cnmwKW0j406GEyp3",
+    "size": "full",
+    "aspectRatio": "20:13",
+    "aspectMode": "cover"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "ข่าวกระทรวงศึกษาธิการ",
+        "weight": "bold",
+        "size": "lg",
+        "align": "center",
+        "wrap": true,
+        "contents": []
+      },
+      {
+        "type": "text",
+        "text": "วันศุกร์ที่ 24 กันยายน 2564",
+        "weight": "bold",
+        "size": "md",
+        "align": "center",
+        "margin": "xs",
+        "contents": []
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "ติดตามรายละเอียด",
+          "uri": "xxxxx"
+        },
+        "color": "#AA6043FF",
+        "margin": "md",
+        "height": "sm",
+        "style": "primary"
+      }
+    ]
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#F1C54AFF"
+    }
+  }
+}
+            }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });         
+// ..............................................................................  ข่าวประจำวัน-กระทรวงศึกษาธิการ//ย้อนหลัง           
+//190MinistryOfEducationNews
+          document.getElementById('190MinistryOfEducationNews').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "ข่าวกระทรวงศึกษาธิการ//วันศุกร์ที่ 24 กันยายน 2564",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "action": {
+      "type": "uri",
+      "uri": "xxxxx"
+    },
+    "contents": [
+      {
+        "type": "text",
+        "text": "ข่าวกระทรวงศึกษาธิการ\nวันศุกร์ที่ 24 กันยายน 2564",
+        "weight": "bold",
+        "size": "lg",
+        "align": "center",
+        "wrap": true,
+        "contents": []
+      }
+    ]
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#F1C54AFF"
+    }
+  }
+}
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+          
+          
+          
+          
+          
+ //     000         
+          
+          
+          
+          
+          
+          
+ ข่าวกระทรวงศึกษาธิการ\nวันพฤหัสบดีที่ 12 สิงหาคม 2564\n- ศธ.งดส่งข่าว -\nเนื่องในวัน         
+//............................................................................  วันที่ไม่มีข่าว//วันหยุดต่างๆ         
+//............................................................................
+//............................................................................  MinistryOfEducationNews
+//
+          document.getElementById('166MinistryOfEducationNews').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "ข่าวกระทรวงศึกษาธิการ//วันจันทร์ที่ 23 สิงหาคม 2564",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "action": {
+      "type": "uri",
+      "uri": "xxxxx"
+    },
+    "contents": [
+      {
+        "type": "text",
+        "text": " ข่าวกระทรวงศึกษาธิการ\nวันพฤหัสบดีที่ 12 สิงหาคม 2564\n- ศธ.งดส่งข่าว -\nเนื่องในวัน",
+        "weight": "bold",
+        "size": "lg",
+        "align": "center",
+        "wrap": true,
+        "contents": []
+      }
+    ]
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#F1C54AFF"
+    }
+  }
+}
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//............................................................................         
+//............................................................................
+//............................................................................        
+
+          
+          
+          
+          
+          
+          
+// ...................................................................................          
+// ................................................................................... เลิกใช้แล้ว
+
+//MinistryOfEducationNews
+
+document.getElementById('MinistryOfEducationNews').addEventListener('click',function(){
+    liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Ministry of Education News//วันจันทร์ที่ 14 มิถุนายน 2564",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://drive.google.com/uc?id=1yYwIHFKPTYlPZaX7cnmwKW0j406GEyp3",
+    "size": "full",
+    "aspectRatio": "20:13",
+    "aspectMode": "cover"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "ข่าวกระทรวงศึกษาธิการ",
+        "weight": "bold",
+        "size": "xl",
+        "align": "center"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "วันจันทร์ที่ 14 มิถุนายน 2564",
+          "uri": "https://drive.google.com/file/d/1XJRxlQaFgi0o1980i3cwfcvxnUHxL1MI/view?usp=sharing"
+        },
+        "color": "#3B2B0B"
+      },
+      {
+        "type": "text",
+        "text": ". . . . . . . . . . . . . . . . .",
+        "align": "center",
+        "color": "#F9D078",
+        "size": "xxs",
+        "margin": "xs"
+      }
+    ],
+    "flex": 0
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#F9D078"
+    },
+    "footer": {
+      "backgroundColor": "#F9D078"
+    }
+  }
+}
+            }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });          
+          
+//.............................................................................  ที่ระลึก
+
+document.getElementById('MinistryOfEducationNews').addEventListener('click',function(){
+    liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Ministry of Education News//วันจันทร์ที่ 5 เมษายน 2564",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://firebasestorage.googleapis.com/v0/b/ofarts007-b0e64.appspot.com/o/Building%2FDSC_8470.jpg?alt=media&token=10bcc045-5917-4875-9b21-7d5c8611f28e",
+    "size": "full",
+    "aspectRatio": "20:13",
+    "aspectMode": "cover"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "ข่าวกระทรวงศึกษาธิการ",
+        "weight": "bold",
+        "size": "xl",
+        "align": "center"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "วันจันทร์ที่ 5 เมษายน 2564",
+          "uri": "https://drive.google.com/file/d/1zgf4bGrfwWAsJcwJBs4lUCZkIDgutjBi/view?usp=sharing"
+        },
+        "color": "#3B2B0B"
+      },
+      {
+        "type": "text",
+        "text": ". . . . . . . . . . . . . . . . .",
+        "align": "center",
+        "color": "#F9D078",
+        "size": "xxs",
+        "margin": "xs"
+      },
+      {
+        "type": "text",
+        "text": "กลุ่มงานบริหารวิชาการ",
+        "align": "center",
+        "weight": "bold",
+        "size": "sm"
+      },
+      {
+        "type": "text",
+        "text": "โรงเรียนสุรธรรมพิทักษ์  จังหวัดนครราชสีมา",
+        "weight": "bold",
+        "align": "center",
+        "size": "sm"
+      },
+      {
+        "type": "text",
+        "text": ". . . . . . . . . . . . . . . . .",
+        "align": "center",
+        "color": "#F9D078",
+        "size": "xxs"
+      }
+    ],
+    "flex": 0
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#F9D078"
+    },
+    "footer": {
+      "backgroundColor": "#F9D078"
+    }
+  }
+}
+            }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+          
+          
+          

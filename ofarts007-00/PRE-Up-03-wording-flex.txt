@@ -1,0 +1,112 @@
+        
+// . . . . . . . . . . . . . . . . . . . . . .          
+          
+          
+ //  sticker         
+          
+//
+          document.getElementById('001textlinkweather').addEventListener('click',function(){
+            var a = prompt("โปรดใส่ข้อความ Alt ที่ต้องการ")
+            var b = prompt("โปรดใส่ size flex//giga//mega//kilo//micro/nano")
+            var c = prompt("โปรดใส่ ข้อความ") 
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": ""+a,
+    "contents": {
+      "type": "bubble",
+      "size": ""+b,
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "ssssssssss",
+            "size": "xxl"
+          },
+          {
+            "type": "text",
+            "text": ""+c,
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "start",
+            "margin": "xs",
+            "wrap": true,
+            "contents": []
+      }
+    ],
+     "backgroundColor": "#5B96CFFF"
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#5B96CFFF"
+    }
+  }
+}
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+//
+          document.getElementById('001textlinkweather').addEventListener('click',function(){
+            var a = prompt("โปรดใส่ข้อความ Alt ที่ต้องการ")
+            var b = prompt("โปรดใส่ size flex//giga//mega//kilo//micro/nano")
+            var c = prompt("โปรดใส่ ข้อความ")  
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": ""+a,
+    "contents": {
+      "type": "bubble",
+      "size": ""+b,
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "ssssssssss",
+            "size": "xxl"
+          },
+          {
+            "type": "text",
+            "text": ""+c,
+            "size": "md",
+            "align": "start",
+            "margin": "xs",
+            "wrap": true,
+            "contents": []
+      }
+    ],
+     "backgroundColor": "#xxxxxxxxxx"
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#xxxxxxxxxx"
+    }
+  }
+}
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });          
+          
+          
+          
+        
+          

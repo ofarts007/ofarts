@@ -1,0 +1,34 @@
+{
+  "line": {
+  "type": "flex",
+  "altText": "วันนี้มีอัพเดทอะไรบ้าง . . . ?",
+  "contents": {
+  "type": "bubble",
+  "size": "kilo",
+  "action": {
+    "type": "message",
+    "text": "p-weekly schedule-1/2565"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "กิจกรรมประจำสัปดาห์\nศิลปการถ่ายภาพและกราฟิก",
+        "color": "#FFFFFFFF",
+        "align": "center",
+        "wrap": true,
+        "contents": []
+      }
+    ],
+    "backgroundColor": "#1E2876FF"
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#1E2876FF"
+    }
+  }
+}
+          }
+}

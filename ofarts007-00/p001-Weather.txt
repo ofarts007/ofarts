@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+    <title>News01-กรมอุตุนิยมวิทยา</title>
+  </head>
+  <body>
+    <h1>Weather forecast</h1>
+    
+
+    
+
+คุณสามารถเลือกกดปุ่มข่าวที่คุณสนใจ แล้วเลือกส่งที่นี่เพื่ออ่านเอง หรือคุณต้องการแบ่งปันให้เพื่อนของคุณก็ได้
+**************************************************************************       
+//.................................................................................... 
+//..............................................................................  
+//..... ข่าวกรมอุตุนิยมวิทยา///
+//..... //ข่าวประจำวัน-กรมอุตุนิยมวิทยา
+<button type="button" class="btn btn-secondary" id="ข่าวประจำวัน-พยากรณ์อากาศ 24 ชั่วโมง"
+        >001-กรมอุตุนิยมวิทยา_2xxx65_พยากรณ์อากาศ_พื้นที่เสี่ยงภัยพายุฝนฟ้าคะนองและลมแรงกรรโชก 24 ชั่วโมง</button>        
+        
+//..............................................................................
+     <script>
+window.onload = function(e){
+        liff.init({liffId:'1655371726-yWkR2x3Z'},function(){
+           if (liff.isLoggedIn()) {
+           usecase();
+          ofarts();
+           }else {
+        liff.login();
+      } 
+        });
+      }
+        
+        function usecase(){
+
+//......................................................................   id007 micro
+///// 001 - 1654985163-XWYpWQqB
+/////       https://liff.line.me/1654985163-XWYpWQqB
+///// 01 -  1655371726-yWkR2x3Z
+/////       https://liff.line.me/1655371726-yWkR2x3Z
+//....................................................................................  //ข่าวประจำวัน-กรมอุตุนิยมวิทยา
+//ข่าวประจำวัน-พยากรณ์อากาศ 24 ชั่วโมง
+          document.getElementById('ข่าวประจำวัน-พยากรณ์อากาศ 24 ชั่วโมง').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "กรมอุตุนิยมวิทยา_2xxx65_พยากรณ์อากาศ_พื้นที่เสี่ยงภัยพายุฝนฟ้าคะนองและลมแรงกรรโชก 24 ชั่วโมง",
+    "contents": xxx
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+
+
+
+
+
+
+
+
+// .........................................................................          0000 
+       
+          
+          
+        } 
+       
+        
+        </script>
+    
+    
+    
+    
+<script charset="utf-8" src="https://static.line-scdn.net/liff/edge/2/sdk.js"></script>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+</body>
+</html> 

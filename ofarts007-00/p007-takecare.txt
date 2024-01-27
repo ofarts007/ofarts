@@ -1,0 +1,212 @@
+. . .
+
+
+
+    
+.........................................................................  001  TakeCare
+//
+          document.getElementById('bigtext').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Take Care//",
+    "contents": 
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//..............................................................................  005  TakeCare
+//
+          document.getElementById('bigtext').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Take Care//",
+    "contents": 
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//
+          document.getElementById('bigtext').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Take Care//",
+    "contents": 
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//
+          document.getElementById('bigtext').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Take Care//",
+    "contents": 
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//
+          document.getElementById('bigtext').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Take Care//",
+    "contents": 
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//
+          document.getElementById('bigtext').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Take Care//",
+    "contents": 
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//..............................................................................  010  TakeCare
+//
+          document.getElementById('bigtext').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Take Care//",
+    "contents": 
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//
+          document.getElementById('bigtext').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Take Care//",
+    "contents": 
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//
+          document.getElementById('bigtext').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Take Care//",
+    "contents": 
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//
+          document.getElementById('bigtext').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Take Care//",
+    "contents": 
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//
+          document.getElementById('bigtext').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Take Care//",
+    "contents": 
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//
+          document.getElementById('bigtext').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Take Care//",
+    "contents": 
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//
+          document.getElementById('bigtext').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Take Care//",
+    "contents": 
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//
+          document.getElementById('bigtext').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Take Care//",
+    "contents": 
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//
+          document.getElementById('bigtext').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Take Care//",
+    "contents": 
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//
+          document.getElementById('bigtext').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Take Care//",
+    "contents": 
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//........................................................................ Take Care///
+// .....  Take Care///  001-050    
+
+
+สาระน่ารู้ ดูแลตัวเอง//Take Care//อัพเดท-วันจันทร์ที่ 6 กันยายน 2564
+
+. . . 013-ไอเรื้อรัง เป็นเพราะอะไร เสี่ยงเป็นโรคอะไรบ้าง
+. . . 014-ปวดท้องด้านซ้ายล่าง เป็นเพราะอะไร   
+. . . 015-แพทย์เตือนสายปาร์ตี้ อย่าสนุกจนลืมระวังแอลกอฮอล์เป็นพิษ

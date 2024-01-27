@@ -1,0 +1,6365 @@
+
+
+ 
+document.getElementById('bigtext').addEventListener('click',function(){
+var x = prompt("โปรดใส่โค้ด Flex")
+x = JSON.parse(x)
+liff.shareTargetPicker([{
+"type": "flex",
+"altText": "Please open!",
+"contents": x
+]).then(function (){
+liff.closeWindow();
+   	  });
+   	       });
+//..............................................................................
+document.getElementById('bigtext').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Please open!",
+    "contents": x
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//..............................................................................
+
+          document.getElementById('bigtext').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Please open!",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+
+//..............................................................................
+           
+//..............................................................................           
+
+
+
+
+//..........................................................................001-100
+//100  //
+          document.getElementById('100').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//099  //
+          document.getElementById('099').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//098  //
+          document.getElementById('098').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//097  //
+          document.getElementById('097').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//096  //
+          document.getElementById('096').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//095  //
+          document.getElementById('095').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//094  //
+          document.getElementById('094').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//093  //
+          document.getElementById('093').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//092  //
+          document.getElementById('092').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//091  //
+          document.getElementById('091').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//090  //
+          document.getElementById('090').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//089  //
+          document.getElementById('089').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//088  //
+          document.getElementById('088').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//087  //
+          document.getElementById('087').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//086  //
+          document.getElementById('086').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//085  //
+          document.getElementById('085').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//084  //
+          document.getElementById('084').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//083  //
+          document.getElementById('083').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//082  //
+          document.getElementById('082').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//081  //
+          document.getElementById('081').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//080  //
+          document.getElementById('080').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//079  //
+          document.getElementById('079').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//078  //
+          document.getElementById('078').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//077  //
+          document.getElementById('077').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//076  //
+         document.getElementById('076').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          }); 
+//075  //
+          document.getElementById('075').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//074  //
+          document.getElementById('074').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//073  //
+          document.getElementById('073').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//072  //
+          document.getElementById('072').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//071  //
+          document.getElementById('071').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//070  //
+          document.getElementById('070').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//069  //
+          document.getElementById('069').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//068  //
+          document.getElementById('068').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//067  //
+          document.getElementById('067').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//066  //
+          document.getElementById('066').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//065  //
+          document.getElementById('065').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//064  //
+          document.getElementById('064').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//063  //
+          document.getElementById('063').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//062  //
+          document.getElementById('062').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//061  //
+          document.getElementById('061').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//060  //
+          document.getElementById('060').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//059  //
+          document.getElementById('059').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//058  //
+          document.getElementById('058').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//057  //
+          document.getElementById('057').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//056  //
+          document.getElementById('056').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//055  //
+          document.getElementById('055').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//054  //
+          document.getElementById('054').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//053  //
+          document.getElementById('053').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//052  //
+          document.getElementById('052').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//051  //
+          document.getElementById('051').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//050  //
+          document.getElementById('050').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//049  //
+          document.getElementById('049').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//048  //
+          document.getElementById('048').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//047  //
+          document.getElementById('047').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//046  //
+          document.getElementById('046').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//045  //
+          document.getElementById('045').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//044  //
+          document.getElementById('044').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//043  //
+          document.getElementById('043').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//042  //
+          document.getElementById('042').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//041  //
+          document.getElementById('041').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//040  //
+          document.getElementById('040').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//039  //
+          document.getElementById('039').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//038  //
+          document.getElementById('038').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//037  //
+          document.getElementById('037').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//036  //
+          document.getElementById('036').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//035  //
+          document.getElementById('035').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//034  //
+          document.getElementById('034').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//033  //
+          document.getElementById('033').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//032  //
+          document.getElementById('032').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//031  //
+          document.getElementById('031').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//030  //
+          document.getElementById('030').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//029  //
+          document.getElementById('029').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//028  //
+          document.getElementById('028').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//027  //
+          document.getElementById('027').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//026  //
+          document.getElementById('026').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//025  //
+          document.getElementById('025').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//024  //
+          document.getElementById('024').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//023  //
+          document.getElementById('023').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//022  //
+          document.getElementById('022').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//021  //
+          document.getElementById('021').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//020  //
+          document.getElementById('020').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//019  //
+          document.getElementById('019').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//018  //
+          document.getElementById('018').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//017  //
+          document.getElementById('017').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//016  //
+          document.getElementById('016').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//015  //
+          document.getElementById('015').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//014  //
+          document.getElementById('014').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//013  //
+          document.getElementById('013').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//012  //
+          document.getElementById('012').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//011  // 
+          document.getElementById('011').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//010  //
+          document.getElementById('010').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//009  //
+          document.getElementById('009').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//008  //
+          document.getElementById('008').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//007  //
+          document.getElementById('007').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//006  //
+          document.getElementById('006').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//005  //
+          document.getElementById('005').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//004  //
+          document.getElementById('004').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//003  //
+          document.getElementById('003').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//002  //
+          document.getElementById('002').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//001  //
+          document.getElementById('001').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+          
+          
+          
+          
+          
+//..........................................................................101-200
+//200  //
+          document.getElementById('200').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//199  //
+          document.getElementById('199').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//198  //
+          document.getElementById('198').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//197  //
+          document.getElementById('197').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//196  //
+          document.getElementById('196').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//195  //
+          document.getElementById('195').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//194  //
+          document.getElementById('194').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//193  //
+          document.getElementById('193').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//192  //
+          document.getElementById('192').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//191  //
+          document.getElementById('191').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//190  //
+          document.getElementById('190').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//189  //
+          document.getElementById('189').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//188  //
+          document.getElementById('188').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//187  //
+          document.getElementById('187').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//186  //
+          document.getElementById('186').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//185  //
+          document.getElementById('185').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//184  //
+          document.getElementById('184').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//183  //
+          document.getElementById('183').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//182  //
+          document.getElementById('182').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//181  //
+          document.getElementById('181').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//180  //
+          document.getElementById('180').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//179  //
+          document.getElementById('179').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//178  //
+          document.getElementById('178').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//177  //
+          document.getElementById('177').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//176  //
+         document.getElementById('176').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          }); 
+//175  //
+          document.getElementById('175').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//174  //
+          document.getElementById('174').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//173  //
+          document.getElementById('173').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//172  //
+          document.getElementById('172').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//171  //
+          document.getElementById('171').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//170  //
+          document.getElementById('170').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//169  //
+          document.getElementById('169').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//168  //
+          document.getElementById('168').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//167  //
+          document.getElementById('167').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//166  //
+          document.getElementById('166').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//165  //
+          document.getElementById('165').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//164  //
+          document.getElementById('164').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//163  //
+          document.getElementById('163').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//162  //
+          document.getElementById('162').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//161  //
+          document.getElementById('161').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//160  //
+          document.getElementById('160').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//159  //
+          document.getElementById('159').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//158  //
+          document.getElementById('158').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//157  //
+          document.getElementById('157').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//156  //
+          document.getElementById('156').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//155  //
+          document.getElementById('155').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//154  //
+          document.getElementById('154').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//153  //
+          document.getElementById('153').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//152  //
+          document.getElementById('152').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//151  //
+          document.getElementById('151').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//150  //
+          document.getElementById('150').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//149  //
+          document.getElementById('149').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//148  //
+          document.getElementById('148').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//147  //
+          document.getElementById('147').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//146  //
+          document.getElementById('146').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//145  //
+          document.getElementById('145').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//144  //
+          document.getElementById('144').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//143  //
+          document.getElementById('143').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//142  //
+          document.getElementById('142').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//141  //
+          document.getElementById('141').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//140  //
+          document.getElementById('140').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//139  //
+          document.getElementById('139').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//138  //
+          document.getElementById('138').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//137  //
+          document.getElementById('137').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//136  //
+          document.getElementById('136').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//135  //
+          document.getElementById('135').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//134  //
+          document.getElementById('134').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//133  //
+          document.getElementById('133').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//132  //
+          document.getElementById('132').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//131  //
+          document.getElementById('131').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//130  //
+          document.getElementById('130').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//129  //
+          document.getElementById('129').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//128  //
+          document.getElementById('128').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//127  //
+          document.getElementById('127').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//126  //
+          document.getElementById('126').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//125  //
+          document.getElementById('125').addEventListener('click',function(){
+         liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//124  //
+          document.getElementById('124').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//123  //
+          document.getElementById('123').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//122  //
+          document.getElementById('122').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//121  //
+          document.getElementById('121').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+         
+//120  //
+          document.getElementById('120').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//119  //
+          document.getElementById('119').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//118  //
+          document.getElementById('118').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//117  //
+          document.getElementById('117').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//116  //
+          document.getElementById('116').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//115  //
+          document.getElementById('115').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//114  //
+          document.getElementById('114').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//113  //
+          document.getElementById('113').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//112  //
+          document.getElementById('112').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//111  // 
+          document.getElementById('111').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//110  //
+          document.getElementById('110').addEventListener('click',function(){
+         liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//109  //
+          document.getElementById('109').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//108  //
+          document.getElementById('108').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//107  //
+          document.getElementById('107').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//106  //
+          document.getElementById('106').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//105  //
+          document.getElementById('105').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//104  //
+          document.getElementById('104').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//103  //
+          document.getElementById('103').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//102  //
+          document.getElementById('102').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//101  //
+          document.getElementById('101').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          }); 
+          
+//.....................................................................201-300
+//200  //
+          document.getElementById('200').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//199  //
+          document.getElementById('199').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//198  //
+          document.getElementById('198').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//197  //
+          document.getElementById('197').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//196  //
+          document.getElementById('196').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//195  //
+          document.getElementById('195').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//194  //
+          document.getElementById('194').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//193  //
+          document.getElementById('193').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//192  //
+          document.getElementById('192').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//191  //
+          document.getElementById('191').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//190  //
+          document.getElementById('190').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//189  //
+          document.getElementById('189').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//188  //
+          document.getElementById('188').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//187  //
+          document.getElementById('187').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//186  //
+          document.getElementById('186').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//185  //
+          document.getElementById('185').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//184  //
+          document.getElementById('184').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//183  //
+          document.getElementById('183').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//182  //
+          document.getElementById('182').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//181  //
+          document.getElementById('181').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//180  //
+          document.getElementById('180').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//179  //
+          document.getElementById('179').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//178  //
+          document.getElementById('178').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//177  //
+          document.getElementById('177').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//176  //
+         document.getElementById('176').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          }); 
+//175  //
+          document.getElementById('175').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//174  //
+          document.getElementById('174').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//173  //
+          document.getElementById('173').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//172  //
+          document.getElementById('172').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//171  //
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//170  //
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//169  //
+          document.getElementById('169').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//168  //
+          document.getElementById('168').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//167  //
+          document.getElementById('167').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//166  //
+          document.getElementById('166').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//165  //
+          document.getElementById('165').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//164  //
+          document.getElementById('164').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//163  //
+          document.getElementById('163').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//162  //
+          document.getElementById('162').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//161  //
+          document.getElementById('161').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//160  //
+          document.getElementById('160').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//159  //
+          document.getElementById('159').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//158  //
+          document.getElementById('158').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//157  //
+          document.getElementById('157').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//156  //
+          document.getElementById('156').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//155  //
+          document.getElementById('155').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//154  //
+          document.getElementById('154').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//153  //
+          document.getElementById('153').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//152  //
+          document.getElementById('152').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//151  //
+          document.getElementById('151').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//150  //
+          document.getElementById('150').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//149  //
+          document.getElementById('149').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//148  //
+          document.getElementById('148').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//147  //
+          document.getElementById('147').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//146  //
+          document.getElementById('146').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//145  //
+          document.getElementById('145').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//144  //
+          document.getElementById('144').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//143  //
+          document.getElementById('143').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//142  //
+          document.getElementById('142').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//141  //
+          document.getElementById('141').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//140  //
+          document.getElementById('140').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//139  //
+          document.getElementById('139').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//138  //
+          document.getElementById('138').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//137  //
+          document.getElementById('137').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//136  //
+          document.getElementById('136').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//135  //
+          document.getElementById('135').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//134  //
+          document.getElementById('134').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//133  //
+          document.getElementById('133').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//132  //
+          document.getElementById('132').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//131  //
+          document.getElementById('131').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//130  //
+          document.getElementById('130').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//129  //
+          document.getElementById('129').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//128  //
+          document.getElementById('128').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//127  //
+          document.getElementById('127').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//126  //
+          document.getElementById('126').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//125  //
+          document.getElementById('125').addEventListener('click',function(){
+         liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//124  //
+          document.getElementById('124').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//123  //
+          document.getElementById('123').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//122  //
+          document.getElementById('122').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//121  //
+          document.getElementById('121').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+         
+//120  //
+          document.getElementById('120').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//119  //
+          document.getElementById('119').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//118  //
+          document.getElementById('118').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//117  //
+          document.getElementById('117').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//116  //
+          document.getElementById('116').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//115  //
+          document.getElementById('115').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//114  //
+          document.getElementById('114').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//113  //
+          document.getElementById('113').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//112  //
+          document.getElementById('112').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//111  // 
+          document.getElementById('111').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//110  //
+          document.getElementById('110').addEventListener('click',function(){
+         liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//109  //
+          document.getElementById('109').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//108  //
+          document.getElementById('108').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//107  //
+          document.getElementById('107').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//106  //
+          document.getElementById('106').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//105  //
+          document.getElementById('105').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//104  //
+          document.getElementById('104').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//103  //
+          document.getElementById('103').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//102  //
+          document.getElementById('102').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//101  //
+          document.getElementById('101').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "xxxxx",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+    }
+  }
+}
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });         
+          
+          

@@ -1,0 +1,67 @@
+{
+  "line": {
+  "type": "flex",
+  "altText": "วันนี้มีอัพเดทอะไรบ้าง . . . ?",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "micro",
+      "action": {
+        "type": "message",
+        "text": "groupmeeting-2-2565"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#0012A6FF",
+        "contents": [
+          {
+            "type": "text",
+            "text": "กิจกรรมคณะ",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "contents": []
+          }
+        ]
+      },
+      "styles": {
+        "body": {
+          "backgroundColor": "#0012A6FF"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "micro",
+      "action": {
+        "type": "message",
+        "text": "Main Menu-SRN"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#0012A6FF",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สุรนารีวิทยา",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "contents": []
+          }
+        ]
+      },
+      "styles": {
+        "body": {
+          "backgroundColor": "#0012A6FF"
+        }
+      }
+    }
+  ]
+}
+          }
+}

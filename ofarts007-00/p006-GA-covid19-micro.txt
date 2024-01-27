@@ -1,0 +1,509 @@
+. . .
+
+. . .
+
+
+
+. . .
+
+อัพเดทข่าวประจำวัน-Good Afternoon-covid19//รายงานสถานการณ์ประจำวัน////วันอาทิตย์ที่ 22 พฤษภาคม 2565
+อัพเดทข่าวประจำวัน-Good Afternoon-covid19//รายงานสถานการณ์ประจำวัน////วันจันทร์ที่ 16 พฤษภาคม 2565
+อัพเดทข่าวประจำวัน-Good Afternoon-covid19//รายงานสถานการณ์ประจำวัน////วันอังคารที่ 17 พฤษภาคม 2565
+อัพเดทข่าวประจำวัน-Good Afternoon-covid19//รายงานสถานการณ์ประจำวัน////วันพุธที่ 18 พฤษภาคม 2565
+
+อัพเดทข่าวประจำวัน-Good Afternoon-covid19//รายงานสถานการณ์ประจำวัน////วันพฤหัสบดีที่ 19 พฤษภาคม 2565
+อัพเดทข่าวประจำวัน-Good Afternoon-covid19//รายงานสถานการณ์ประจำวัน////วันศุกร์ที่ 20 พฤษภาคม 2565
+อัพเดทข่าวประจำวัน-Good Afternoon-covid19//รายงานสถานการณ์ประจำวัน////วันเสาร์ที่ 21 พฤษภาคม 2565
+
+
+
+//..... ข่าวประจำวัน-covid19//
+<button type="button" class="btn btn-info" id="ข่าวcovid19-1">001-ข่าวประจำวัน-Good Afternoon-covid19-1//วันอาทิตย์ที่ 5 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-2">002-ข่าวประจำวัน-Good Afternoon-covid19-2//วันอาทิตย์ที่ 5 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-3">003-ข่าวประจำวัน-Good Afternoon-covid19-3//วันอาทิตย์ที่ 5 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-4">004-ข่าวประจำวัน-Good Afternoon-covid19-4//วันอาทิตย์ที่ 5 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-5">005-ข่าวประจำวัน-Good Afternoon-covid19-5//วันอาทิตย์ที่ 5 มิถุนายน 2565</button>
+
+
+//..... ข่าวประจำวัน-covid19//
+<button type="button" class="btn btn-info" id="ข่าวcovid19-1">001-ข่าวประจำวัน-Good Afternoon-covid19-1//วันจันทร์ที่ 6 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-2">002-ข่าวประจำวัน-Good Afternoon-covid19-2//วันจันทร์ที่ 6 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-3">003-ข่าวประจำวัน-Good Afternoon-covid19-3//วันจันทร์ที่ 6 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-4">004-ข่าวประจำวัน-Good Afternoon-covid19-4//วันจันทร์ที่ 6 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-5">005-ข่าวประจำวัน-Good Afternoon-covid19-5//วันจันทร์ที่ 6 มิถุนายน 2565</button>
+
+
+//..... ข่าวประจำวัน-covid19//
+<button type="button" class="btn btn-info" id="ข่าวcovid19-1">001-ข่าวประจำวัน-Good Afternoon-covid19-1//วันอังคารที่ 7 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-2">002-ข่าวประจำวัน-Good Afternoon-covid19-2//วันอังคารที่ 7 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-3">003-ข่าวประจำวัน-Good Afternoon-covid19-3//วันอังคารที่ 7 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-4">004-ข่าวประจำวัน-Good Afternoon-covid19-4//วันอังคารที่ 7 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-5">005-ข่าวประจำวัน-Good Afternoon-covid19-5//วันอังคารที่ 7 มิถุนายน 2565</button>
+
+
+
+//..... ข่าวประจำวัน-covid19//
+<button type="button" class="btn btn-info" id="ข่าวcovid19-1">001-ข่าวประจำวัน-Good Afternoon-covid19-1//วันพุธที่ 1 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-2">002-ข่าวประจำวัน-Good Afternoon-covid19-2//วันพุธที่ 1 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-3">003-ข่าวประจำวัน-Good Afternoon-covid19-3//วันพุธที่ 1 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-4">004-ข่าวประจำวัน-Good Afternoon-covid19-4//วันพุธที่ 1 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-5">005-ข่าวประจำวัน-Good Afternoon-covid19-5//วันพุธที่ 1 มิถุนายน 2565</button>
+
+
+//..... ข่าวประจำวัน-covid19//
+<button type="button" class="btn btn-info" id="ข่าวcovid19-1">001-ข่าวประจำวัน-Good Afternoon-covid19-1//วันพฤหัสบดีที่ 2 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-2">002-ข่าวประจำวัน-Good Afternoon-covid19-2//วันพฤหัสบดีที่ 2 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-3">003-ข่าวประจำวัน-Good Afternoon-covid19-3//วันพฤหัสบดีที่ 2 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-4">004-ข่าวประจำวัน-Good Afternoon-covid19-4//วันพฤหัสบดีที่ 2 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-5">005-ข่าวประจำวัน-Good Afternoon-covid19-5//วันพฤหัสบดีที่ 2 มิถุนายน 2565</button>
+
+
+
+//..... ข่าวประจำวัน-covid19//
+<button type="button" class="btn btn-info" id="ข่าวcovid19-1">001-ข่าวประจำวัน-Good Afternoon-covid19-1//วันศุกร์ที่ 3 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-2">002-ข่าวประจำวัน-Good Afternoon-covid19-2//วันศุกร์ที่ 3 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-3">003-ข่าวประจำวัน-Good Afternoon-covid19-3//วันศุกร์ที่ 3 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-4">004-ข่าวประจำวัน-Good Afternoon-covid19-4//วันศุกร์ที่ 3 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-5">005-ข่าวประจำวัน-Good Afternoon-covid19-5//วันศุกร์ที่ 3 มิถุนายน 2565</button>
+
+
+//..... ข่าวประจำวัน-covid19//
+<button type="button" class="btn btn-info" id="ข่าวcovid19-1">001-ข่าวประจำวัน-Good Afternoon-covid19-1//วันเสาร์ที่ 4 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-2">002-ข่าวประจำวัน-Good Afternoon-covid19-2//วันเสาร์ที่ 4 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-3">003-ข่าวประจำวัน-Good Afternoon-covid19-3//วันเสาร์ที่ 4 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-4">004-ข่าวประจำวัน-Good Afternoon-covid19-4//วันเสาร์ที่ 4 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-5">005-ข่าวประจำวัน-Good Afternoon-covid19-5//วันเสาร์ที่ 4 มิถุนายน 2565</button>
+
+
+
+คุณสามารถเลือกกดปุ่มข่าวที่คุณสนใจ แล้วเลือกส่งที่นี่เพื่ออ่านเอง หรือคุณต้องการแบ่งปันให้เพื่อนของคุณก็ได้
+//.........................................................................
+//..... ข่าวประจำวัน-covid19//
+<button type="button" class="btn btn-info" id="ข่าวcovid19-1">001-ข่าวประจำวัน-Good Afternoon-covid19-1//วันศุกร์ที่ 3 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-2">002-ข่าวประจำวัน-Good Afternoon-covid19-2//วันศุกร์ที่ 3 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-3">003-ข่าวประจำวัน-Good Afternoon-covid19-3//วันศุกร์ที่ 3 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-4">004-ข่าวประจำวัน-Good Afternoon-covid19-4//วันศุกร์ที่ 3 มิถุนายน 2565</button>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<button type="button" class="btn btn-info" id="ข่าวcovid19-5">005-ข่าวประจำวัน-Good Afternoon-covid19-5//วันศุกร์ที่ 3 มิถุนายน 2565</button>
+
+
+
+     <script> 
+window.onload = function(e){
+        liff.init({liffId:'1654985163-RYKDB9aq'},function(){
+           if (liff.isLoggedIn()) {
+           usecase();
+          ofarts();
+           }else {
+        liff.login();
+      }
+        });
+      }
+        
+        function usecase(){
+
+// ........................................................................... id007  micro
+///// 006 - 1654985163-RYKDB9aq
+/////       https://liff.line.me/1654985163-RYKDB9aq
+///// 06 -  1655371726-lNJkOD79
+/////       https://liff.line.me/1655371726-lNJkOD79
+// ........................................................................... 
+//.................................................................................  micro               
+//ข่าวcovid19-5
+          document.getElementById('ข่าวcovid19-5').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Good Afternoon-covid19-5///วันศุกร์ที่ 3 มิถุนายน 2565",
+    "contents": 
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });          
+//ข่าวcovid19-4
+          document.getElementById('ข่าวcovid19-4').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Good Afternoon-covid19-4///วันศุกร์ที่ 3 มิถุนายน 2565",
+    "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+        xxx
+        }
+      }
+    },
+    {
+      "type": "bubble",
+  "size": "micro",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "\n\n - share -\nGood Afternoon\ncovid-19",
+        "weight": "bold",
+        "size": "md",
+        "align": "center",
+        "wrap": true,
+        "action": {
+          "type": "uri",
+          "uri": "line://app/1655371726-lNJkOD79"
+        },
+        "contents": []
+      },
+      {
+        "type": "text",
+        "text": "\n\n- click -\nกระดานดำออนไลน์",
+        "weight": "bold",
+        "size": "md",
+        "align": "center",
+        "wrap": true,
+        "action": {
+          "type": "uri",
+          "uri": "https://lin.ee/5RwzOK7"
+        },
+        "contents": []
+      }
+    ],
+    "backgroundColor": "#CFD1D2FF"
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#CFD1D2FF"
+        }
+      }
+    }
+  ]
+}
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });          
+//ข่าวcovid19-3
+          document.getElementById('ข่าวcovid19-3').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Good Afternoon-covid19-3//วันศุกร์ที่ 3 มิถุนายน 2565",
+    "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+        xxx
+        }
+      }
+    },
+    {
+      "type": "bubble",
+  "size": "micro",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "\n - share -\nGood Afternoon\ncovid-19",
+        "weight": "bold",
+        "size": "md",
+        "align": "center",
+        "wrap": true,
+        "action": {
+          "type": "uri",
+          "uri": "line://app/1655371726-lNJkOD79"
+        },
+        "contents": []
+      },
+      {
+        "type": "text",
+        "text": "\n\n- click -\nกระดานดำออนไลน์",
+        "weight": "bold",
+        "size": "md",
+        "align": "center",
+        "wrap": true,
+        "action": {
+          "type": "uri",
+          "uri": "https://lin.ee/5RwzOK7"
+        },
+        "contents": []
+      }
+    ],
+    "backgroundColor": "#CFD1D2FF"
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#CFD1D2FF"
+        }
+      }
+    }
+  ]
+}
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });          
+//ข่าวcovid19-2
+          document.getElementById('ข่าวcovid19-2').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Good Afternoon-covid19-2///วันศุกร์ที่ 3 มิถุนายน เมษายน 2565",
+    "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+        xxx
+        }
+      }
+    },
+    {
+      "type": "bubble",
+  "size": "micro",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "\n - share -\nGood Afternoon\ncovid-19",
+        "weight": "bold",
+        "size": "sm",
+        "align": "center",
+        "wrap": true,
+        "action": {
+          "type": "uri",
+          "uri": "line://app/1655371726-lNJkOD79"
+        },
+        "contents": []
+      },
+      {
+        "type": "text",
+        "text": "\n- click -\nกระดานดำออนไลน์",
+        "weight": "bold",
+        "size": "sm",
+        "align": "center",
+        "wrap": true,
+        "action": {
+          "type": "uri",
+          "uri": "https://lin.ee/5RwzOK7"
+        },
+        "contents": []
+      }
+    ],
+    "backgroundColor": "#CFD1D2FF"
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#CFD1D2FF"
+        }
+      }
+    }
+  ]
+}
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//ข่าวcovid19-1
+          document.getElementById('ข่าวcovid19-1').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Good Afternoon-covid19-1//วันพฤหัสบดีที่ 2 มิถุนายน 2565",
+    "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+        xxx
+        }
+      }
+    },
+    {
+      "type": "bubble",
+  "size": "micro",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "\n - share -\nGood Afternoon\ncovid-19",
+        "weight": "bold",
+        "size": "sm",
+        "align": "center",
+        "wrap": true,
+        "action": {
+          "type": "uri",
+          "uri": "line://app/1655371726-lNJkOD79"
+        },
+        "contents": []
+      },
+      {
+        "type": "text",
+        "text": "\n- click -\nกระดานดำออนไลน์",
+        "weight": "bold",
+        "size": "sm",
+        "align": "center",
+        "wrap": true,
+        "action": {
+          "type": "uri",
+          "uri": "https://lin.ee/5RwzOK7"
+        },
+        "contents": []
+      }
+    ],
+    "backgroundColor": "#CFD1D2FF"
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#CFD1D2FF"
+        }
+      }
+    }
+  ]
+}
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+
+          
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          
+
+
+00000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+          
+          
+//ข่าวcovid19-5
+          document.getElementById('ข่าวcovid19-5').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Good Afternoon-covid19-5//วันจันทร์ที่ 27 กันยายน 2564",
+    "contents": 
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });          
+//ข่าวcovid19-4
+          document.getElementById('ข่าวcovid19-4').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Good Afternoon-covid19-4//วันจันทร์ที่ 27 กันยายน 2564",
+    "contents": 
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });          
+//ข่าวcovid19-3
+          document.getElementById('ข่าวcovid19-3').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Good Afternoon-covid19-3//วันจันทร์ที่ 27 กันยายน 2564",
+    "contents": 
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });          
+//ข่าวcovid19-2
+          document.getElementById('ข่าวcovid19-2').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Good Afternoon-covid19-2//วันจันทร์ที่ 27 กันยายน 2564",
+    "contents": 
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+//ข่าวcovid19-1
+          document.getElementById('ข่าวcovid19-1').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Good Afternoon-covid19-1//วันจันทร์ที่ 27 กันยายน 2564",
+    "contents": 
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+          

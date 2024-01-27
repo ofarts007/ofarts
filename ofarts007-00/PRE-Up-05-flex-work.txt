@@ -1,0 +1,445 @@
+// black
+
+
+
+
+
+            var a = prompt("โปรดใส่ข้อความ Alt ที่ต้องการ")
+            var b = prompt("โปรดใส่ size flex//giga//mega//kilo//micro/nano")
+            var c = prompt("โปรดใส่ ข้อความ")  
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": ""+a,
+    "contents": {
+      "type": "bubble",
+      "size": ""+b,
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "ssssssssss",
+            "size": "xxl"
+          },
+          {
+            "type": "text",
+            "text": ""+c,
+            "size": "md",
+            "align": "start",
+            "margin": "xs",
+            "wrap": true,
+            "contents": []
+      }
+    ],
+     "backgroundColor": "#xxxxxxxxxx"
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#xxxxxxxxxx"
+    }
+  }
+}
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+          
+          
+          
+          
+          
+//white          
+          
+          
+          
+            var a = prompt("โปรดใส่ข้อความ Alt ที่ต้องการ")
+            var b = prompt("โปรดใส่ size flex//giga//mega//kilo//micro/nano")
+            var c = prompt("โปรดใส่ ข้อความ") 
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": ""+a,
+    "contents": {
+      "type": "bubble",
+      "size": ""+b,
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "ssssssssss",
+            "size": "xxl"
+          },
+          {
+            "type": "text",
+            "text": ""+c,
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "start",
+            "margin": "xs",
+            "wrap": true,
+            "contents": []
+      }
+    ],
+     "backgroundColor": "#xxxxxxxxxx"
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#xxxxxxxxxx"
+    }
+  }
+}
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+          
+//  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    00000          
+          
+document.getElementById('1000wording').addEventListener('click',function(){          
+document.getElementById('999wording').addEventListener('click',function(){
+document.getElementById('998wording').addEventListener('click',function(){
+document.getElementById('997wording').addEventListener('click',function(){
+document.getElementById('996wording').addEventListener('click',function(){
+document.getElementById('995wording').addEventListener('click',function(){
+document.getElementById('994wording').addEventListener('click',function(){
+document.getElementById('993wording').addEventListener('click',function(){
+document.getElementById('992wording').addEventListener('click',function(){
+document.getElementById('991wording').addEventListener('click',function(){
+document.getElementById('990wording').addEventListener('click',function(){
+document.getElementById('989wording').addEventListener('click',function(){
+document.getElementById('988wording').addEventListener('click',function(){
+document.getElementById('987wording').addEventListener('click',function(){
+document.getElementById('986wording').addEventListener('click',function(){
+document.getElementById('985wording').addEventListener('click',function(){
+document.getElementById('984wording').addEventListener('click',function(){
+document.getElementById('983wording').addEventListener('click',function(){
+document.getElementById('982wording').addEventListener('click',function(){
+document.getElementById('981wording').addEventListener('click',function(){
+document.getElementById('980wording').addEventListener('click',function(){
+document.getElementById('979wording').addEventListener('click',function(){
+document.getElementById('978wording').addEventListener('click',function(){
+document.getElementById('977wording').addEventListener('click',function(){
+document.getElementById('976wording').addEventListener('click',function(){
+document.getElementById('975wording').addEventListener('click',function(){
+document.getElementById('974wording').addEventListener('click',function(){
+document.getElementById('973wording').addEventListener('click',function(){
+document.getElementById('972wording').addEventListener('click',function(){
+document.getElementById('971wording').addEventListener('click',function(){
+document.getElementById('970wording').addEventListener('click',function(){
+document.getElementById('969wording').addEventListener('click',function(){
+document.getElementById('968wording').addEventListener('click',function(){
+document.getElementById('967wording').addEventListener('click',function(){
+document.getElementById('966wording').addEventListener('click',function(){
+document.getElementById('965wording').addEventListener('click',function(){
+document.getElementById('964wording').addEventListener('click',function(){
+document.getElementById('963wording').addEventListener('click',function(){
+document.getElementById('962wording').addEventListener('click',function(){
+document.getElementById('961wording').addEventListener('click',function(){
+document.getElementById('960wording').addEventListener('click',function(){
+document.getElementById('959wording').addEventListener('click',function(){
+document.getElementById('958wording').addEventListener('click',function(){
+document.getElementById('957wording').addEventListener('click',function(){
+document.getElementById('956wording').addEventListener('click',function(){
+document.getElementById('955wording').addEventListener('click',function(){
+document.getElementById('954wording').addEventListener('click',function(){
+document.getElementById('953wording').addEventListener('click',function(){
+document.getElementById('952wording').addEventListener('click',function(){
+document.getElementById('951wording').addEventListener('click',function(){
+document.getElementById('950wording').addEventListener('click',function(){
+document.getElementById('949wording').addEventListener('click',function(){
+document.getElementById('948wording').addEventListener('click',function(){
+document.getElementById('947wording').addEventListener('click',function(){
+document.getElementById('946wording').addEventListener('click',function(){
+document.getElementById('945wording').addEventListener('click',function(){
+document.getElementById('944wording').addEventListener('click',function(){
+document.getElementById('943wording').addEventListener('click',function(){
+document.getElementById('942wording').addEventListener('click',function(){
+document.getElementById('941wording').addEventListener('click',function(){
+document.getElementById('940wording').addEventListener('click',function(){
+document.getElementById('939wording').addEventListener('click',function(){
+document.getElementById('938wording').addEventListener('click',function(){
+document.getElementById('937wording').addEventListener('click',function(){
+document.getElementById('936wording').addEventListener('click',function(){
+document.getElementById('935wording').addEventListener('click',function(){
+document.getElementById('934wording').addEventListener('click',function(){
+document.getElementById('933wording').addEventListener('click',function(){
+document.getElementById('932wording').addEventListener('click',function(){
+document.getElementById('931wording').addEventListener('click',function(){
+document.getElementById('930wording').addEventListener('click',function(){
+document.getElementById('929wording').addEventListener('click',function(){
+document.getElementById('928wording').addEventListener('click',function(){
+document.getElementById('927wording').addEventListener('click',function(){
+document.getElementById('926wording').addEventListener('click',function(){
+document.getElementById('925wording').addEventListener('click',function(){
+document.getElementById('924wording').addEventListener('click',function(){
+document.getElementById('923wording').addEventListener('click',function(){
+document.getElementById('922wording').addEventListener('click',function(){
+document.getElementById('921wording').addEventListener('click',function(){
+document.getElementById('920wording').addEventListener('click',function(){
+document.getElementById('919wording').addEventListener('click',function(){
+document.getElementById('918wording').addEventListener('click',function(){
+document.getElementById('917wording').addEventListener('click',function(){
+document.getElementById('916wording').addEventListener('click',function(){
+document.getElementById('915wording').addEventListener('click',function(){
+document.getElementById('914wording').addEventListener('click',function(){
+document.getElementById('913wording').addEventListener('click',function(){
+document.getElementById('912wording').addEventListener('click',function(){
+document.getElementById('911wording').addEventListener('click',function(){
+document.getElementById('910wording').addEventListener('click',function(){
+document.getElementById('909wording').addEventListener('click',function(){
+document.getElementById('908wording').addEventListener('click',function(){
+document.getElementById('907wording').addEventListener('click',function(){
+document.getElementById('906wording').addEventListener('click',function(){
+document.getElementById('905wording').addEventListener('click',function(){
+document.getElementById('904wording').addEventListener('click',function(){
+document.getElementById('903wording').addEventListener('click',function(){
+document.getElementById('902wording').addEventListener('click',function(){
+document.getElementById('901wording').addEventListener('click',function(){
+document.getElementById('900wording').addEventListener('click',function(){
+document.getElementById('899wording').addEventListener('click',function(){
+document.getElementById('898wording').addEventListener('click',function(){
+document.getElementById('897wording').addEventListener('click',function(){
+document.getElementById('896wording').addEventListener('click',function(){
+document.getElementById('895wording').addEventListener('click',function(){
+document.getElementById('894wording').addEventListener('click',function(){
+document.getElementById('893wording').addEventListener('click',function(){
+document.getElementById('892wording').addEventListener('click',function(){
+document.getElementById('891wording').addEventListener('click',function(){
+document.getElementById('890wording').addEventListener('click',function(){
+document.getElementById('889wording').addEventListener('click',function(){
+document.getElementById('888wording').addEventListener('click',function(){
+document.getElementById('887wording').addEventListener('click',function(){
+document.getElementById('886wording').addEventListener('click',function(){
+document.getElementById('885wording').addEventListener('click',function(){
+document.getElementById('884wording').addEventListener('click',function(){
+document.getElementById('883wording').addEventListener('click',function(){
+document.getElementById('882wording').addEventListener('click',function(){
+document.getElementById('881wording').addEventListener('click',function(){
+document.getElementById('880wording').addEventListener('click',function(){
+document.getElementById('879wording').addEventListener('click',function(){
+document.getElementById('878wording').addEventListener('click',function(){
+document.getElementById('877wording').addEventListener('click',function(){
+document.getElementById('876wording').addEventListener('click',function(){
+document.getElementById('875wording').addEventListener('click',function(){
+document.getElementById('874wording').addEventListener('click',function(){
+document.getElementById('873wording').addEventListener('click',function(){
+document.getElementById('872wording').addEventListener('click',function(){
+document.getElementById('871wording').addEventListener('click',function(){
+document.getElementById('870wording').addEventListener('click',function(){
+document.getElementById('869wording').addEventListener('click',function(){
+document.getElementById('868wording').addEventListener('click',function(){
+document.getElementById('867wording').addEventListener('click',function(){
+document.getElementById('866wording').addEventListener('click',function(){
+document.getElementById('865wording').addEventListener('click',function(){
+document.getElementById('864wording').addEventListener('click',function(){
+document.getElementById('863wording').addEventListener('click',function(){
+document.getElementById('862wording').addEventListener('click',function(){
+document.getElementById('861wording').addEventListener('click',function(){
+document.getElementById('860wording').addEventListener('click',function(){
+document.getElementById('859wording').addEventListener('click',function(){
+document.getElementById('858wording').addEventListener('click',function(){
+document.getElementById('857wording').addEventListener('click',function(){
+document.getElementById('856wording').addEventListener('click',function(){
+document.getElementById('855wording').addEventListener('click',function(){
+document.getElementById('854wording').addEventListener('click',function(){
+document.getElementById('853wording').addEventListener('click',function(){
+document.getElementById('852wording').addEventListener('click',function(){
+document.getElementById('851wording').addEventListener('click',function(){
+document.getElementById('850wording').addEventListener('click',function(){
+document.getElementById('849wording').addEventListener('click',function(){
+document.getElementById('848wording').addEventListener('click',function(){
+document.getElementById('847wording').addEventListener('click',function(){
+document.getElementById('846wording').addEventListener('click',function(){
+document.getElementById('845wording').addEventListener('click',function(){
+document.getElementById('844wording').addEventListener('click',function(){
+document.getElementById('843wording').addEventListener('click',function(){
+document.getElementById('842wording').addEventListener('click',function(){
+document.getElementById('841wording').addEventListener('click',function(){
+document.getElementById('840wording').addEventListener('click',function(){
+document.getElementById('839wording').addEventListener('click',function(){
+document.getElementById('838wording').addEventListener('click',function(){
+document.getElementById('837wording').addEventListener('click',function(){
+document.getElementById('836wording').addEventListener('click',function(){
+document.getElementById('835wording').addEventListener('click',function(){
+document.getElementById('834wording').addEventListener('click',function(){
+document.getElementById('833wording').addEventListener('click',function(){
+document.getElementById('832wording').addEventListener('click',function(){
+document.getElementById('831wording').addEventListener('click',function(){
+document.getElementById('830wording').addEventListener('click',function(){
+document.getElementById('829wording').addEventListener('click',function(){
+document.getElementById('828wording').addEventListener('click',function(){
+document.getElementById('827wording').addEventListener('click',function(){
+document.getElementById('826wording').addEventListener('click',function(){
+document.getElementById('825wording').addEventListener('click',function(){
+document.getElementById('824wording').addEventListener('click',function(){
+document.getElementById('823wording').addEventListener('click',function(){
+document.getElementById('822wording').addEventListener('click',function(){
+document.getElementById('821wording').addEventListener('click',function(){
+document.getElementById('820wording').addEventListener('click',function(){
+document.getElementById('819wording').addEventListener('click',function(){
+document.getElementById('818wording').addEventListener('click',function(){
+document.getElementById('817wording').addEventListener('click',function(){
+document.getElementById('816wording').addEventListener('click',function(){
+document.getElementById('815wording').addEventListener('click',function(){
+document.getElementById('814wording').addEventListener('click',function(){
+document.getElementById('813wording').addEventListener('click',function(){
+document.getElementById('812wording').addEventListener('click',function(){
+document.getElementById('811wording').addEventListener('click',function(){
+document.getElementById('810wording').addEventListener('click',function(){
+document.getElementById('809wording').addEventListener('click',function(){
+document.getElementById('808wording').addEventListener('click',function(){
+document.getElementById('807wording').addEventListener('click',function(){
+document.getElementById('806wording').addEventListener('click',function(){
+document.getElementById('805wording').addEventListener('click',function(){
+document.getElementById('804wording').addEventListener('click',function(){
+document.getElementById('803wording').addEventListener('click',function(){
+document.getElementById('802wording').addEventListener('click',function(){
+document.getElementById('801wording').addEventListener('click',function(){
+document.getElementById('800wording').addEventListener('click',function(){
+document.getElementById('799wording').addEventListener('click',function(){
+document.getElementById('798wording').addEventListener('click',function(){
+document.getElementById('797wording').addEventListener('click',function(){
+document.getElementById('796wording').addEventListener('click',function(){
+document.getElementById('795wording').addEventListener('click',function(){
+document.getElementById('794wording').addEventListener('click',function(){
+document.getElementById('793wording').addEventListener('click',function(){
+document.getElementById('792wording').addEventListener('click',function(){
+document.getElementById('791wording').addEventListener('click',function(){
+document.getElementById('790wording').addEventListener('click',function(){
+document.getElementById('789wording').addEventListener('click',function(){
+document.getElementById('788wording').addEventListener('click',function(){
+document.getElementById('787wording').addEventListener('click',function(){
+document.getElementById('786wording').addEventListener('click',function(){
+document.getElementById('785wording').addEventListener('click',function(){
+document.getElementById('784wording').addEventListener('click',function(){
+document.getElementById('783wording').addEventListener('click',function(){
+document.getElementById('782wording').addEventListener('click',function(){
+document.getElementById('781wording').addEventListener('click',function(){
+document.getElementById('780wording').addEventListener('click',function(){
+document.getElementById('779wording').addEventListener('click',function(){
+document.getElementById('778wording').addEventListener('click',function(){
+document.getElementById('777wording').addEventListener('click',function(){
+document.getElementById('776wording').addEventListener('click',function(){
+document.getElementById('775wording').addEventListener('click',function(){
+document.getElementById('774wording').addEventListener('click',function(){
+document.getElementById('773wording').addEventListener('click',function(){
+document.getElementById('772wording').addEventListener('click',function(){
+document.getElementById('771wording').addEventListener('click',function(){
+document.getElementById('770wording').addEventListener('click',function(){
+document.getElementById('769wording').addEventListener('click',function(){
+document.getElementById('768wording').addEventListener('click',function(){
+document.getElementById('767wording').addEventListener('click',function(){
+document.getElementById('766wording').addEventListener('click',function(){
+document.getElementById('765wording').addEventListener('click',function(){
+document.getElementById('764wording').addEventListener('click',function(){
+document.getElementById('763wording').addEventListener('click',function(){
+document.getElementById('762wording').addEventListener('click',function(){
+document.getElementById('761wording').addEventListener('click',function(){
+document.getElementById('760wording').addEventListener('click',function(){
+document.getElementById('759wording').addEventListener('click',function(){
+document.getElementById('758wording').addEventListener('click',function(){
+document.getElementById('757wording').addEventListener('click',function(){
+document.getElementById('756wording').addEventListener('click',function(){
+document.getElementById('755wording').addEventListener('click',function(){
+document.getElementById('754wording').addEventListener('click',function(){
+document.getElementById('753wording').addEventListener('click',function(){
+document.getElementById('752wording').addEventListener('click',function(){
+document.getElementById('751wording').addEventListener('click',function(){
+document.getElementById('750wording').addEventListener('click',function(){
+document.getElementById('749wording').addEventListener('click',function(){
+document.getElementById('748wording').addEventListener('click',function(){
+document.getElementById('747wording').addEventListener('click',function(){
+document.getElementById('746wording').addEventListener('click',function(){
+document.getElementById('745wording').addEventListener('click',function(){
+document.getElementById('744wording').addEventListener('click',function(){
+document.getElementById('743wording').addEventListener('click',function(){
+document.getElementById('742wording').addEventListener('click',function(){
+document.getElementById('741wording').addEventListener('click',function(){
+document.getElementById('740wording').addEventListener('click',function(){
+document.getElementById('739wording').addEventListener('click',function(){
+document.getElementById('738wording').addEventListener('click',function(){
+document.getElementById('737wording').addEventListener('click',function(){
+document.getElementById('736wording').addEventListener('click',function(){
+document.getElementById('735wording').addEventListener('click',function(){
+document.getElementById('734wording').addEventListener('click',function(){
+document.getElementById('733wording').addEventListener('click',function(){
+document.getElementById('732wording').addEventListener('click',function(){
+document.getElementById('731wording').addEventListener('click',function(){
+document.getElementById('730wording').addEventListener('click',function(){
+document.getElementById('729wording').addEventListener('click',function(){
+document.getElementById('728wording').addEventListener('click',function(){
+document.getElementById('727wording').addEventListener('click',function(){
+document.getElementById('726wording').addEventListener('click',function(){
+document.getElementById('725wording').addEventListener('click',function(){
+document.getElementById('724wording').addEventListener('click',function(){
+document.getElementById('723wording').addEventListener('click',function(){
+document.getElementById('722wording').addEventListener('click',function(){
+document.getElementById('721wording').addEventListener('click',function(){
+document.getElementById('720wording').addEventListener('click',function(){
+document.getElementById('719wording').addEventListener('click',function(){
+document.getElementById('718wording').addEventListener('click',function(){
+document.getElementById('717wording').addEventListener('click',function(){
+document.getElementById('716wording').addEventListener('click',function(){
+document.getElementById('715wording').addEventListener('click',function(){
+document.getElementById('714wording').addEventListener('click',function(){
+document.getElementById('713wording').addEventListener('click',function(){
+document.getElementById('712wording').addEventListener('click',function(){
+document.getElementById('711wording').addEventListener('click',function(){
+document.getElementById('710wording').addEventListener('click',function(){
+document.getElementById('709wording').addEventListener('click',function(){
+document.getElementById('708wording').addEventListener('click',function(){
+document.getElementById('707wording').addEventListener('click',function(){
+document.getElementById('706wording').addEventListener('click',function(){
+document.getElementById('705wording').addEventListener('click',function(){
+document.getElementById('704wording').addEventListener('click',function(){
+document.getElementById('703wording').addEventListener('click',function(){
+document.getElementById('702wording').addEventListener('click',function(){
+document.getElementById('701wording').addEventListener('click',function(){
+document.getElementById('700wording').addEventListener('click',function(){
+document.getElementById('699wording').addEventListener('click',function(){
+document.getElementById('698wording').addEventListener('click',function(){
+document.getElementById('697wording').addEventListener('click',function(){
+document.getElementById('696wording').addEventListener('click',function(){
+document.getElementById('695wording').addEventListener('click',function(){
+document.getElementById('694wording').addEventListener('click',function(){
+document.getElementById('693wording').addEventListener('click',function(){
+document.getElementById('692wording').addEventListener('click',function(){
+document.getElementById('691wording').addEventListener('click',function(){
+document.getElementById('690wording').addEventListener('click',function(){
+document.getElementById('689wording').addEventListener('click',function(){
+document.getElementById('688wording').addEventListener('click',function(){
+document.getElementById('687wording').addEventListener('click',function(){
+document.getElementById('686wording').addEventListener('click',function(){
+document.getElementById('685wording').addEventListener('click',function(){
+document.getElementById('684wording').addEventListener('click',function(){
+document.getElementById('683wording').addEventListener('click',function(){
+document.getElementById('682wording').addEventListener('click',function(){
+document.getElementById('681wording').addEventListener('click',function(){
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+          
+          
+00000          
+

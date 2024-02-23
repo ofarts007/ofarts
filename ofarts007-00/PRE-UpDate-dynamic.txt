@@ -10151,19 +10151,7 @@
 
  +result[0][]
 
-
-
-+result[0][]
-
-{
-  "type": "flex",
-  "altText": "วันนี้มีอัพเดทอะไรบ้าง . . . ?",
-  "contents": 
-}
-
- +result[0][]
-
-
+aaa
 
 +result[0][]  007
 
@@ -10572,6 +10560,9 @@
       "styles": {
         "body": {
           "backgroundColor": "#87DCDEFF"
+        }
+      }
+    },
     {
       "type": "bubble",
       "size": "mega",
@@ -10770,7 +10761,7 @@
       "styles": {
         "body": {
           "backgroundColor": "#87DCDEFF"
-        }
+}
       }
     },
     {
@@ -10837,7 +10828,7 @@
       "styles": {
         "body": {
           "backgroundColor": "#87DCDEFF"
-        }
+}
       }
     },
     {
@@ -10904,7 +10895,7 @@
       "styles": {
         "body": {
           "backgroundColor": "#87DCDEFF"
-        }
+}
       }
     },
     {
@@ -10977,14 +10968,6 @@
   ]
 }
 }
-
- +result[0][]   007
-
-
------------------------------------- aaa
-
-
-
 
 
 bbb

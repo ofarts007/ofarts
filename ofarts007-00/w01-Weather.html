@@ -8,25 +8,26 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title>News01-กรมอุตุนิยมวิทยา</title>
+  <title>News01-กรมอุตุนิยมวิทยา</title>
   </head>
   <body>
-    <h1>Weather forecast</h1>
-    
+  <h1>Weather forecast</h1>
 
-    
 
 คุณสามารถเลือกกดปุ่มข่าวที่คุณสนใจ แล้วเลือกส่งที่นี่เพื่ออ่านเอง หรือคุณต้องการแบ่งปันให้เพื่อนของคุณก็ได้
 **************************************************************************       
 //.................................................................................... 
 //..............................................................................  
 //..... ข่าวกรมอุตุนิยมวิทยา///
-//..... //ข่าวประจำวัน-กรมอุตุนิยมวิทยา
-<button type="button" class="btn btn-secondary" id="ข่าวประจำวัน-พยากรณ์อากาศ 24 ชั่วโมง"
-        >001-กรมอุตุนิยมวิทยา_17-18 มี.ค. 2567  เวลา 18:00 น._พยากรณ์อากาศ_พื้นที่เสี่ยงภัยพายุฝนฟ้าคะนองและลมแรงกรรโชก 24 ชั่วโมง</button>        
 // . . . . พยากรณ์อากาศประจำวัน
-<button type="button" class="btn btn-warning" id="1800พยากรณ์อากาศประจำวัน">002-พยากรณ์อากาศสำหรับประเทศไทย ตั้งแต่เวลา 18:00 วันนี้ ถึง 18:00 วันพรุ่งนี้ 17-18 มี.ค. 2567</button>
-        
+<button type="button" class="btn btn-warning" id="1800พยากรณ์อากาศประจำวัน">002-พยากรณ์อากาศสำหรับประเทศไทย ตั้งแต่เวลา เวลา 23:00 น. วันนี้ ถึง เวลา 23:00 น. วันพรุ่งนี้ 18-19 มี.ค. 2567</button>    
+    
+    
+    
+
+    
+    
+    
 //..............................................................................
      <script>
 window.onload = function(e){
@@ -48,7 +49,7 @@ window.onload = function(e){
           document.getElementById('1800พยากรณ์อากาศประจำวัน').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "002-พยากรณ์อากาศสำหรับประเทศไทย ตั้งแต่เวลา 18:00 วันนี้ ถึง 18:00 วันพรุ่งนี้ 17-18 มี.ค. 2567",
+    "altText": "002-พยากรณ์อากาศสำหรับประเทศไทย ตั้งแต่เวลา เวลา 23:00 น. วันนี้ ถึง เวลา 23:00 น. วันพรุ่งนี้ 18-19 มี.ค. 2567",
     "contents": {
   "type": "bubble",
   "size": "mega",
@@ -58,7 +59,7 @@ window.onload = function(e){
     "contents": [
       {
         "type": "text",
-        "text": "พยากรณ์อากาศสำหรับประเทศไทย\nตั้งแต่เวลา 18:00 วันนี้\nถึง 18:00 วันพรุ่งนี้\n17-18 มี.ค. 2567",
+        "text": "พยากรณ์อากาศสำหรับประเทศไทย\nตั้งแต่เวลา เวลา 23:00 น. วันนี้\nถึง เวลา 23:00 น. วันพรุ่งนี้\n18-19 มี.ค. 2567",
         "weight": "bold",
         "size": "md",
         "color": "#FFFFFFFF",
@@ -68,7 +69,7 @@ window.onload = function(e){
       },
       {
         "type": "text",
-        "text": "พยากรณ์อากาศ 24 ชั่วโมงข้างหน้า ความกดอากาศต่ำเนื่องจากความร้อนปกคลุมประเทศไทยตอนบน ลักษณะเช่นนี้ทำให้ประเทศไทยมีอากาศร้อนกับมีฟ้าหลัวในตอนกลางวัน โดยมีอากาศร้อนจัดบางพื้นที่ใน . . .\n\nคลิกด้านล่างเพื่อติดตามรายละเอียด",
+        "text": "พยากรณ์อากาศ 24 ชั่วโมงข้างหน้า บริเวณความกดอากาศสูงหรือมวลอากาศเย็นกำลังปานกลางได้แผ่ลงมาปกคลุมประเทศจีนตอนใต้แล้ว คาดว่าจะเคลื่อนเข้าปกคลุมภาคตะวันออกเฉียงเหนือและทะเลจีนใต้ใน . . .\n\nคลิกด้านล่างเพื่อติดตามรายละเอียด",
         "size": "md",
         "color": "#FFFFFFFF",
         "align": "start",
@@ -96,7 +97,7 @@ window.onload = function(e){
                 "wrap": true,
                 "action": {
                   "type": "uri",
-                  "uri": "https://drive.google.com/file/d/1-uTj2WgI1mCHgXXdp6J786SgtWfL3lLb/view?usp=drivesdk"
+                  "uri": "https://drive.google.com/file/d/1-zBwQ2TANT-sfKJv3C5ECDhpWhg5mQ13/view?usp=drivesdk"
                 },
                 "contents": []
               },
@@ -149,126 +150,6 @@ window.onload = function(e){
      });
           });
 
-//ข่าวประจำวัน-พยากรณ์อากาศ 24 ชั่วโมง
-          document.getElementById('ข่าวประจำวัน-พยากรณ์อากาศ 24 ชั่วโมง').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "กรมอุตุนิยมวิทยา_17-18 มี.ค. 2567  เวลา 18:00 น._พยากรณ์อากาศ_พื้นที่เสี่ยงภัยพายุฝนฟ้าคะนองและลมแรงกรรโชก 24 ชั่วโมง",
-    "contents": {
-  "type": "carousel",
-  "contents": [
-    {
-      "type": "bubble",
-      "size": "micro",
-      "body": {
-        "type": "box",
-        "layout": "vertical",
-        "contents": [
-          {
-            "type": "image",
-            "url": "https://stickershop.line-scdn.net/stickershop/v1/sticker/474133377/android/sticker.png",
-            "size": "full"
-          },
-          {
-         "type": "text",
-        "text": "17-18 มี.ค. 2567\nเวลา 18:00 น.",
-        "size": "md",
-       "color": "#FFFFFFFF",
-        "align": "center",
-        "wrap": true,
-        "contents": []
-          }
-        ],
-"backgroundColor": "#F80000B2"
-      },
-      "styles": {
-        "body": {
-          "backgroundColor": "#F80000B2"
-        }
-      }
-    },
-    {
-      "type": "bubble",
-      "size": "micro",
-      "hero": {
-        "type": "image",
-        "url": "https://i.ibb.co/N7XS2vK/daily-17-mar-2024-1700.png",
-        "size": "full",
-        "aspectRatio": "70:93",
-        "aspectMode": "cover",
-        "action": {
-          "type": "uri",
-          "label": "Line",
-          "uri": "https://i.ibb.co/N7XS2vK/daily-17-mar-2024-1700.png"
-        }
-      }
-    },
-    {
-      "type": "bubble",
-      "size": "micro",
-      "hero": {
-        "type": "image",
-        "url": "https://i.ibb.co/xCC4sn8/risk-daily-17-mar-2024-1700.png",
-        "size": "full",
-        "aspectRatio": "70:93",
-        "aspectMode": "cover",
-        "action": {
-          "type": "uri",
-          "label": "Line",
-          "uri": "https://i.ibb.co/xCC4sn8/risk-daily-17-mar-2024-1700.png"
-        }
-      }
-    },
-    {
-      "type": "bubble",
-      "size": "micro",
-      "body": {
-        "type": "box",
-        "layout": "vertical",
-        "contents": [
-          {
-            "type": "text",
-            "text": "\n- click -\nshare weather",
-            "weight": "bold",
-            "size": "md",
-            "align": "center",
-            "margin": "lg",
-            "wrap": true,
-            "action": {
-              "type": "uri",
-              "uri": "https://liff.line.me/1655371726-RNJDNqQM?url=https://ofarts007.github.io/ofarts/ofarts007-00/w01-Weather.html"
-            },
-            "contents": []
-          },
-          {
-            "type": "text",
-            "text": "\n\n- click -\nWalk Together",
-            "weight": "bold",
-            "size": "md",
-            "align": "center",
-            "wrap": true,
-            "action": {
-              "type": "uri",
-              "uri": "https://lin.ee/5RwzOK7"
-            },
-            "contents": []
-      }
-    ],
-    "backgroundColor": "#CFD1D2FF"
-  },
-      "styles": {
-        "body": {
-          "backgroundColor": "#CFD1D2FF"
-        }
-      }
-    }
-  ]
-}
-          }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          });
 
 
 
@@ -289,10 +170,12 @@ window.onload = function(e){
     
     
     
-<script src="https://static.line-scdn.net/liff/edge/versions/2.13.0/sdk.js"></script>
+<script charset="utf-8" src="https://static.line-scdn.net/liff/edge/2/sdk.js"></script>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
 </body>
 </html>
+
+
 

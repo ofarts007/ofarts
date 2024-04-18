@@ -8,14 +8,12 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title>ข้อความ</title>
+    <title>preoder</title>
   </head>
   <body>
-    <h1>ข้อความ</h1>
+    <h1>preoder</h1>
     
-//........................................................................  
-
-    
+//........................................................................      
 //........................................................................    
 
 <button type="button" class="btn btn-primary" id="001preoder">001-เม็ดมะม่วงหิมพานต์</button>    
@@ -38,11 +36,11 @@ window.onload = function(e){
         function usecase(){
 
 // ........................................................................... id007
-document.getElementById('001preoder').addEventListener('click',function(){
-liff.shareTargetPicker([{
-    	"type": "flex",
-    "altText": "PREoder-เม็ดมะม่วงหิมพานต์",
-   	 "contents": {
+document.getElementById('bigtext').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "Please open!",
+    "contents": {
   "type": "bubble",
   "size": "mega",
   "hero": {
@@ -162,11 +160,11 @@ liff.shareTargetPicker([{
     ]
   }
 }
-           }
+        }
              ]).then(function (){
         liff.closeWindow();
-   	  });
-   	       });
+     });
+          });
         
 
 //........................................................................  

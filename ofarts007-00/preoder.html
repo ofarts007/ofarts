@@ -18,7 +18,7 @@
     
 //........................................................................    
 
-    
+<button type="button" class="btn btn-primary" id="001preoder">001-เม็ดมะม่วงหิมพานต์</button>    
    
     
 //..........................................................................    
@@ -38,7 +38,135 @@ window.onload = function(e){
         function usecase(){
 
 // ........................................................................... id007
-
+document.getElementById('001preoder').addEventListener('click',function(){
+liff.shareTargetPicker([{
+    	"type": "flex",
+    "altText": "PREoder-เม็ดมะม่วงหิมพานต์",
+   	 "contents": {
+  "type": "bubble",
+  "size": "mega",
+  "hero": {
+    "type": "image",
+    "url": "https://i.ibb.co/mqn9yw4/20240418-122833.jpg",
+    "size": "full",
+    "aspectRatio": "20:13",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "label": "Line",
+      "uri": "https://i.ibb.co/mqn9yw4/20240418-122833.jpg"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "backgroundColor": "#72564DFF",
+    "contents": [
+      {
+        "type": "text",
+        "text": "- เม็ดมะม่วงหิมพานต์ -",
+        "weight": "bold",
+        "size": "md",
+        "color": "#FFFFFFFF",
+        "align": "center",
+        "wrap": true,
+        "contents": []
+      },
+      {
+        "type": "text",
+        "text": "เม็ดมะม่วงหิมพานต์ที่ผ่านการคัดสรรคุณภาพมาเป็นอย่างดี มีให้เลือกรับประทานได้ 2 เกรด คือ เกรดจัมโบ้คัดเมล็ด และเกรด AB ผสม  น้ำหนักถุงละ 500 กรัม โดยทั้ง 2 เกรดมีมาตรฐานการผลิตได้คุณภาพที่ดีดุจเดียวกัน ส่งตรงถึงมือคุณในราคาที่ทุกคนจับต้องได้",
+        "size": "md",
+        "color": "#FFFFFFFF",
+        "margin": "md",
+        "wrap": true,
+        "contents": []
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "margin": "xxl",
+            "contents": [
+              {
+                "type": "text",
+                "text": "- PromPay -",
+                "weight": "bold",
+                "color": "#FFFFFFFF",
+                "align": "center",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "uri": "https://line.me/R/oaMessage/@455fmiue/?0931697126"
+                },
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": "- Pre Oder -",
+                "weight": "bold",
+                "color": "#FFFFFFFF",
+                "align": "center",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "uri": "https://docs.google.com/forms/d/e/1FAIpQLSf91Ga6_iZ5WfN7clinSpKsCJd677Z4H0zZzzN7b2LCUI6B9g/viewform"
+                },
+                "contents": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "margin": "xxl",
+            "contents": [
+              {
+                "type": "text",
+                "text": "- share -\nNOW",
+                "weight": "bold",
+                "color": "#FFFFFFFF",
+                "align": "center",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "uri": "https://linecorp.com"
+                },
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": "- Walk -\nTogether",
+                "weight": "bold",
+                "color": "#FFFFFFFF",
+                "align": "center",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "uri": "https://lin.ee/5RwzOK7"
+                },
+                "contents": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
+           }
+             ]).then(function (){
+        liff.closeWindow();
+   	  });
+   	       });
         
 
 //........................................................................  

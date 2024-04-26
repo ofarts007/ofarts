@@ -10118,41 +10118,6 @@
 
 
 
-+result[0][]
-
-{
-  "type": "flex",
-  "altText": "วันนี้มีอัพเดทอะไรบ้าง . . . ?",
-  "contents": 
-}
-
- +result[0][]
-
-
-+result[0][]
-
-{
-  "type": "flex",
-  "altText": "วันนี้มีอัพเดทอะไรบ้าง . . . ?",
-  "contents": 
-}
-
- +result[0][]
-
-
-
-+result[0][]
-
-{
-  "type": "flex",
-  "altText": "วันนี้มีอัพเดทอะไรบ้าง . . . ?",
-  "contents": 
-}
-
- +result[0][]
-
-aaa
-
 +result[0][]  007
 
 {
@@ -10164,804 +10129,486 @@ aaa
     {
       "type": "bubble",
       "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://i.ibb.co/HH0RT90/uc-id-1o-H-t0-HWk-LPG-k-ZIj9tla-Qzl1-Ohdp-Jh-FY.jpg",
+        "size": "full",
+        "aspectRatio": "16:7",
+        "aspectMode": "cover"
+      },
       "body": {
         "type": "box",
         "layout": "vertical",
-        "backgroundColor": "#87DCDEFF",
+        "backgroundColor": "#752000FF",
         "contents": [
           {
-            "type": "image",
-            "url": "https://i.ibb.co/GR7tk3K/LOGO-black.gif",
-            "margin": "md",
-            "size": "sm"
+            "type": "text",
+            "text": "โรงเรียนสุรนารีวิทยา นครราชสีมา",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "wrap": true,
+            "contents": []
           },
           {
             "type": "text",
-            "text": "โรงเรียนสุรนารีวิทยา\nฝ่ายบริหารงานบุคคล\n- ปฏิทินข่าวประชาสัมพันธ์ -\n++++++++++++++++++++++",
+            "text": "- เวรรักษาระเบียบวินัย -",
             "weight": "bold",
             "size": "md",
-            "color": "#000000FF",
+            "color": "#FFFFFFFF",
             "align": "center",
-            "margin": "md",
+            "margin": "sm",
             "wrap": true,
             "contents": []
           },
           {
             "type": "text",
             "text": ""+result[0][2],
-            "weight": "bold",
             "size": "md",
-            "color": "#000000FF",
+            "color": "#FFFFFFFF",
             "align": "center",
-            "margin": "md",
+            "margin": "sm",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": "- ประตู 1 / บริเวณฐานพระ -",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "margin": "xxl",
+            "wrap": true,
             "contents": []
           },
           {
             "type": "text",
             "text": ""+result[0][3],
             "size": "md",
-            "color": "#000000FF",
-            "margin": "md",
-            "wrap": true,
-            "contents": []
-          },
-          {
-            "type": "text",
-            "text": "++++++++++++++++++++++\n- click - เพื่อติดตามรายละเอียด -",
-            "weight": "bold",
-            "size": "md",
-            "color": "#000000FF",
+            "color": "#FFFFFFFF",
             "align": "center",
-            "margin": "md",
+            "margin": "sm",
             "wrap": true,
             "action": {
               "type": "uri",
-              "uri": "https://line.me/R/oaMessage/@455fmiue/?"+result[0][4]
+              "uri": "tel:"+result[0][4]
             },
             "contents": []
-          }
-        ]
-      },
-      "styles": {
-        "body": {
-          "backgroundColor": "#87DCDEFF"
-        }
-      }
-    },
-    {
-      "type": "bubble",
-      "size": "mega",
-      "body": {
-        "type": "box",
-        "layout": "vertical",
-        "backgroundColor": "#87DCDEFF",
-        "contents": [
-          {
-            "type": "image",
-            "url": "https://i.ibb.co/GR7tk3K/LOGO-black.gif",
-            "margin": "md",
-            "size": "sm"
           },
           {
             "type": "text",
-            "text": "โรงเรียนสุรนารีวิทยา\nฝ่ายบริหารงานบุคคล\n- ปฏิทินข่าวประชาสัมพันธ์ -\n++++++++++++++++++++++",
-            "weight": "bold",
+            "text": "- ประตู 1 / บริเวณหน้าตึกอำนวยการ -",
             "size": "md",
-            "color": "#000000FF",
+            "color": "#FFFFFFFF",
             "align": "center",
-            "margin": "md",
+            "margin": "xxl",
             "wrap": true,
             "contents": []
           },
           {
             "type": "text",
             "text": ""+result[0][5],
-            "weight": "bold",
             "size": "md",
-            "color": "#000000FF",
+            "color": "#FFFFFFFF",
             "align": "center",
-            "margin": "md",
-            "contents": []
-          },
-          {
-            "type": "text",
-            "text": ""+result[0][6],
-            "size": "md",
-            "color": "#000000FF",
-            "margin": "md",
-            "wrap": true,
-            "contents": []
-          },
-          {
-            "type": "text",
-            "text": "++++++++++++++++++++++\n- click - เพื่อติดตามรายละเอียด -",
-            "weight": "bold",
-            "size": "md",
-            "color": "#000000FF",
-            "align": "center",
-            "margin": "md",
+            "margin": "sm",
             "wrap": true,
             "action": {
               "type": "uri",
-              "uri": "https://line.me/R/oaMessage/@455fmiue/?"+result[0][7]
+              "uri": "tel:"+result[0][6]
             },
             "contents": []
+          },
+          {
+            "type": "text",
+            "text": "- ประตู 1 / บริเวณหน้าโรงเรียน -",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "margin": "xxl",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": ""+result[0][7],
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "margin": "sm",
+            "wrap": true,
+            "action": {
+              "type": "uri",
+              "uri": "tel:"+result[0][8]
+            },
+            "contents": []
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ปฏิทินเวร",
+              "uri": "https://line.me/R/oaMessage/@455fmiue/?weeklyshiftcalendar"
+            },
+            "color": "#87603AFF",
+            "margin": "xxl",
+            "height": "sm",
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "SRNINDEX",
+              "uri": "https://line.me/R/oaMessage/@455fmiue/?srnindex"
+            },
+            "color": "#57412AFF",
+            "margin": "xs",
+            "height": "sm",
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "SRNBOT",
+              "uri": "https://line.me/R/oaMessage/@455fmiue/?srnbot"
+            },
+            "color": "#4A2D11FF",
+            "margin": "xs",
+            "height": "sm",
+            "style": "primary"
           }
         ]
       },
       "styles": {
         "body": {
-          "backgroundColor": "#87DCDEFF"
+          "backgroundColor": "#752000FF"
         }
       }
     },
     {
       "type": "bubble",
       "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://i.ibb.co/HH0RT90/uc-id-1o-H-t0-HWk-LPG-k-ZIj9tla-Qzl1-Ohdp-Jh-FY.jpg",
+        "size": "full",
+        "aspectRatio": "16:7",
+        "aspectMode": "cover"
+      },
       "body": {
         "type": "box",
         "layout": "vertical",
-        "backgroundColor": "#87DCDEFF",
+        "backgroundColor": "#752000FF",
         "contents": [
           {
-            "type": "image",
-            "url": "https://i.ibb.co/GR7tk3K/LOGO-black.gif",
-            "margin": "md",
-            "size": "sm"
-          },
-          {
             "type": "text",
-            "text": "โรงเรียนสุรนารีวิทยา\nฝ่ายบริหารงานบุคคล\n- ปฏิทินข่าวประชาสัมพันธ์ -\n++++++++++++++++++++++",
+            "text": "โรงเรียนสุรนารีวิทยา นครราชสีมา",
             "weight": "bold",
             "size": "md",
-            "color": "#000000FF",
+            "color": "#FFFFFFFF",
             "align": "center",
-            "margin": "md",
             "wrap": true,
             "contents": []
           },
           {
             "type": "text",
-            "text": ""+result[0][8],
+            "text": "- เวรรักษาระเบียบวินัย -",
             "weight": "bold",
             "size": "md",
-            "color": "#000000FF",
+            "color": "#FFFFFFFF",
             "align": "center",
-            "margin": "md",
+            "margin": "sm",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": ""+result[0][2],
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "margin": "sm",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": "- ประตู 3 / บริเวณ cover way -",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "margin": "xxl",
+            "wrap": true,
             "contents": []
           },
           {
             "type": "text",
             "text": ""+result[0][9],
             "size": "md",
-            "color": "#000000FF",
-            "margin": "md",
-            "wrap": true,
-            "contents": []
-          },
-          {
-            "type": "text",
-            "text": "++++++++++++++++++++++\n- click - เพื่อติดตามรายละเอียด -",
-            "weight": "bold",
-            "size": "md",
-            "color": "#000000FF",
+            "color": "#FFFFFFFF",
             "align": "center",
-            "margin": "md",
+            "margin": "sm",
             "wrap": true,
             "action": {
               "type": "uri",
-              "uri": "https://line.me/R/oaMessage/@455fmiue/?"+result[0][10]
+              "uri": "tel:"+result[0][10]
             },
             "contents": []
-          }
-        ]
-      },
-      "styles": {
-        "body": {
-          "backgroundColor": "#87DCDEFF"
-        }
-      }
-    },
-    {
-      "type": "bubble",
-      "size": "mega",
-      "body": {
-        "type": "box",
-        "layout": "vertical",
-        "backgroundColor": "#87DCDEFF",
-        "contents": [
-          {
-            "type": "image",
-            "url": "https://i.ibb.co/GR7tk3K/LOGO-black.gif",
-            "margin": "md",
-            "size": "sm"
           },
           {
             "type": "text",
-            "text": "โรงเรียนสุรนารีวิทยา\nฝ่ายบริหารงานบุคคล\n- ปฏิทินข่าวประชาสัมพันธ์ -\n++++++++++++++++++++++",
-            "weight": "bold",
+            "text": "- ประตู 3 / บริเวณโรงยิม -",
             "size": "md",
-            "color": "#000000FF",
+            "color": "#FFFFFFFF",
             "align": "center",
-            "margin": "md",
+            "margin": "xxl",
             "wrap": true,
             "contents": []
           },
           {
             "type": "text",
             "text": ""+result[0][11],
-            "weight": "bold",
             "size": "md",
-            "color": "#000000FF",
+            "color": "#FFFFFFFF",
             "align": "center",
-            "margin": "md",
-            "contents": []
-          },
-          {
-            "type": "text",
-            "text": ""+result[0][12],
-            "size": "md",
-            "color": "#000000FF",
-            "margin": "md",
-            "wrap": true,
-            "contents": []
-          },
-          {
-            "type": "text",
-            "text": "++++++++++++++++++++++\n- click - เพื่อติดตามรายละเอียด -",
-            "weight": "bold",
-            "size": "md",
-            "color": "#000000FF",
-            "align": "center",
-            "margin": "md",
+            "margin": "sm",
             "wrap": true,
             "action": {
               "type": "uri",
-              "uri": "https://line.me/R/oaMessage/@455fmiue/?"+result[0][13]
+              "uri": "tel:"+result[0][12]
             },
             "contents": []
+          },
+          {
+            "type": "text",
+            "text": "- ประตู 3 / บริเวณหน้าหน้าประตู -",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "margin": "xxl",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": ""+result[0][13],
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "margin": "sm",
+            "wrap": true,
+            "action": {
+              "type": "uri",
+              "uri": "tel:"+result[0][14]
+            },
+            "contents": []
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ปฏิทินเวร",
+              "uri": "https://line.me/R/oaMessage/@455fmiue/?weeklyshiftcalendar"
+            },
+            "color": "#87603AFF",
+            "margin": "xxl",
+            "height": "sm",
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "SRNINDEX",
+              "uri": "https://line.me/R/oaMessage/@455fmiue/?srnindex"
+            },
+            "color": "#57412AFF",
+            "margin": "xs",
+            "height": "sm",
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "SRNBOT",
+              "uri": "https://line.me/R/oaMessage/@455fmiue/?srnbot"
+            },
+            "color": "#4A2D11FF",
+            "margin": "xs",
+            "height": "sm",
+            "style": "primary"
           }
         ]
       },
       "styles": {
         "body": {
-          "backgroundColor": "#87DCDEFF"
+          "backgroundColor": "#752000FF"
         }
       }
     },
     {
       "type": "bubble",
       "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://i.ibb.co/HH0RT90/uc-id-1o-H-t0-HWk-LPG-k-ZIj9tla-Qzl1-Ohdp-Jh-FY.jpg",
+        "size": "full",
+        "aspectRatio": "16:7",
+        "aspectMode": "cover"
+      },
       "body": {
         "type": "box",
         "layout": "vertical",
-        "backgroundColor": "#87DCDEFF",
+        "backgroundColor": "#752000FF",
         "contents": [
           {
-            "type": "image",
-            "url": "https://i.ibb.co/GR7tk3K/LOGO-black.gif",
-            "margin": "md",
-            "size": "sm"
-          },
-          {
             "type": "text",
-            "text": "โรงเรียนสุรนารีวิทยา\nฝ่ายบริหารงานบุคคล\n- ปฏิทินข่าวประชาสัมพันธ์ -\n++++++++++++++++++++++",
+            "text": "โรงเรียนสุรนารีวิทยา นครราชสีมา",
             "weight": "bold",
             "size": "md",
-            "color": "#000000FF",
+            "color": "#FFFFFFFF",
             "align": "center",
-            "margin": "md",
             "wrap": true,
             "contents": []
           },
           {
             "type": "text",
-            "text": ""+result[0][14],
+            "text": "- เวรรักษาระเบียบวินัย -",
             "weight": "bold",
             "size": "md",
-            "color": "#000000FF",
+            "color": "#FFFFFFFF",
             "align": "center",
-            "margin": "md",
+            "margin": "sm",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": ""+result[0][2],
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "margin": "sm",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": "- ประตู 4 -",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "margin": "xxl",
+            "wrap": true,
             "contents": []
           },
           {
             "type": "text",
             "text": ""+result[0][15],
             "size": "md",
-            "color": "#000000FF",
-            "margin": "md",
-            "wrap": true,
-            "contents": []
-          },
-          {
-            "type": "text",
-            "text": "++++++++++++++++++++++\n- click - เพื่อติดตามรายละเอียด -",
-            "weight": "bold",
-            "size": "md",
-            "color": "#000000FF",
+            "color": "#FFFFFFFF",
             "align": "center",
-            "margin": "md",
+            "margin": "sm",
             "wrap": true,
             "action": {
               "type": "uri",
-              "uri": "https://line.me/R/oaMessage/@455fmiue/?"+result[0][16]
+              "uri": "tel:"+result[0][16]
             },
             "contents": []
-          }
-        ]
-      },
-      "styles": {
-        "body": {
-          "backgroundColor": "#87DCDEFF"
-        }
-      }
-    },
-    {
-      "type": "bubble",
-      "size": "mega",
-      "body": {
-        "type": "box",
-        "layout": "vertical",
-        "backgroundColor": "#87DCDEFF",
-        "contents": [
-          {
-            "type": "image",
-            "url": "https://i.ibb.co/GR7tk3K/LOGO-black.gif",
-            "margin": "md",
-            "size": "sm"
           },
           {
             "type": "text",
-            "text": "โรงเรียนสุรนารีวิทยา\nฝ่ายบริหารงานบุคคล\n- ปฏิทินข่าวประชาสัมพันธ์ -\n++++++++++++++++++++++",
-            "weight": "bold",
+            "text": "- เวรประกาศ -",
             "size": "md",
-            "color": "#000000FF",
+            "color": "#FFFFFFFF",
             "align": "center",
-            "margin": "md",
+            "margin": "xxl",
             "wrap": true,
             "contents": []
           },
           {
             "type": "text",
             "text": ""+result[0][17],
-            "weight": "bold",
             "size": "md",
-            "color": "#000000FF",
+            "color": "#FFFFFFFF",
             "align": "center",
-            "margin": "md",
-            "contents": []
-          },
-          {
-            "type": "text",
-            "text": ""+result[0][18],
-            "size": "md",
-            "color": "#000000FF",
-            "margin": "md",
-            "wrap": true,
-            "contents": []
-          },
-          {
-            "type": "text",
-            "text": "++++++++++++++++++++++\n- click - เพื่อติดตามรายละเอียด -",
-            "weight": "bold",
-            "size": "md",
-            "color": "#000000FF",
-            "align": "center",
-            "margin": "md",
+            "margin": "sm",
             "wrap": true,
             "action": {
               "type": "uri",
-              "uri": "https://line.me/R/oaMessage/@455fmiue/?"+result[0][19]
+              "uri": "tel:"+result[0][18]
             },
             "contents": []
+          },
+          {
+            "type": "text",
+            "text": "- ผู้ตรวจเวร -",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "margin": "xxl",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": ""+result[0][19],
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "margin": "sm",
+            "wrap": true,
+            "action": {
+              "type": "uri",
+              "uri": "tel:"+result[0][20]
+            },
+            "contents": []
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ปฏิทินเวร",
+              "uri": "https://line.me/R/oaMessage/@455fmiue/?weeklyshiftcalendar"
+            },
+            "color": "#87603AFF",
+            "margin": "xxl",
+            "height": "sm",
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "SRNINDEX",
+              "uri": "https://line.me/R/oaMessage/@455fmiue/?srnindex"
+            },
+            "color": "#57412AFF",
+            "margin": "xs",
+            "height": "sm",
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "SRNBOT",
+              "uri": "https://line.me/R/oaMessage/@455fmiue/?srnbot"
+            },
+            "color": "#4A2D11FF",
+            "margin": "xs",
+            "height": "sm",
+            "style": "primary"
           }
         ]
       },
       "styles": {
         "body": {
-          "backgroundColor": "#87DCDEFF"
-        }
-      }
-    },
-    {
-      "type": "bubble",
-      "size": "mega",
-      "body": {
-        "type": "box",
-        "layout": "vertical",
-        "backgroundColor": "#87DCDEFF",
-        "contents": [
-          {
-            "type": "image",
-            "url": "https://i.ibb.co/GR7tk3K/LOGO-black.gif",
-            "margin": "md",
-            "size": "sm"
-          },
-          {
-            "type": "text",
-            "text": "โรงเรียนสุรนารีวิทยา\nฝ่ายบริหารงานบุคคล\n- ปฏิทินข่าวประชาสัมพันธ์ -\n++++++++++++++++++++++",
-            "weight": "bold",
-            "size": "md",
-            "color": "#000000FF",
-            "align": "center",
-            "margin": "md",
-            "wrap": true,
-            "contents": []
-          },
-          {
-            "type": "text",
-            "text": ""+result[0][20],
-            "weight": "bold",
-            "size": "md",
-            "color": "#000000FF",
-            "align": "center",
-            "margin": "md",
-            "contents": []
-          },
-          {
-            "type": "text",
-            "text": ""+result[0][21],
-            "size": "md",
-            "color": "#000000FF",
-            "margin": "md",
-            "wrap": true,
-            "contents": []
-          },
-          {
-            "type": "text",
-            "text": "++++++++++++++++++++++\n- click - เพื่อติดตามรายละเอียด -",
-            "weight": "bold",
-            "size": "md",
-            "color": "#000000FF",
-            "align": "center",
-            "margin": "md",
-            "wrap": true,
-            "action": {
-              "type": "uri",
-              "uri": "https://line.me/R/oaMessage/@455fmiue/?"+result[0][22]
-            },
-            "contents": []
-          }
-        ]
-      },
-      "styles": {
-        "body": {
-          "backgroundColor": "#87DCDEFF"
-        }
-      }
-    },
-    {
-      "type": "bubble",
-      "size": "mega",
-      "body": {
-        "type": "box",
-        "layout": "vertical",
-        "backgroundColor": "#87DCDEFF",
-        "contents": [
-          {
-            "type": "image",
-            "url": "https://i.ibb.co/GR7tk3K/LOGO-black.gif",
-            "margin": "md",
-            "size": "sm"
-          },
-          {
-            "type": "text",
-            "text": "โรงเรียนสุรนารีวิทยา\nฝ่ายบริหารงานบุคคล\n- ปฏิทินข่าวประชาสัมพันธ์ -\n++++++++++++++++++++++",
-            "weight": "bold",
-            "size": "md",
-            "color": "#000000FF",
-            "align": "center",
-            "margin": "md",
-            "wrap": true,
-            "contents": []
-          },
-          {
-            "type": "text",
-            "text": ""+result[0][23],
-            "weight": "bold",
-            "size": "md",
-            "color": "#000000FF",
-            "align": "center",
-            "margin": "md",
-            "contents": []
-          },
-          {
-            "type": "text",
-            "text": ""+result[0][24],
-            "size": "md",
-            "color": "#000000FF",
-            "margin": "md",
-            "wrap": true,
-            "contents": []
-          },
-          {
-            "type": "text",
-            "text": "++++++++++++++++++++++\n- click - เพื่อติดตามรายละเอียด -",
-            "weight": "bold",
-            "size": "md",
-            "color": "#000000FF",
-            "align": "center",
-            "margin": "md",
-            "wrap": true,
-            "action": {
-              "type": "uri",
-              "uri": "https://line.me/R/oaMessage/@455fmiue/?"+result[0][25]
-            },
-            "contents": []
-          }
-        ]
-      },
-      "styles": {
-        "body": {
-          "backgroundColor": "#87DCDEFF"
-        }
-      }
-    },
-    {
-      "type": "bubble",
-      "size": "mega",
-      "body": {
-        "type": "box",
-        "layout": "vertical",
-        "backgroundColor": "#87DCDEFF",
-        "contents": [
-          {
-            "type": "image",
-            "url": "https://i.ibb.co/GR7tk3K/LOGO-black.gif",
-            "margin": "md",
-            "size": "sm"
-          },
-          {
-            "type": "text",
-            "text": "โรงเรียนสุรนารีวิทยา\nฝ่ายบริหารงานบุคคล\n- ปฏิทินข่าวประชาสัมพันธ์ -\n++++++++++++++++++++++",
-            "weight": "bold",
-            "size": "md",
-            "color": "#000000FF",
-            "align": "center",
-            "margin": "md",
-            "wrap": true,
-            "contents": []
-          },
-          {
-            "type": "text",
-            "text": ""+result[0][26],
-            "weight": "bold",
-            "size": "md",
-            "color": "#000000FF",
-            "align": "center",
-            "margin": "md",
-            "contents": []
-          },
-          {
-            "type": "text",
-            "text": ""+result[0][27],
-            "size": "md",
-            "color": "#000000FF",
-            "margin": "md",
-            "wrap": true,
-            "contents": []
-          },
-          {
-            "type": "text",
-            "text": "++++++++++++++++++++++\n- click - เพื่อติดตามรายละเอียด -",
-            "weight": "bold",
-            "size": "md",
-            "color": "#000000FF",
-            "align": "center",
-            "margin": "md",
-            "wrap": true,
-            "action": {
-              "type": "uri",
-              "uri": "https://line.me/R/oaMessage/@455fmiue/?"+result[0][28]
-            },
-            "contents": []
-          }
-        ]
-      },
-      "styles": {
-        "body": {
-          "backgroundColor": "#87DCDEFF"
-}
-      }
-    },
-    {
-      "type": "bubble",
-      "size": "mega",
-      "body": {
-        "type": "box",
-        "layout": "vertical",
-        "backgroundColor": "#87DCDEFF",
-        "contents": [
-          {
-            "type": "image",
-            "url": "https://i.ibb.co/GR7tk3K/LOGO-black.gif",
-            "margin": "md",
-            "size": "sm"
-          },
-          {
-            "type": "text",
-            "text": "โรงเรียนสุรนารีวิทยา\nฝ่ายบริหารงานบุคคล\n- ปฏิทินข่าวประชาสัมพันธ์ -\n++++++++++++++++++++++",
-            "weight": "bold",
-            "size": "md",
-            "color": "#000000FF",
-            "align": "center",
-            "margin": "md",
-            "wrap": true,
-            "contents": []
-          },
-          {
-            "type": "text",
-            "text": ""+result[0][29],
-            "weight": "bold",
-            "size": "md",
-            "color": "#000000FF",
-            "align": "center",
-            "margin": "md",
-            "contents": []
-          },
-          {
-            "type": "text",
-            "text": ""+result[0][30],
-            "size": "md",
-            "color": "#000000FF",
-            "margin": "md",
-            "wrap": true,
-            "contents": []
-          },
-          {
-            "type": "text",
-            "text": "++++++++++++++++++++++\n- click - เพื่อติดตามรายละเอียด -",
-            "weight": "bold",
-            "size": "md",
-            "color": "#000000FF",
-            "align": "center",
-            "margin": "md",
-            "wrap": true,
-            "action": {
-              "type": "uri",
-              "uri": "https://line.me/R/oaMessage/@455fmiue/?"+result[0][31]
-            },
-            "contents": []
-          }
-        ]
-      },
-      "styles": {
-        "body": {
-          "backgroundColor": "#87DCDEFF"
-}
-      }
-    },
-    {
-      "type": "bubble",
-      "size": "mega",
-      "body": {
-        "type": "box",
-        "layout": "vertical",
-        "backgroundColor": "#87DCDEFF",
-        "contents": [
-          {
-            "type": "image",
-            "url": "https://i.ibb.co/GR7tk3K/LOGO-black.gif",
-            "margin": "md",
-            "size": "sm"
-          },
-          {
-            "type": "text",
-            "text": "โรงเรียนสุรนารีวิทยา\nฝ่ายบริหารงานบุคคล\n- ปฏิทินข่าวประชาสัมพันธ์ -\n++++++++++++++++++++++",
-            "weight": "bold",
-            "size": "md",
-            "color": "#000000FF",
-            "align": "center",
-            "margin": "md",
-            "wrap": true,
-            "contents": []
-          },
-          {
-            "type": "text",
-            "text": ""+result[0][32],
-            "weight": "bold",
-            "size": "md",
-            "color": "#000000FF",
-            "align": "center",
-            "margin": "md",
-            "contents": []
-          },
-          {
-            "type": "text",
-            "text": ""+result[0][33],
-            "size": "md",
-            "color": "#000000FF",
-            "margin": "md",
-            "wrap": true,
-            "contents": []
-          },
-          {
-            "type": "text",
-            "text": "++++++++++++++++++++++\n- click - เพื่อติดตามรายละเอียด -",
-            "weight": "bold",
-            "size": "md",
-            "color": "#000000FF",
-            "align": "center",
-            "margin": "md",
-            "wrap": true,
-            "action": {
-              "type": "uri",
-              "uri": "https://line.me/R/oaMessage/@455fmiue/?"+result[0][34]
-            },
-            "contents": []
-          }
-        ]
-      },
-      "styles": {
-        "body": {
-          "backgroundColor": "#87DCDEFF"
-}
-      }
-    },
-    {
-      "type": "bubble",
-      "size": "mega",
-      "body": {
-        "type": "box",
-        "layout": "vertical",
-        "backgroundColor": "#87DCDEFF",
-        "contents": [
-          {
-            "type": "image",
-            "url": "https://i.ibb.co/GR7tk3K/LOGO-black.gif",
-            "margin": "md",
-            "size": "sm"
-          },
-          {
-            "type": "text",
-            "text": "โรงเรียนสุรนารีวิทยา\nฝ่ายบริหารงานบุคคล\n- ปฏิทินข่าวประชาสัมพันธ์ -\n++++++++++++++++++++++",
-            "weight": "bold",
-            "size": "md",
-            "color": "#000000FF",
-            "align": "center",
-            "margin": "md",
-            "wrap": true,
-            "contents": []
-          },
-          {
-            "type": "text",
-            "text": ""+result[0][35],
-            "weight": "bold",
-            "size": "md",
-            "color": "#000000FF",
-            "align": "center",
-            "margin": "md",
-            "contents": []
-          },
-          {
-            "type": "text",
-            "text": ""+result[0][36],
-            "size": "md",
-            "color": "#000000FF",
-            "margin": "md",
-            "wrap": true,
-            "contents": []
-          },
-          {
-            "type": "text",
-            "text": "++++++++++++++++++++++\n- click - เพื่อติดตามรายละเอียด -",
-            "weight": "bold",
-            "size": "md",
-            "color": "#000000FF",
-            "align": "center",
-            "margin": "md",
-            "wrap": true,
-            "action": {
-              "type": "uri",
-              "uri": "https://line.me/R/oaMessage/@455fmiue/?"+result[0][37]
-            },
-            "contents": []
-          }
-        ]
-      },
-      "styles": {
-        "body": {
-          "backgroundColor": "#87DCDEFF"
+          "backgroundColor": "#752000FF"
         }
       }
     }
@@ -10970,7 +10617,5 @@ aaa
 }
 
 
-bbb
 
-
-
++result[0][]   007

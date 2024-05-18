@@ -21,14 +21,16 @@
 //.................................................................................... 
 //..............................................................................  
 //..... ข่าวกรมอุตุนิยมวิทยา///
-//..... //ข่าวประจำวัน-กรมอุตุนิยมวิทยา      
+//..... //ข่าวประจำวัน-กรมอุตุนิยมวิทยา
+<button type="button" class="btn btn-secondary" id="ข่าวประจำวัน-พยากรณ์อากาศ 24 ชั่วโมง"
+        >001-กรมอุตุนิยมวิทยา_18-19 พ.ค. 2567 เวลา 18:00 น._พยากรณ์อากาศ_พื้นที่เสี่ยงภัยพายุฝนฟ้าคะนองและลมแรงกรรโชก 24 ชั่วโมง</button>        
 // . . . . พยากรณ์อากาศประจำวัน
 <button type="button" class="btn btn-warning" id="1800พยากรณ์อากาศประจำวัน">002-พยากรณ์อากาศสำหรับประเทศไทย ตั้งแต่เวลา 18:00 วันนี้ ถึง 18:00 วันพรุ่งนี้ 18-19 พ.ค. 2567</button>
         
 //..............................................................................
      <script>
 window.onload = function(e){
-        liff.init({liffId:'1655371726-yWkR2x3Z'},function(){
+        liff.init({liffId:'1655371726-RNJDNqQM'},function(){
            if (liff.isLoggedIn()) {
            usecase();
           ofarts();
@@ -41,10 +43,6 @@ window.onload = function(e){
         function usecase(){
 
 //......................................................................   id007 micro
-///// 001 - 1654985163-XWYpWQqB
-/////       https://liff.line.me/1654985163-XWYpWQqB
-///// 01 -  1655371726-yWkR2x3Z
-/////       https://liff.line.me/1655371726-yWkR2x3Z
 //....................................................................................  //ข่าวประจำวัน-กรมอุตุนิยมวิทยา
 // . . . . พยากรณ์อากาศประจำวัน
           document.getElementById('1800พยากรณ์อากาศประจำวัน').addEventListener('click',function(){
@@ -150,6 +148,127 @@ window.onload = function(e){
         liff.closeWindow();
      });
           });
+
+//ข่าวประจำวัน-พยากรณ์อากาศ 24 ชั่วโมง
+          document.getElementById('ข่าวประจำวัน-พยากรณ์อากาศ 24 ชั่วโมง').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "กรมอุตุนิยมวิทยา_18-19 พ.ค. 2567 เวลา 18:00 น._พยากรณ์อากาศ_พื้นที่เสี่ยงภัยพายุฝนฟ้าคะนองและลมแรงกรรโชก 24 ชั่วโมง",
+    "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "micro",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://stickershop.line-scdn.net/stickershop/v1/sticker/201122316/android/sticker.png",
+            "size": "full"
+          },
+          {
+            "type": "text",
+            "text": "18-19 พ.ค. 2567\nเวลา 18:00 น.",
+            "size": "md",
+            "align": "center",
+            "wrap": true,
+            "contents": []
+          }
+        ],
+"backgroundColor": "#A57DF472"
+      },
+      "styles": {
+        "body": {
+          "backgroundColor": "#A57DF472"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "micro",
+      "hero": {
+        "type": "image",
+        "url": "https://i.ibb.co/G0b6FHM/daily-18-may-2024-1700.png",
+        "size": "full",
+        "aspectRatio": "70:93",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "label": "Line",
+          "uri": "https://i.ibb.co/G0b6FHM/daily-18-may-2024-1700.png"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "micro",
+      "hero": {
+        "type": "image",
+        "url": "https://i.ibb.co/y6WQGQB/risk-daily-18-may-2024-1700.png",
+        "size": "full",
+        "aspectRatio": "70:93",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "label": "Line",
+          "uri": "https://i.ibb.co/y6WQGQB/risk-daily-18-may-2024-1700.png"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "micro",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "\n- click -\nshare weather",
+            "weight": "bold",
+            "size": "md",
+            "align": "center",
+            "margin": "lg",
+            "wrap": true,
+            "action": {
+              "type": "uri",
+              "uri": "https://liff.line.me/1655371726-RNJDNqQM?url=https://ofarts007.github.io/ofarts/ofarts007-00/w01-Weather.html"
+            },
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": "\n\n- click -\nWalk Together",
+            "weight": "bold",
+            "size": "md",
+            "align": "center",
+            "wrap": true,
+            "action": {
+              "type": "uri",
+              "uri": "https://lin.ee/5RwzOK7"
+            },
+            "contents": []
+      }
+    ],
+    "backgroundColor": "#CFD1D2FF"
+  },
+      "styles": {
+        "body": {
+          "backgroundColor": "#CFD1D2FF"
+        }
+      }
+    }
+  ]
+}
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+
 
 
 

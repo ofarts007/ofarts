@@ -1,103 +1,103 @@
 
 
-<button type="button" class="btn btn-primary" id="010sweetpreoder">010-xxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="011sweetpreoder">011-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="012sweetpreoder">012-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="013sweetpreoder">013-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="014sweetpreoder">014-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="015sweetpreoder">015-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="016sweetpreoder">016-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="017sweetpreoder">017-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="018sweetpreoder">018-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="019sweetpreoder">019-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="020sweetpreoder">020-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="021sweetpreoder">021-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="022sweetpreoder">022-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="023sweetpreoder">023-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="024sweetpreoder">024-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="025sweetpreoder">025-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="026sweetpreoder">026-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="027sweetpreoder">027-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="028sweetpreoder">028-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="029sweetpreoder">029-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="030sweetpreoder">030-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="031sweetpreoder">031-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="032sweetpreoder">032-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="033sweetpreoder">033-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="034sweetpreoder">034-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="035sweetpreoder">035-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="036sweetpreoder">036-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="037sweetpreoder">037-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="038sweetpreoder">038-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="010sweetpreorder">010-xxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="011sweetpreorder">011-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="012sweetpreorder">012-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="013sweetpreorder">013-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="014sweetpreorder">014-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="015sweetpreorder">015-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="016sweetpreorder">016-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="017sweetpreorder">017-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="018sweetpreorder">018-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="019sweetpreorder">019-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="020sweetpreorder">020-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="021sweetpreorder">021-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="022sweetpreorder">022-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="023sweetpreorder">023-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="024sweetpreorder">024-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="025sweetpreorder">025-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="026sweetpreorder">026-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="027sweetpreorder">027-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="028sweetpreorder">028-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="029sweetpreorder">029-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="030sweetpreorder">030-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="031sweetpreorder">031-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="032sweetpreorder">032-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="033sweetpreorder">033-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="034sweetpreorder">034-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="035sweetpreorder">035-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="036sweetpreorder">036-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="037sweetpreorder">037-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="038sweetpreorder">038-xxxxxxxxxx</button>
 //..........................................................................    
-<button type="button" class="btn btn-danger" id="001deliciouspreoder">001-ข้าวผัดแฟรงค์เฟิร์ต</button>
-<button type="button" class="btn btn-danger" id="002deliciouspreoder">002-ข้าวผัดพอร์คแฮมรมควัน</button>
-<button type="button" class="btn btn-danger" id="003deliciouspreoder">003-ข้าวผัดสันในไก่</button>
+<button type="button" class="btn btn-danger" id="001deliciouspreorder">001-ข้าวผัดแฟรงค์เฟิร์ต</button>
+<button type="button" class="btn btn-danger" id="002deliciouspreorder">002-ข้าวผัดพอร์คแฮมรมควัน</button>
+<button type="button" class="btn btn-danger" id="003deliciouspreorder">003-ข้าวผัดสันในไก่</button>
 
 
 
-<button type="button" class="btn btn-danger" id="007deliciouspreoder">007-สปาเก็ตตี้แฟรงค์เฟิร์ต</button>
-<button type="button" class="btn btn-danger" id="008deliciouspreoder">008-สปาเก็ตตี้พริกแห้งพอร์คแฮมรมควัน</button>
-
-
-
-
-<button type="button" class="btn btn-danger" id="013deliciouspreoder">013-เต้าเจี้ยวหลน</button>
-
-<button type="button" class="btn btn-danger" id="016deliciouspreoder">016-แกงเขียวหวานปีกไก่บน</button>
-<button type="button" class="btn btn-danger" id="017deliciouspreoder">017-แกงคั่วฟักสันในหมู</button>
-<button type="button" class="btn btn-danger" id="018deliciouspreoder">018-แกงคั่วมะระสันในหมู</button>
-<button type="button" class="btn btn-danger" id="019deliciouspreoder">019-แกงจืดฟักปีกไก่บน</button>
+<button type="button" class="btn btn-danger" id="007deliciouspreorder">007-สปาเก็ตตี้แฟรงค์เฟิร์ต</button>
+<button type="button" class="btn btn-danger" id="008deliciouspreorder">008-สปาเก็ตตี้พริกแห้งพอร์คแฮมรมควัน</button>
 
 
 
 
-<button type="button" class="btn btn-danger" id="021deliciouspreoder">021-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="022deliciouspreoder">022-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="023deliciouspreoder">023-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="024deliciouspreoder">024-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="025deliciouspreoder">025-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="026deliciouspreoder">026-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="027deliciouspreoder">027-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="028deliciouspreoder">028-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="029deliciouspreoder">029-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="030deliciouspreoder">030-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="031deliciouspreoder">031-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="032deliciouspreoder">032-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="033deliciouspreoder">033-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="034deliciouspreoder">034-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="035deliciouspreoder">035-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="036deliciouspreoder">036-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="037deliciouspreoder">037-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="038deliciouspreoder">038-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="039deliciouspreoder">039-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="040deliciouspreoder">040-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="041deliciouspreoder">041-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="042deliciouspreoder">042-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="043deliciouspreoder">043-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="044deliciouspreoder">044-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="045deliciouspreoder">045-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="046deliciouspreoder">046-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="047deliciouspreoder">047-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="048deliciouspreoder">048-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="049deliciouspreoder">049-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="050deliciouspreoder">050-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="051deliciouspreoder">051-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="052deliciouspreoder">052-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="053deliciouspreoder">053-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="054deliciouspreoder">054-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="055deliciouspreoder">055-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="056deliciouspreoder">056-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="057deliciouspreoder">057-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="058deliciouspreoder">058-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="059deliciouspreoder">059-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="060deliciouspreoder">060-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="061deliciouspreoder">061-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="062deliciouspreoder">062-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="063deliciouspreoder">063-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="064deliciouspreoder">064-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="065deliciouspreoder">065-xxxxxxxxxx</button>
-<button type="button" class="btn btn-danger" id="066deliciouspreoder">066-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="013deliciouspreorder">013-เต้าเจี้ยวหลน</button>
+
+<button type="button" class="btn btn-danger" id="016deliciouspreorder">016-แกงเขียวหวานปีกไก่บน</button>
+<button type="button" class="btn btn-danger" id="017deliciouspreorder">017-แกงคั่วฟักสันในหมู</button>
+<button type="button" class="btn btn-danger" id="018deliciouspreorder">018-แกงคั่วมะระสันในหมู</button>
+<button type="button" class="btn btn-danger" id="019deliciouspreorder">019-แกงจืดฟักปีกไก่บน</button>
+
+
+
+
+<button type="button" class="btn btn-danger" id="021deliciouspreorder">021-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="022deliciouspreorder">022-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="023deliciouspreorder">023-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="024deliciouspreorder">024-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="025deliciouspreorder">025-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="026deliciouspreorder">026-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="027deliciouspreorder">027-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="028deliciouspreorder">028-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="029deliciouspreorder">029-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="030deliciouspreorder">030-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="031deliciouspreorder">031-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="032deliciouspreorder">032-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="033deliciouspreorder">033-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="034deliciouspreorder">034-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="035deliciouspreorder">035-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="036deliciouspreorder">036-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="037deliciouspreorder">037-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="038deliciouspreorder">038-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="039deliciouspreorder">039-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="040deliciouspreorder">040-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="041deliciouspreorder">041-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="042deliciouspreorder">042-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="043deliciouspreorder">043-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="044deliciouspreorder">044-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="045deliciouspreorder">045-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="046deliciouspreorder">046-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="047deliciouspreorder">047-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="048deliciouspreorder">048-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="049deliciouspreorder">049-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="050deliciouspreorder">050-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="051deliciouspreorder">051-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="052deliciouspreorder">052-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="053deliciouspreorder">053-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="054deliciouspreorder">054-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="055deliciouspreorder">055-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="056deliciouspreorder">056-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="057deliciouspreorder">057-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="058deliciouspreorder">058-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="059deliciouspreorder">059-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="060deliciouspreorder">060-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="061deliciouspreorder">061-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="062deliciouspreorder">062-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="063deliciouspreorder">063-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="064deliciouspreorder">064-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="065deliciouspreorder">065-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="066deliciouspreorder">066-xxxxxxxxxx</button>
 
 // ........................................................................... id007
 
@@ -110,31 +110,20 @@
 
 
 
-document.getElementById('031deliciouspreoder').addEventListener('click',function(){
+document.getElementById('031deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "031delicious//preoder-xxxxxxxxxx",
+    "altText": "031delicious//preorder-xxxxxxxxxx",
     "contents": 
     }
              ]).then(function (){
         liff.closeWindow();
      });
           })
-document.getElementById('030deliciouspreoder').addEventListener('click',function(){
+document.getElementById('030deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "030delicious//preoder-xxxxxxxxxx",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          })
-
-document.getElementById('029deliciouspreoder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "029delicious//preoder-xxxxxxxxxx",
+    "altText": "030delicious//preorder-xxxxxxxxxx",
     "contents": 
     }
              ]).then(function (){
@@ -142,10 +131,10 @@ document.getElementById('029deliciouspreoder').addEventListener('click',function
      });
           })
 
-document.getElementById('028deliciouspreoder').addEventListener('click',function(){
+document.getElementById('029deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "028delicious//preoder-xxxxxxxxxx",
+    "altText": "029delicious//preorder-xxxxxxxxxx",
     "contents": 
     }
              ]).then(function (){
@@ -153,10 +142,10 @@ document.getElementById('028deliciouspreoder').addEventListener('click',function
      });
           })
 
-document.getElementById('027deliciouspreoder').addEventListener('click',function(){
+document.getElementById('028deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "027delicious//preoder-xxxxxxxxxx",
+    "altText": "028delicious//preorder-xxxxxxxxxx",
     "contents": 
     }
              ]).then(function (){
@@ -164,10 +153,10 @@ document.getElementById('027deliciouspreoder').addEventListener('click',function
      });
           })
 
-document.getElementById('026deliciouspreoder').addEventListener('click',function(){
+document.getElementById('027deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "026delicious//preoder-xxxxxxxxxx",
+    "altText": "027delicious//preorder-xxxxxxxxxx",
     "contents": 
     }
              ]).then(function (){
@@ -175,10 +164,10 @@ document.getElementById('026deliciouspreoder').addEventListener('click',function
      });
           })
 
-document.getElementById('025deliciouspreoder').addEventListener('click',function(){
+document.getElementById('026deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "025delicious//preoder-xxxxxxxxxx",
+    "altText": "026delicious//preorder-xxxxxxxxxx",
     "contents": 
     }
              ]).then(function (){
@@ -186,10 +175,10 @@ document.getElementById('025deliciouspreoder').addEventListener('click',function
      });
           })
 
-document.getElementById('024deliciouspreoder').addEventListener('click',function(){
+document.getElementById('025deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "024delicious//preoder-xxxxxxxxxx",
+    "altText": "025delicious//preorder-xxxxxxxxxx",
     "contents": 
     }
              ]).then(function (){
@@ -197,10 +186,10 @@ document.getElementById('024deliciouspreoder').addEventListener('click',function
      });
           })
 
-document.getElementById('023deliciouspreoder').addEventListener('click',function(){
+document.getElementById('024deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "023delicious//preoder-xxxxxxxxxx",
+    "altText": "024delicious//preorder-xxxxxxxxxx",
     "contents": 
     }
              ]).then(function (){
@@ -208,10 +197,10 @@ document.getElementById('023deliciouspreoder').addEventListener('click',function
      });
           })
 
-document.getElementById('022deliciouspreoder').addEventListener('click',function(){
+document.getElementById('023deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "022delicious//preoder-xxxxxxxxxx",
+    "altText": "023delicious//preorder-xxxxxxxxxx",
     "contents": 
     }
              ]).then(function (){
@@ -219,10 +208,21 @@ document.getElementById('022deliciouspreoder').addEventListener('click',function
      });
           })
 
-document.getElementById('021deliciouspreoder').addEventListener('click',function(){
+document.getElementById('022deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "021delicious//preoder-xxxxxxxxxx",
+    "altText": "022delicious//preorder-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+
+document.getElementById('021deliciouspreorder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "021delicious//preorder-xxxxxxxxxx",
     "contents": 
     }
              ]).then(function (){
@@ -236,40 +236,40 @@ document.getElementById('021deliciouspreoder').addEventListener('click',function
 
 
 
-document.getElementById('019deliciouspreoder').addEventListener('click',function(){
+document.getElementById('019deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "01delicious//preoder-แกงจืดฟักปีกไก่บน",
+    "altText": "01delicious//preorder-แกงจืดฟักปีกไก่บน",
     "contents": 
     }
              ]).then(function (){
         liff.closeWindow();
      });
           })          
-document.getElementById('018deliciouspreoder').addEventListener('click',function(){
+document.getElementById('018deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "018delicious//preoder-แกงคั่วมะระสันในหมู",
+    "altText": "018delicious//preorder-แกงคั่วมะระสันในหมู",
     "contents": 
     }
              ]).then(function (){
         liff.closeWindow();
      });
           })
-document.getElementById('017deliciouspreoder').addEventListener('click',function(){
+document.getElementById('017deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "017delicious//preoder-แกงคั่วฟักสันในหมู",
+    "altText": "017delicious//preorder-แกงคั่วฟักสันในหมู",
     "contents": 
     }
              ]).then(function (){
         liff.closeWindow();
      });
           })
-document.getElementById('016deliciouspreoder').addEventListener('click',function(){
+document.getElementById('016deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "016delicious//preoder-แกงเขียวหวานปีกไก่บน",
+    "altText": "016delicious//preorder-แกงเขียวหวานปีกไก่บน",
     "contents": 
     }
              ]).then(function (){
@@ -280,10 +280,10 @@ document.getElementById('016deliciouspreoder').addEventListener('click',function
 
 
 
-document.getElementById('013deliciouspreoder').addEventListener('click',function(){
+document.getElementById('013deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "013delicious//preoder-เต้าเจี้ยวหลน",
+    "altText": "013delicious//preorder-เต้าเจี้ยวหลน",
     "contents": 
     }
              ]).then(function (){
@@ -295,20 +295,20 @@ document.getElementById('013deliciouspreoder').addEventListener('click',function
 
 
 
-document.getElementById('008deliciouspreoder').addEventListener('click',function(){
+document.getElementById('008deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "008delicious//preoder-สปาเก็ตตี้พริกแห้งพอร์คแฮมรมควัน",
+    "altText": "008delicious//preorder-สปาเก็ตตี้พริกแห้งพอร์คแฮมรมควัน",
     "contents": 
     }
              ]).then(function (){
         liff.closeWindow();
      });
           })
-document.getElementById('007deliciouspreoder').addEventListener('click',function(){
+document.getElementById('007deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "007delicious//preoder-สปาเก็ตตี้แฟรงค์เฟิร์ต",
+    "altText": "007delicious//preorder-สปาเก็ตตี้แฟรงค์เฟิร์ต",
     "contents": 
     }
              ]).then(function (){
@@ -321,30 +321,30 @@ document.getElementById('007deliciouspreoder').addEventListener('click',function
 
 
 
-document.getElementById('003deliciouspreoder').addEventListener('click',function(){
+document.getElementById('003deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "003delicious//preoder-ข้าวผัดสันในไก่",
+    "altText": "003delicious//preorder-ข้าวผัดสันในไก่",
     "contents": 
     }
              ]).then(function (){
         liff.closeWindow();
      });
           })          
-document.getElementById('002deliciouspreoder').addEventListener('click',function(){
+document.getElementById('002deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "002delicious//preoder-ข้าวผัดพอร์คแฮมรมควัน",
+    "altText": "002delicious//preorder-ข้าวผัดพอร์คแฮมรมควัน",
     "contents": 
           }
              ]).then(function (){
         liff.closeWindow();
      });
           });
-document.getElementById('001deliciouspreoder').addEventListener('click',function(){
+document.getElementById('001deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "001delicious//preoder-ข้าวผัดแฟรงค์เฟิร์ต",
+    "altText": "001delicious//preorder-ข้าวผัดแฟรงค์เฟิร์ต",
     "contents": 
     }
              ]).then(function (){
@@ -359,20 +359,20 @@ document.getElementById('001deliciouspreoder').addEventListener('click',function
 
 
 
-document.getElementById('011sweetpreoder').addEventListener('click',function(){
+document.getElementById('011sweetpreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "011sweet//preoder-xxxxxxxxxx",
+    "altText": "011sweet//preorder-xxxxxxxxxx",
     "contents": 
     }
              ]).then(function (){
         liff.closeWindow();
      });
           })
-document.getElementById('010sweetpreoder').addEventListener('click',function(){
+document.getElementById('010sweetpreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "010sweet//preoder-xxxxxxxxxxxx",
+    "altText": "010sweet//preorder-xxxxxxxxxxxx",
     "contents": 
     }
              ]).then(function (){

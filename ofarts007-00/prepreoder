@@ -230,16 +230,11 @@ document.getElementById('021deliciouspreoder').addEventListener('click',function
           })
 
 
-document.getElementById('020deliciouspreoder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "020delicious//preoder-ไข่พะโล้หมูสามชั้น",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          })
+
+
+
+
+
 document.getElementById('019deliciouspreoder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
@@ -280,26 +275,10 @@ document.getElementById('016deliciouspreoder').addEventListener('click',function
         liff.closeWindow();
      });
           })
-document.getElementById('015deliciouspreoder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "015delicious//preoder-แกงคั่วปีกไก่บนหน่อไม้ดอง",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          })
-document.getElementById('014deliciouspreoder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "014delicious//preoder-คั่วเอ็นข้อไก่หน่อไม้ดอง",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          })
+
+
+
+
 document.getElementById('013deliciouspreoder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
@@ -310,48 +289,11 @@ document.getElementById('013deliciouspreoder').addEventListener('click',function
         liff.closeWindow();
      });
           })          
-document.getElementById('012deliciouspreoder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "012delicious//preoder-กะปิหลน",
-    "contents": 
-          }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          });
-document.getElementById('011deliciouspreoder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "011delicious//preoder-น้ำพริกมะขาม",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          });
 
-          
-document.getElementById('010deliciouspreoder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "010delicious//preoder-น้ำพริกกุ้ง",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          })
-document.getElementById('009deliciouspreoder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "009delicious//preoder-น้ำพริกมะม่วง",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          })          
+
+
+
+
 document.getElementById('008deliciouspreoder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",

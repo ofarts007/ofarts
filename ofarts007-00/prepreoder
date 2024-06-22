@@ -1,8 +1,5 @@
 
-
-<button type="button" class="btn btn-primary" id="008sweetpreoder">008-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="009sweetpreoder">009-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="010sweetpreoder">010-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="010sweetpreoder">010-xxxxxxxxx</button>
 <button type="button" class="btn btn-primary" id="011sweetpreoder">011-xxxxxxxxxx</button>
 <button type="button" class="btn btn-primary" id="012sweetpreoder">012-xxxxxxxxxx</button>
 <button type="button" class="btn btn-primary" id="013sweetpreoder">013-xxxxxxxxxx</button>
@@ -32,26 +29,28 @@
 <button type="button" class="btn btn-primary" id="037sweetpreoder">037-xxxxxxxxxx</button>
 <button type="button" class="btn btn-primary" id="038sweetpreoder">038-xxxxxxxxxx</button>
 //..........................................................................    
-<button type="button" class="btn btn-primary" id="001deliciouspreoder">001-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="002deliciouspreoder">002-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="003deliciouspreoder">003-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="004deliciouspreoder">004-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="005deliciouspreoder">005-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="006deliciouspreoder">006-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="007deliciouspreoder">007-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="008deliciouspreoder">008-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="009deliciouspreoder">009-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="010deliciouspreoder">010-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="011deliciouspreoder">011-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="012deliciouspreoder">012-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="013deliciouspreoder">013-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="014deliciouspreoder">014-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="015deliciouspreoder">015-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="016deliciouspreoder">016-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="017deliciouspreoder">017-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="018deliciouspreoder">018-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="019deliciouspreoder">019-xxxxxxxxxx</button>
-<button type="button" class="btn btn-primary" id="020deliciouspreoder">020-xxxxxxxxxx</button>
+<button type="button" class="btn btn-primary" id="001deliciouspreoder">001-ข้าวผัดแฟรงค์เฟิร์ต</button>
+<button type="button" class="btn btn-primary" id="002deliciouspreoder">002-ข้าวผัดพอร์คแฮมรมควัน</button>
+<button type="button" class="btn btn-primary" id="003deliciouspreoder">003-ข้าวผัดสันในไก่</button>
+
+
+
+<button type="button" class="btn btn-primary" id="007deliciouspreoder">007-สปาเก็ตตี้แฟรงค์เฟิร์ต</button>
+<button type="button" class="btn btn-primary" id="008deliciouspreoder">008-สปาเก็ตตี้พริกแห้งพอร์คแฮมรมควัน</button>
+
+
+
+
+<button type="button" class="btn btn-primary" id="013deliciouspreoder">013-เต้าเจี้ยวหลน</button>
+
+<button type="button" class="btn btn-primary" id="016deliciouspreoder">016-แกงเขียวหวานปีกไก่บน</button>
+<button type="button" class="btn btn-primary" id="017deliciouspreoder">017-แกงคั่วฟักสันในหมู</button>
+<button type="button" class="btn btn-primary" id="018deliciouspreoder">018-แกงคั่วมะระสันในหมู</button>
+<button type="button" class="btn btn-primary" id="019deliciouspreoder">019-แกงจืดฟักปีกไก่บน</button>
+
+
+
+
 <button type="button" class="btn btn-primary" id="021deliciouspreoder">021-xxxxxxxxxx</button>
 <button type="button" class="btn btn-primary" id="022deliciouspreoder">022-xxxxxxxxxx</button>
 <button type="button" class="btn btn-primary" id="023deliciouspreoder">023-xxxxxxxxxx</button>
@@ -110,11 +109,131 @@
 
 
 
+document.getElementById('031deliciouspreoder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "031delicious//preoder-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('030deliciouspreoder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "030delicious//preoder-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+
+document.getElementById('029deliciouspreoder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "029delicious//preoder-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+
+document.getElementById('028deliciouspreoder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "028delicious//preoder-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+
+document.getElementById('027deliciouspreoder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "027delicious//preoder-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+
+document.getElementById('026deliciouspreoder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "026delicious//preoder-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+
+document.getElementById('025deliciouspreoder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "025delicious//preoder-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+
+document.getElementById('024deliciouspreoder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "024delicious//preoder-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+
+document.getElementById('023deliciouspreoder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "023delicious//preoder-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+
+document.getElementById('022deliciouspreoder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "022delicious//preoder-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+
+document.getElementById('021deliciouspreoder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "021delicious//preoder-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+
 
 document.getElementById('020deliciouspreoder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "020delicious//preoder-xxxxxxxxxx",
+    "altText": "020delicious//preoder-ไข่พะโล้หมูสามชั้น",
     "contents": 
     }
              ]).then(function (){
@@ -124,7 +243,7 @@ document.getElementById('020deliciouspreoder').addEventListener('click',function
 document.getElementById('019deliciouspreoder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "01delicious//preoder-xxxxxxxxxx",
+    "altText": "01delicious//preoder-แกงจืดฟักปีกไก่บน",
     "contents": 
     }
              ]).then(function (){
@@ -134,7 +253,7 @@ document.getElementById('019deliciouspreoder').addEventListener('click',function
 document.getElementById('018deliciouspreoder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "018delicious//preoder-xxxxxxxxxx",
+    "altText": "018delicious//preoder-แกงคั่วมะระสันในหมู",
     "contents": 
     }
              ]).then(function (){
@@ -144,7 +263,7 @@ document.getElementById('018deliciouspreoder').addEventListener('click',function
 document.getElementById('017deliciouspreoder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "017delicious//preoder-xxxxxxxxxx",
+    "altText": "017delicious//preoder-แกงคั่วฟักสันในหมู",
     "contents": 
     }
              ]).then(function (){
@@ -154,17 +273,17 @@ document.getElementById('017deliciouspreoder').addEventListener('click',function
 document.getElementById('016deliciouspreoder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "016delicious//preoder-xxxxxxxxxx",
+    "altText": "016delicious//preoder-แกงเขียวหวานปีกไก่บน",
     "contents": 
     }
              ]).then(function (){
         liff.closeWindow();
      });
           })
-document.getElementById('055deliciouspreoder').addEventListener('click',function(){
+document.getElementById('015deliciouspreoder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "015delicious//preoder-xxxxxxxxxx",
+    "altText": "015delicious//preoder-แกงคั่วปีกไก่บนหน่อไม้ดอง",
     "contents": 
     }
              ]).then(function (){
@@ -174,7 +293,7 @@ document.getElementById('055deliciouspreoder').addEventListener('click',function
 document.getElementById('014deliciouspreoder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "014delicious//preoder-xxxxxxxxxx",
+    "altText": "014delicious//preoder-คั่วเอ็นข้อไก่หน่อไม้ดอง",
     "contents": 
     }
              ]).then(function (){
@@ -184,7 +303,7 @@ document.getElementById('014deliciouspreoder').addEventListener('click',function
 document.getElementById('013deliciouspreoder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "013delicious//preoder-xxxxxxxxxx",
+    "altText": "013delicious//preoder-เต้าเจี้ยวหลน",
     "contents": 
     }
              ]).then(function (){
@@ -194,7 +313,7 @@ document.getElementById('013deliciouspreoder').addEventListener('click',function
 document.getElementById('012deliciouspreoder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "012delicious//preoder-xxxxxxxxxx",
+    "altText": "012delicious//preoder-กะปิหลน",
     "contents": 
           }
              ]).then(function (){
@@ -204,7 +323,7 @@ document.getElementById('012deliciouspreoder').addEventListener('click',function
 document.getElementById('011deliciouspreoder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "011delicious//preoder-xxxxxxxxxx",
+    "altText": "011delicious//preoder-น้ำพริกมะขาม",
     "contents": 
     }
              ]).then(function (){
@@ -216,7 +335,7 @@ document.getElementById('011deliciouspreoder').addEventListener('click',function
 document.getElementById('010deliciouspreoder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "010delicious//preoder-xxxxxxxxxx",
+    "altText": "010delicious//preoder-น้ำพริกกุ้ง",
     "contents": 
     }
              ]).then(function (){
@@ -226,7 +345,7 @@ document.getElementById('010deliciouspreoder').addEventListener('click',function
 document.getElementById('009deliciouspreoder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "009delicious//preoder-xxxxxxxxxx",
+    "altText": "009delicious//preoder-น้ำพริกมะม่วง",
     "contents": 
     }
              ]).then(function (){
@@ -236,7 +355,7 @@ document.getElementById('009deliciouspreoder').addEventListener('click',function
 document.getElementById('008deliciouspreoder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "008delicious//preoder-xxxxxxxxxx",
+    "altText": "008delicious//preoder-สปาเก็ตตี้พริกแห้งพอร์คแฮมรมควัน",
     "contents": 
     }
              ]).then(function (){
@@ -246,47 +365,23 @@ document.getElementById('008deliciouspreoder').addEventListener('click',function
 document.getElementById('007deliciouspreoder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "007delicious//preoder-xxxxxxxxxx",
+    "altText": "007delicious//preoder-สปาเก็ตตี้แฟรงค์เฟิร์ต",
     "contents": 
     }
              ]).then(function (){
         liff.closeWindow();
      });
           })
-document.getElementById('006deliciouspreoder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "006delicious//preoder-xxxxxxxxxx",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          })
-document.getElementById('005deliciouspreoder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "delicious//preoder-xxxxxxxxxx",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          })
-document.getElementById('004deliciouspreoder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "004delicious//preoder-xxxxxxxxxx",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          })
+
+
+
+
+
+
 document.getElementById('003deliciouspreoder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "003delicious//preoder-xxxxxxxxxx",
+    "altText": "003delicious//preoder-ข้าวผัดสันในไก่",
     "contents": 
     }
              ]).then(function (){
@@ -296,7 +391,7 @@ document.getElementById('003deliciouspreoder').addEventListener('click',function
 document.getElementById('002deliciouspreoder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "002delicious//preoder-xxxxxxxxxx",
+    "altText": "002delicious//preoder-ข้าวผัดพอร์คแฮมรมควัน",
     "contents": 
           }
              ]).then(function (){
@@ -306,7 +401,7 @@ document.getElementById('002deliciouspreoder').addEventListener('click',function
 document.getElementById('001deliciouspreoder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "001delicious//preoder-xxxxxxxxxx",
+    "altText": "001delicious//preoder-ข้าวผัดแฟรงค์เฟิร์ต",
     "contents": 
     }
              ]).then(function (){
@@ -314,103 +409,30 @@ document.getElementById('001deliciouspreoder').addEventListener('click',function
      });
           });
 // .....................................................................................001-010
+
+
+
+
+
+
+
+document.getElementById('011sweetpreoder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "011sweet//preoder-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
 document.getElementById('010sweetpreoder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "010sweet//preoder-xxxxxxxxxx",
+    "altText": "010sweet//preoder-xxxxxxxxxxxx",
     "contents": 
     }
              ]).then(function (){
         liff.closeWindow();
      });
           })
-document.getElementById('009sweetpreoder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "009sweet//preoder-xxxxxxxxxx",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          })          
-document.getElementById('008sweetpreoder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "008sweet//preoder-xxxxxxxxxx",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          })
-document.getElementById('007sweetpreoder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "007sweet//preoder-กล้วยอบราดน้ำผึ้ง",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          })
-document.getElementById('006sweetpreoder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "006sweet//preoder-ไข่กระทะ",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          })
-document.getElementById('005sweetpreoder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "005sweet//preoder-ข้าวต้ม Chicken Ball",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          })
-document.getElementById('004sweetpreoder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "004sweet//preoder-xxxxxxxxxx",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          })
-document.getElementById('003sweetpreoder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "003sweet//preoder-ทอร์เทีย",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          })          
-document.getElementById('002sweetpreoder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "002sweet//preoder-แฮมเบอร์เกอร์",
-    "contents": 
-          }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          });
-document.getElementById('001sweetpreoder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "001sweet//preoder-แซนวิชห่มผ้า",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          });

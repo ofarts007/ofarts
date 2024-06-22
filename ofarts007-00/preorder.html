@@ -18,29 +18,20 @@
 //  ..........................................................................................  sweet preOrder
 <button type="button" class="btn btn-primary" id="00101sweetpreorder">00101-แซนวิชห่มผ้า//พอร์คแฮมรมควัน</button>
 <button type="button" class="btn btn-primary" id="00102sweetpreorder">00102-แซนวิชห่มผ้า//แฟรงค์เฟิร์ต</button>   
-<button type="button" class="btn btn-primary" id="002sweetpreorder">002-แฮมเบอร์เกอร์</button>   
-<button type="button" class="btn btn-primary" id="003sweetpreorder">003-ทอร์เทีย</button>
-<button type="button" class="btn btn-primary" id="004sweetpreorder">004-ข้าวต้ม Chicken Ball</button>
-<button type="button" class="btn btn-primary" id="005sweetpreorder">005-ไข่กระทะ</button>
+
+
 <button type="button" class="btn btn-primary" id="006sweetpreorder">006-กล้วยอบราดน้ำผึ้ง</button>
 <button type="button" class="btn btn-primary" id="007sweetpreorder">007-เปียกปูนกะทิสดโรยงาขาว</button>
-<button type="button" class="btn btn-primary" id="008sweetpreorder">008-ข้าวเหนียวดำเปียกลำใย</button>
-<button type="button" class="btn btn-primary" id="009sweetpreorder">009-ฮารุกะดิพ</button>
+
 
 //  ..........................................................................................  delicious preOrder
-<button type="button" class="btn btn-danger" id="004deliciouspreorder">004-ข้าวผัดพริกแกงหอยแมลงภู่</button>
-<button type="button" class="btn btn-danger" id="005deliciouspreorder">005-หมี่เสี้ยนผัดแฟรงค์เฟิร์ต</button>
-<button type="button" class="btn btn-danger" id="006deliciouspreorder">006-ราดหน้าสปาเก็ตตี้</button>
+
 <button type="button" class="btn btn-danger" id="009deliciouspreorder">009-น้ำพริกมะม่วง</button>
-<button type="button" class="btn btn-danger" id="010deliciouspreorder">010-น้ำพริกกุ้ง</button>
-<button type="button" class="btn btn-danger" id="011deliciouspreorder">011-น้ำพริกมะขาม</button>
-<button type="button" class="btn btn-danger" id="012deliciouspreorder">012-กะปิหลน</button>
 
 
-<button type="button" class="btn btn-danger" id="014deliciouspreorder">014-คั่วเอ็นข้อไก่หน่อไม้ดอง</button>
-<button type="button" class="btn btn-danger" id="015deliciouspreorder">015-แกงคั่วปีกไก่บนหน่อไม้ดอง</button>
 
-<button type="button" class="btn btn-danger" id="020deliciouspreorder">020-ไข่พะโล้หมูสามชั้น</button>
+
+
     
 //..........................................................................    
     
@@ -59,74 +50,15 @@ window.onload = function(e){
         function usecase(){
 
 // ........................................................................... id007
-document.getElementById('020deliciouspreorder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "020delicious//preorder-ไข่พะโล้หมูสามชั้น",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          })
+
 
 
           
-document.getElementById('015deliciouspreorder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "015delicious//preorder-แกงคั่วปีกไก่บนหน่อไม้ดอง",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          })
-document.getElementById('014deliciouspreorder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "014delicious//preorder-คั่วเอ็นข้อไก่หน่อไม้ดอง",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          })
+
 
 
           
-document.getElementById('012deliciouspreorder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "012delicious//preorder-กะปิหลน",
-    "contents": 
-          }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          });
-document.getElementById('011deliciouspreorder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "011delicious//preorder-น้ำพริกมะขาม",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          });
 
-          
-document.getElementById('010deliciouspreorder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "010delicious//preorder-น้ำพริกกุ้ง",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          })
 document.getElementById('009deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
@@ -139,36 +71,7 @@ document.getElementById('009deliciouspreorder').addEventListener('click',functio
           })    
 
           
-document.getElementById('006deliciouspreorder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "006delicious//preorder-ราดหน้าสปาเก็ตตี้",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          })
-document.getElementById('005deliciouspreorder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "delicious//preorder-หมี่เสี้ยนผัดแฟรงค์เฟิร์ต",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          })
-document.getElementById('004deliciouspreorder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "004delicious//preorder-ข้าวผัดพริกแกงหอยแมลงภู่",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          })
+
 // ...........................................................................  deliciouspreorder
 
 
@@ -180,26 +83,7 @@ document.getElementById('004deliciouspreorder').addEventListener('click',functio
           
 
 // ...........................................................................  sweetpreorder
-document.getElementById('009sweetpreorder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "009sweet//preorder-ฮารุกะดิพ",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          })          
-document.getElementById('008sweetpreorder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "008sweet//preorder-ข้าวเหนียวดำเปียกลำใย",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          })          
+          
 document.getElementById('007sweetpreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
@@ -559,51 +443,353 @@ document.getElementById('006sweetpreorder').addEventListener('click',function(){
         liff.closeWindow();
      });
           })
-document.getElementById('005sweetpreorder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "005sweet//preorder-ไข่กระทะ",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          })
-document.getElementById('004sweetpreorder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "004sweet//preorder-ข้าวต้ม Chicken Ball",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          })
-document.getElementById('003sweetpreorder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "003sweet//preorder-ทอร์เทีย",
-    "contents": 
-    }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          })          
-document.getElementById('002sweetpreorder').addEventListener('click',function(){
-          liff.shareTargetPicker([{
-    "type": "flex",
-    "altText": "002sweet//preorder-แฮมเบอร์เกอร์",
-    "contents": 
-          }
-             ]).then(function (){
-        liff.closeWindow();
-     });
-          });
+
+          
+
 document.getElementById('00102sweetpreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
     "altText": "00102sweet//preorder-แซนวิชห่มผ้า//แฟรงค์เฟิร์ต",
-    "contents": 
+    "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://i.ibb.co/g9mgZ9S/Screenshot-20240622-144040-S-Note.jpg",
+        "size": "full",
+        "aspectRatio": "16:9",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "label": "Line",
+          "uri": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#72564DFF",
+        "contents": [
+          {
+            "type": "text",
+            "text": "แซนวิชห่มผ้า\nแฟรงค์เฟิร์ต",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": "วัตถุดิบประกอบไปด้วยขนมปังโฮลวีต จากเตาอบใหม่ทุกวัน ปูรองด้วยผักกรีนโอ๊ค แฟรงค์เฟิร์ตนำเข้ารสชาติละมุนลิ้นหอมกรุ่น เพิ่มความสดชื่นด้วยแครอท และสิ่งที่จะขาดไม่ได้ก็คือเชดด้าชีส ที่จะเพิ่มความกลมกล่อมและนุ่มนวลให้กับแซนวิชห่มผ้าแฟรงค์เฟิร์ตที่ส่งตรงถึงมือคุณ",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "margin": "md",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": ". . . . . . . . . . . . . . . . . . . . . . . .",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "margin": "md",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "margin": "xxl",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "- share -\nNOW",
+                    "weight": "bold",
+                    "color": "#FFFFFFFF",
+                    "align": "center",
+                    "wrap": true,
+                    "action": {
+                      "type": "uri",
+                      "uri": "https://liff.line.me/1655371726-RNJDNqQM?url=https://ofarts007.github.io/ofarts/ofarts007-00/preorder.html"
+                    },
+                    "contents": []
+                  },
+                  {
+                    "type": "text",
+                    "text": "- Walk -\nTogether",
+                    "weight": "bold",
+                    "color": "#FFFFFFFF",
+                    "align": "center",
+                    "wrap": true,
+                    "action": {
+                      "type": "uri",
+                      "uri": "https://lin.ee/5RwzOK7"
+                    },
+                    "contents": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://i.ibb.co/T2SMC7z/Screenshot-20240622-143959-S-Note.jpg",
+        "size": "full",
+        "aspectRatio": "16:9",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "label": "Line",
+          "uri": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#72564DFF",
+        "contents": [
+          {
+            "type": "text",
+            "text": "แซนวิชห่มผ้า\nแฟรงค์เฟิร์ต",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": "เราใส่ใจในคุณภาพและขั้นตอนการผลิต แซนวิชห่มผ้าแฟรงค์เฟิร์ต โดย Grill แฟรงค์เฟิร์ต ด้วยไฟอ่อนๆ ให้เกิดความหอมกรุ่นละมุนละไม ก่อนที่จะนำไป ก่อนที่จะนำไปจัดสรรให้เป็นแซนวิชห่มผ้าแฟรงค์เฟิร์ต และส่งตรง เพื่อความรู้สึกที่ดีของคุณ",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "margin": "md",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": ". . . . . . . . . . . . . . . . . . . . . . . .",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "margin": "md",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "margin": "xxl",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "- share -\nNOW",
+                    "weight": "bold",
+                    "color": "#FFFFFFFF",
+                    "align": "center",
+                    "wrap": true,
+                    "action": {
+                      "type": "uri",
+                      "uri": "https://liff.line.me/1655371726-RNJDNqQM?url=https://ofarts007.github.io/ofarts/ofarts007-00/preorder.html"
+                    },
+                    "contents": []
+                  },
+                  {
+                    "type": "text",
+                    "text": "- Walk -\nTogether",
+                    "weight": "bold",
+                    "color": "#FFFFFFFF",
+                    "align": "center",
+                    "wrap": true,
+                    "action": {
+                      "type": "uri",
+                      "uri": "https://lin.ee/5RwzOK7"
+                    },
+                    "contents": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://i.ibb.co/jz4gDLW/Screenshot-20240622-143833-S-Note.jpg",
+        "size": "full",
+        "aspectRatio": "16:9",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "label": "Line",
+          "uri": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#72564DFF",
+        "contents": [
+          {
+            "type": "text",
+            "text": "แซนวิชห่มผ้า\nแฟรงค์เฟิร์ต",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": "จากการดูแลอาหารทุกชิ้นให้มีคุณภาพที่ดี  โดยเน้นในเรื่องของความสะอาด คัดสรรวัตถุดิบสดใหม่ และใส่ใจในทุกรายละเอียด เพื่อสุขภาพที่ดีของคุณ\n\n\n",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "margin": "md",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": ". . . . . . . . . . . . . . . . . . . . . . . .",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "margin": "md",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "margin": "xxl",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "- share -\nNOW",
+                    "weight": "bold",
+                    "color": "#FFFFFFFF",
+                    "align": "center",
+                    "wrap": true,
+                    "action": {
+                      "type": "uri",
+                      "uri": "https://liff.line.me/1655371726-RNJDNqQM?url=https://ofarts007.github.io/ofarts/ofarts007-00/preorder.html"
+                    },
+                    "contents": []
+                  },
+                  {
+                    "type": "text",
+                    "text": "- Walk -\nTogether",
+                    "weight": "bold",
+                    "color": "#FFFFFFFF",
+                    "align": "center",
+                    "wrap": true,
+                    "action": {
+                      "type": "uri",
+                      "uri": "https://lin.ee/5RwzOK7"
+                    },
+                    "contents": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://i.ibb.co/3N4hG5r/645929.jpg",
+        "size": "full",
+        "aspectRatio": "15:18",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "label": "Line",
+          "uri": "https://i.ibb.co/3N4hG5r/645929.jpg"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#72564DFF",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "- Pre Oder -",
+                    "weight": "bold",
+                    "color": "#FFFFFFFF",
+                    "align": "center",
+                    "wrap": true,
+                    "action": {
+                      "type": "uri",
+                      "uri": "https://docs.google.com/forms/d/e/1FAIpQLSf91Ga6_iZ5WfN7clinSpKsCJd677Z4H0zZzzN7b2LCUI6B9g/viewform"
+                    },
+                    "contents": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". . . . . . . . . . . . . . . . . . . . . . . .",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "margin": "md",
+            "wrap": true,
+            "contents": []
+          }
+        ]
+      }
+    }
+  ]
+}
     }
              ]).then(function (){
         liff.closeWindow();
@@ -613,7 +799,346 @@ document.getElementById('00101sweetpreorder').addEventListener('click',function(
           liff.shareTargetPicker([{
     "type": "flex",
     "altText": "00101sweet//preorder-แซนวิชห่มผ้า//พอร์คแฮมรมควัน",
-    "contents": 
+    "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://i.ibb.co/6FyymHm/Screenshot-20240622-143732-S-Note.jpg",
+        "size": "full",
+        "aspectRatio": "16:9",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "label": "Line",
+          "uri": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#72564DFF",
+        "contents": [
+          {
+            "type": "text",
+            "text": "แซนวิชห่มผ้า\nพอร์คแฮมรมควัน",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": "วัตถุดิบประกอบไปด้วยขนมปังโฮลวีต จากเตาอบใหม่ทุกวัน ปูรองด้วยผักกรีนโอ๊ค พอร์คแฮมรมควันนำเข้า เพิ่มความสดชื่นด้วยแครอท และสิ่งที่จะขาดไม่ได้ก็คือเชดด้าชีส ที่จะเพิ่มความกลมกล่อมและนุ่มนวลให้กับแซนวิชห่มผ้าพอร์คแฮมรมควันที่ส่งตรงถึงมือคุณ",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "margin": "md",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": ". . . . . . . . . . . . . . . . . . . . . . . .",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "margin": "md",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "margin": "xxl",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "- share -\nNOW",
+                    "weight": "bold",
+                    "color": "#FFFFFFFF",
+                    "align": "center",
+                    "wrap": true,
+                    "action": {
+                      "type": "uri",
+                      "uri": "https://liff.line.me/1655371726-RNJDNqQM?url=https://ofarts007.github.io/ofarts/ofarts007-00/preorder.html"
+                    },
+                    "contents": []
+                  },
+                  {
+                    "type": "text",
+                    "text": "- Walk -\nTogether",
+                    "weight": "bold",
+                    "color": "#FFFFFFFF",
+                    "align": "center",
+                    "wrap": true,
+                    "action": {
+                      "type": "uri",
+                      "uri": "https://lin.ee/5RwzOK7"
+                    },
+                    "contents": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://i.ibb.co/BwTnJYR/20240613-050437.jpg",
+        "size": "full",
+        "aspectRatio": "16:9",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "label": "Line",
+          "uri": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#72564DFF",
+        "contents": [
+          {
+            "type": "text",
+            "text": "แซนวิชห่มผ้า\nพอร์คแฮมรมควัน",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": "จากการดูแลอาหารทุกชิ้นให้มีคุณภาพที่ดี  โดยเน้นในเรื่องของความสะอาด คัดสรรวัตถุดิบสดใหม่ และใส่ใจในทุกรายละเอียด เพื่อสุขภาพที่ดีของคุณ\n\n\n",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "margin": "md",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": ". . . . . . . . . . . . . . . . . . . . . . . .",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "margin": "md",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "margin": "xxl",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "- share -\nNOW",
+                    "weight": "bold",
+                    "color": "#FFFFFFFF",
+                    "align": "center",
+                    "wrap": true,
+                    "action": {
+                      "type": "uri",
+                      "uri": "https://liff.line.me/1655371726-RNJDNqQM?url=https://ofarts007.github.io/ofarts/ofarts007-00/preorder.html"
+                    },
+                    "contents": []
+                  },
+                  {
+                    "type": "text",
+                    "text": "- Walk -\nTogether",
+                    "weight": "bold",
+                    "color": "#FFFFFFFF",
+                    "align": "center",
+                    "wrap": true,
+                    "action": {
+                      "type": "uri",
+                      "uri": "https://lin.ee/5RwzOK7"
+                    },
+                    "contents": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://i.ibb.co/9Vzk4NZ/Screenshot-20240622-143936-S-Note.jpg",
+        "size": "full",
+        "aspectRatio": "16:9",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "label": "Line",
+          "uri": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#72564DFF",
+        "contents": [
+          {
+            "type": "text",
+            "text": "แซนวิชห่มผ้า\nพอร์คแฮมรมควัน",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": "นอกจากการคัดสรรวัตถุดิบที่มีคุณภาพแล้ว สุขภาพของวัตถุดิบ ที่เราจัดเก็บ เพื่อนำมาจัดสรรให้เป็นอาหารสุขภาพสำหรับคุณ ก็ต้องมีความสดใหม่ พร้อมที่จะนำเสนอสิ่งดีๆสำหรับคุณเช่นกัน\n\n",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "margin": "md",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": ". . . . . . . . . . . . . . . . . . . . . . . .",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "margin": "md",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "margin": "xxl",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "- share -\nNOW",
+                    "weight": "bold",
+                    "color": "#FFFFFFFF",
+                    "align": "center",
+                    "wrap": true,
+                    "action": {
+                      "type": "uri",
+                      "uri": "https://liff.line.me/1655371726-RNJDNqQM?url=https://ofarts007.github.io/ofarts/ofarts007-00/preorder.html"
+                    },
+                    "contents": []
+                  },
+                  {
+                    "type": "text",
+                    "text": "- Walk -\nTogether",
+                    "weight": "bold",
+                    "color": "#FFFFFFFF",
+                    "align": "center",
+                    "wrap": true,
+                    "action": {
+                      "type": "uri",
+                      "uri": "https://lin.ee/5RwzOK7"
+                    },
+                    "contents": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://i.ibb.co/3N4hG5r/645929.jpg",
+        "size": "full",
+        "aspectRatio": "15:18",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "label": "Line",
+          "uri": "https://i.ibb.co/3N4hG5r/645929.jpg"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#72564DFF",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "- Pre Oder -",
+                    "weight": "bold",
+                    "color": "#FFFFFFFF",
+                    "align": "center",
+                    "wrap": true,
+                    "action": {
+                      "type": "uri",
+                      "uri": "https://docs.google.com/forms/d/e/1FAIpQLSf91Ga6_iZ5WfN7clinSpKsCJd677Z4H0zZzzN7b2LCUI6B9g/viewform"
+                    },
+                    "contents": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". . . . . . . . . . . . . . . . . . . . . . . .",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "margin": "md",
+            "wrap": true,
+            "contents": []
+          }
+        ]
+      }
+    }
+  ]
+}
     }
              ]).then(function (){
         liff.closeWindow();

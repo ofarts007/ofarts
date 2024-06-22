@@ -15,30 +15,32 @@
     
 //........................................................................      
 //........................................................................    
-//  ..........................................................................................  sweetpreoder
-<button type="button" class="btn btn-primary" id="00101sweetpreoder">00101-แซนวิชห่มผ้า//พอร์คแฮมรมควัน</button>
-<button type="button" class="btn btn-primary" id="00102sweetpreoder">00102-แซนวิชห่มผ้า//แฟรงค์เฟิร์ต</button>   
-<button type="button" class="btn btn-primary" id="002sweetpreoder">002-แฮมเบอร์เกอร์</button>   
-<button type="button" class="btn btn-primary" id="003sweetpreoder">003-ทอร์เทีย</button>
-<button type="button" class="btn btn-primary" id="004sweetpreoder">004-ข้าวต้ม Chicken Ball</button>
-<button type="button" class="btn btn-primary" id="005sweetpreoder">005-ไข่กระทะ</button>
-<button type="button" class="btn btn-primary" id="006sweetpreoder">006-กล้วยอบราดน้ำผึ้ง</button>
-<button type="button" class="btn btn-primary" id="007sweetpreoder">007-เปียกปูนกะทิสดโรยงาขาว</button>
-<button type="button" class="btn btn-primary" id="008sweetpreoder">008-ข้าวเหนียวดำเปียกลำใย</button>
-<button type="button" class="btn btn-primary" id="009sweetpreoder">009-ฮารุกะดิพ</button>
+//  ..........................................................................................  sweet preOrder
+<button type="button" class="btn btn-primary" id="00101sweetpreorder">00101-แซนวิชห่มผ้า//พอร์คแฮมรมควัน</button>
+<button type="button" class="btn btn-primary" id="00102sweetpreorder">00102-แซนวิชห่มผ้า//แฟรงค์เฟิร์ต</button>   
+<button type="button" class="btn btn-primary" id="002sweetpreorder">002-แฮมเบอร์เกอร์</button>   
+<button type="button" class="btn btn-primary" id="003sweetpreorder">003-ทอร์เทีย</button>
+<button type="button" class="btn btn-primary" id="004sweetpreorder">004-ข้าวต้ม Chicken Ball</button>
+<button type="button" class="btn btn-primary" id="005sweetpreorder">005-ไข่กระทะ</button>
+<button type="button" class="btn btn-primary" id="006sweetpreorder">006-กล้วยอบราดน้ำผึ้ง</button>
+<button type="button" class="btn btn-primary" id="007sweetpreorder">007-เปียกปูนกะทิสดโรยงาขาว</button>
+<button type="button" class="btn btn-primary" id="008sweetpreorder">008-ข้าวเหนียวดำเปียกลำใย</button>
+<button type="button" class="btn btn-primary" id="009sweetpreorder">009-ฮารุกะดิพ</button>
 
-//  ..........................................................................................  deliciouspreoder
+//  ..........................................................................................  delicious preOrder
+<button type="button" class="btn btn-primary" id="004deliciouspreorder">004-ข้าวผัดพริกแกงหอยแมลงภู่</button>
+<button type="button" class="btn btn-primary" id="005deliciouspreorder">005-หมี่เสี้ยนผัดแฟรงค์เฟิร์ต</button>
+<button type="button" class="btn btn-primary" id="006deliciouspreorder">006-ราดหน้าสปาเก็ตตี้</button>
+<button type="button" class="btn btn-warning" id="009deliciouspreorder">009-น้ำพริกมะม่วง</button>
+<button type="button" class="btn btn-warning" id="010deliciouspreorder">010-น้ำพริกกุ้ง</button>
+<button type="button" class="btn btn-warning" id="011deliciouspreorder">011-น้ำพริกมะขาม</button>
+<button type="button" class="btn btn-warning" id="012deliciouspreorder">012-กะปิหลน</button>
 
-<button type="button" class="btn btn-warning" id="009deliciouspreoder">009-น้ำพริกมะม่วง</button>
-<button type="button" class="btn btn-warning" id="010deliciouspreoder">010-น้ำพริกกุ้ง</button>
-<button type="button" class="btn btn-warning" id="011deliciouspreoder">011-น้ำพริกมะขาม</button>
-<button type="button" class="btn btn-warning" id="012deliciouspreoder">012-กะปิหลน</button>
 
+<button type="button" class="btn btn-warning" id="014deliciouspreorder">014-คั่วเอ็นข้อไก่หน่อไม้ดอง</button>
+<button type="button" class="btn btn-warning" id="015deliciouspreorder">015-แกงคั่วปีกไก่บนหน่อไม้ดอง</button>
 
-<button type="button" class="btn btn-warning" id="014deliciouspreoder">014-คั่วเอ็นข้อไก่หน่อไม้ดอง</button>
-<button type="button" class="btn btn-warning" id="015deliciouspreoder">015-แกงคั่วปีกไก่บนหน่อไม้ดอง</button>
-
-<button type="button" class="btn btn-warning" id="020deliciouspreoder">020-ไข่พะโล้หมูสามชั้น</button>
+<button type="button" class="btn btn-warning" id="020deliciouspreorder">020-ไข่พะโล้หมูสามชั้น</button>
     
 //..........................................................................    
     
@@ -57,10 +59,10 @@ window.onload = function(e){
         function usecase(){
 
 // ........................................................................... id007
-document.getElementById('020deliciouspreoder').addEventListener('click',function(){
+document.getElementById('020deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "020delicious//preoder-ไข่พะโล้หมูสามชั้น",
+    "altText": "020delicious//preorder-ไข่พะโล้หมูสามชั้น",
     "contents": 
     }
              ]).then(function (){
@@ -70,20 +72,20 @@ document.getElementById('020deliciouspreoder').addEventListener('click',function
 
 
           
-document.getElementById('015deliciouspreoder').addEventListener('click',function(){
+document.getElementById('015deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "015delicious//preoder-แกงคั่วปีกไก่บนหน่อไม้ดอง",
+    "altText": "015delicious//preorder-แกงคั่วปีกไก่บนหน่อไม้ดอง",
     "contents": 
     }
              ]).then(function (){
         liff.closeWindow();
      });
           })
-document.getElementById('014deliciouspreoder').addEventListener('click',function(){
+document.getElementById('014deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "014delicious//preoder-คั่วเอ็นข้อไก่หน่อไม้ดอง",
+    "altText": "014delicious//preorder-คั่วเอ็นข้อไก่หน่อไม้ดอง",
     "contents": 
     }
              ]).then(function (){
@@ -93,20 +95,20 @@ document.getElementById('014deliciouspreoder').addEventListener('click',function
 
 
           
-document.getElementById('012deliciouspreoder').addEventListener('click',function(){
+document.getElementById('012deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "012delicious//preoder-กะปิหลน",
+    "altText": "012delicious//preorder-กะปิหลน",
     "contents": 
           }
              ]).then(function (){
         liff.closeWindow();
      });
           });
-document.getElementById('011deliciouspreoder').addEventListener('click',function(){
+document.getElementById('011deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "011delicious//preoder-น้ำพริกมะขาม",
+    "altText": "011delicious//preorder-น้ำพริกมะขาม",
     "contents": 
     }
              ]).then(function (){
@@ -115,20 +117,20 @@ document.getElementById('011deliciouspreoder').addEventListener('click',function
           });
 
           
-document.getElementById('010deliciouspreoder').addEventListener('click',function(){
+document.getElementById('010deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "010delicious//preoder-น้ำพริกกุ้ง",
+    "altText": "010delicious//preorder-น้ำพริกกุ้ง",
     "contents": 
     }
              ]).then(function (){
         liff.closeWindow();
      });
           })
-document.getElementById('009deliciouspreoder').addEventListener('click',function(){
+document.getElementById('009deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "009delicious//preoder-น้ำพริกมะม่วง",
+    "altText": "009delicious//preorder-น้ำพริกมะม่วง",
     "contents": 
     }
              ]).then(function (){
@@ -137,83 +139,81 @@ document.getElementById('009deliciouspreoder').addEventListener('click',function
           })    
 
           
-document.getElementById('006deliciouspreoder').addEventListener('click',function(){
+document.getElementById('006deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "006delicious//preoder-ราดหน้าสปาเก็ตตี้",
+    "altText": "006delicious//preorder-ราดหน้าสปาเก็ตตี้",
     "contents": 
     }
              ]).then(function (){
         liff.closeWindow();
      });
           })
-document.getElementById('005deliciouspreoder').addEventListener('click',function(){
+document.getElementById('005deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "delicious//preoder-หมี่เสี้ยนผัดแฟรงค์เฟิร์ต",
+    "altText": "delicious//preorder-หมี่เสี้ยนผัดแฟรงค์เฟิร์ต",
     "contents": 
     }
              ]).then(function (){
         liff.closeWindow();
      });
           })
-document.getElementById('004deliciouspreoder').addEventListener('click',function(){
+document.getElementById('004deliciouspreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "004delicious//preoder-ข้าวผัดพริกแกงหอยแมลงภู่",
+    "altText": "004delicious//preorder-ข้าวผัดพริกแกงหอยแมลงภู่",
     "contents": 
     }
              ]).then(function (){
         liff.closeWindow();
      });
           })
-// ...........................................................................  deliciouspreoder
+// ...........................................................................  deliciouspreorder
 
 
 
-<button type="button" class="btn btn-primary" id="004deliciouspreoder">004-ข้าวผัดพริกแกงหอยแมลงภู่</button>
-<button type="button" class="btn btn-primary" id="005deliciouspreoder">005-หมี่เสี้ยนผัดแฟรงค์เฟิร์ต</button>
-<button type="button" class="btn btn-primary" id="006deliciouspreoder">006-ราดหน้าสปาเก็ตตี้</button>
+
 
 
 
           
 
-// ...........................................................................  sweetpreoder
-document.getElementById('009sweetpreoder').addEventListener('click',function(){
+// ...........................................................................  sweetpreorder
+document.getElementById('009sweetpreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "009sweet//preoder-ฮารุกะดิพ",
+    "altText": "009sweet//preorder-ฮารุกะดิพ",
     "contents": 
     }
              ]).then(function (){
         liff.closeWindow();
      });
           })          
-document.getElementById('008sweetpreoder').addEventListener('click',function(){
+document.getElementById('008sweetpreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "008sweet//preoder-ข้าวเหนียวดำเปียกลำใย",
+    "altText": "008sweet//preorder-ข้าวเหนียวดำเปียกลำใย",
     "contents": 
     }
              ]).then(function (){
         liff.closeWindow();
      });
           })          
-document.getElementById('007sweetpreoder').addEventListener('click',function(){
+document.getElementById('007sweetpreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "007sweet//preoder-เปียกปูนกะทิสดโรยงาขาว",
+    "altText": "007sweet//preorder-เปียกปูนกะทิสดโรยงาขาว",
     "contents": 
     }
              ]).then(function (){
         liff.closeWindow();
      });
           })
-document.getElementById('006sweetpreoder').addEventListener('click',function(){
+document.getElementById('006sweetpreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "006sweet//preoder-กล้วยอบราดน้ำผึ้ง",
+    "altText": "006sweet//preorder-กล้วยอบราดน้ำผึ้ง",
     "contents": {
   "type": "carousel",
   "contents": [
@@ -559,60 +559,60 @@ document.getElementById('006sweetpreoder').addEventListener('click',function(){
         liff.closeWindow();
      });
           })
-document.getElementById('005sweetpreoder').addEventListener('click',function(){
+document.getElementById('005sweetpreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "005sweet//preoder-ไข่กระทะ",
+    "altText": "005sweet//preorder-ไข่กระทะ",
     "contents": 
     }
              ]).then(function (){
         liff.closeWindow();
      });
           })
-document.getElementById('004sweetpreoder').addEventListener('click',function(){
+document.getElementById('004sweetpreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "004sweet//preoder-ข้าวต้ม Chicken Ball",
+    "altText": "004sweet//preorder-ข้าวต้ม Chicken Ball",
     "contents": 
     }
              ]).then(function (){
         liff.closeWindow();
      });
           })
-document.getElementById('003sweetpreoder').addEventListener('click',function(){
+document.getElementById('003sweetpreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "003sweet//preoder-ทอร์เทีย",
+    "altText": "003sweet//preorder-ทอร์เทีย",
     "contents": 
     }
              ]).then(function (){
         liff.closeWindow();
      });
           })          
-document.getElementById('002sweetpreoder').addEventListener('click',function(){
+document.getElementById('002sweetpreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "002sweet//preoder-แฮมเบอร์เกอร์",
+    "altText": "002sweet//preorder-แฮมเบอร์เกอร์",
     "contents": 
           }
              ]).then(function (){
         liff.closeWindow();
      });
           });
-document.getElementById('00102sweetpreoder').addEventListener('click',function(){
+document.getElementById('00102sweetpreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "00102sweet//preoder-แซนวิชห่มผ้า//แฟรงค์เฟิร์ต",
+    "altText": "00102sweet//preorder-แซนวิชห่มผ้า//แฟรงค์เฟิร์ต",
     "contents": 
     }
              ]).then(function (){
         liff.closeWindow();
      });
           });
-document.getElementById('00101sweetpreoder').addEventListener('click',function(){
+document.getElementById('00101sweetpreorder').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",
-    "altText": "00101sweet//preoder-แซนวิชห่มผ้า//พอร์คแฮมรมควัน",
+    "altText": "00101sweet//preorder-แซนวิชห่มผ้า//พอร์คแฮมรมควัน",
     "contents": 
     }
              ]).then(function (){

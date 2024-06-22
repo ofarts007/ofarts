@@ -1,1 +1,644 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+    <title>PreOrder</title>
+  </head>
+  <body>
+    <h1>ตู้กับข้าว</h1>
+    
+//........................................................................      
+//........................................................................    
+//  ..........................................................................................  sweet preOrder
+<button type="button" class="btn btn-primary" id="00101sweetpreorder">00101-แซนวิชห่มผ้า//พอร์คแฮมรมควัน</button>
+<button type="button" class="btn btn-primary" id="00102sweetpreorder">00102-แซนวิชห่มผ้า//แฟรงค์เฟิร์ต</button>   
+<button type="button" class="btn btn-primary" id="002sweetpreorder">002-แฮมเบอร์เกอร์</button>   
+<button type="button" class="btn btn-primary" id="003sweetpreorder">003-ทอร์เทีย</button>
+<button type="button" class="btn btn-primary" id="004sweetpreorder">004-ข้าวต้ม Chicken Ball</button>
+<button type="button" class="btn btn-primary" id="005sweetpreorder">005-ไข่กระทะ</button>
+<button type="button" class="btn btn-primary" id="006sweetpreorder">006-กล้วยอบราดน้ำผึ้ง</button>
+<button type="button" class="btn btn-primary" id="007sweetpreorder">007-เปียกปูนกะทิสดโรยงาขาว</button>
+<button type="button" class="btn btn-primary" id="008sweetpreorder">008-ข้าวเหนียวดำเปียกลำใย</button>
+<button type="button" class="btn btn-primary" id="009sweetpreorder">009-ฮารุกะดิพ</button>
+
+//  ..........................................................................................  delicious preOrder
+<button type="button" class="btn btn-primary" id="004deliciouspreorder">004-ข้าวผัดพริกแกงหอยแมลงภู่</button>
+<button type="button" class="btn btn-primary" id="005deliciouspreorder">005-หมี่เสี้ยนผัดแฟรงค์เฟิร์ต</button>
+<button type="button" class="btn btn-primary" id="006deliciouspreorder">006-ราดหน้าสปาเก็ตตี้</button>
+<button type="button" class="btn btn-warning" id="009deliciouspreorder">009-น้ำพริกมะม่วง</button>
+<button type="button" class="btn btn-warning" id="010deliciouspreorder">010-น้ำพริกกุ้ง</button>
+<button type="button" class="btn btn-warning" id="011deliciouspreorder">011-น้ำพริกมะขาม</button>
+<button type="button" class="btn btn-warning" id="012deliciouspreorder">012-กะปิหลน</button>
+
+
+<button type="button" class="btn btn-warning" id="014deliciouspreorder">014-คั่วเอ็นข้อไก่หน่อไม้ดอง</button>
+<button type="button" class="btn btn-warning" id="015deliciouspreorder">015-แกงคั่วปีกไก่บนหน่อไม้ดอง</button>
+
+<button type="button" class="btn btn-warning" id="020deliciouspreorder">020-ไข่พะโล้หมูสามชั้น</button>
+    
+//..........................................................................    
+    
+     <script> 
+window.onload = function(e){
+        liff.init({liffId:'1655371726-RNJDNqQM'},function(){
+           if (liff.isLoggedIn()) {
+           usecase();
+          ofarts();
+           }else {
+        liff.login();
+      }
+        });
+      }
+        
+        function usecase(){
+
+// ........................................................................... id007
+document.getElementById('020deliciouspreorder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "020delicious//preorder-ไข่พะโล้หมูสามชั้น",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+
+
+          
+document.getElementById('015deliciouspreorder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "015delicious//preorder-แกงคั่วปีกไก่บนหน่อไม้ดอง",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('014deliciouspreorder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "014delicious//preorder-คั่วเอ็นข้อไก่หน่อไม้ดอง",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+
+
+          
+document.getElementById('012deliciouspreorder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "012delicious//preorder-กะปิหลน",
+    "contents": 
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('011deliciouspreorder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "011delicious//preorder-น้ำพริกมะขาม",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+
+          
+document.getElementById('010deliciouspreorder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "010delicious//preorder-น้ำพริกกุ้ง",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('009deliciouspreorder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "009delicious//preorder-น้ำพริกมะม่วง",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })    
+
+          
+document.getElementById('006deliciouspreorder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "006delicious//preorder-ราดหน้าสปาเก็ตตี้",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('005deliciouspreorder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "delicious//preorder-หมี่เสี้ยนผัดแฟรงค์เฟิร์ต",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('004deliciouspreorder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "004delicious//preorder-ข้าวผัดพริกแกงหอยแมลงภู่",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+// ...........................................................................  deliciouspreorder
+
+
+
+
+
+
+
+          
+
+// ...........................................................................  sweetpreorder
+document.getElementById('009sweetpreorder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "009sweet//preorder-ฮารุกะดิพ",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })          
+document.getElementById('008sweetpreorder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "008sweet//preorder-ข้าวเหนียวดำเปียกลำใย",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })          
+document.getElementById('007sweetpreorder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "007sweet//preorder-เปียกปูนกะทิสดโรยงาขาว",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('006sweetpreorder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "006sweet//preorder-กล้วยอบราดน้ำผึ้ง",
+    "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://i.ibb.co/VNMKPyZ/20240311-105424.jpg",
+        "size": "full",
+        "aspectRatio": "16:9",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "label": "Line",
+          "uri": "https://i.ibb.co/VNMKPyZ/20240311-105424.jpg"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#72564DFF",
+        "contents": [
+          {
+            "type": "text",
+            "text": "- กล้วยอบราดน้ำผึ้ง -",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": "กล้วยน้ำว้าลูกโต ตัดสดจากสวนกล้วยที่มีคุณภาพ มีขั้นตอนการผลิตและรอเวลา เพื่อที่จะให้ได้กล้วยอบที่มีคุณภาพ เสิร์ฟพร้อมกับน้ำผึ้งฉ่ำ น้ำตาลมะพร้าวแท้จากอัมพวาโรยหน้าหอมกรุ่น และรอส่งสิ่งที่มีคุณภาพให้ถึงมือทุกคน\n",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "margin": "md",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": ". . . . . . . . . . . . . . . . . . . . . . . .",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "margin": "md",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "margin": "xxl",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "- share -\nNOW",
+                    "weight": "bold",
+                    "color": "#FFFFFFFF",
+                    "align": "center",
+                    "wrap": true,
+                    "action": {
+                      "type": "uri",
+                      "uri": "https://liff.line.me/1655371726-RNJDNqQM?url=https://ofarts007.github.io/ofarts/ofarts007-00/preorder.html"
+                    },
+                    "contents": []
+                  },
+                  {
+                    "type": "text",
+                    "text": "- Walk -\nTogether",
+                    "weight": "bold",
+                    "color": "#FFFFFFFF",
+                    "align": "center",
+                    "wrap": true,
+                    "action": {
+                      "type": "uri",
+                      "uri": "https://lin.ee/5RwzOK7"
+                    },
+                    "contents": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://i.ibb.co/6cQ8zNh/20240313-083843.jpg",
+        "size": "full",
+        "aspectRatio": "16:9",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "label": "Line",
+          "uri": "https://i.ibb.co/6cQ8zNh/20240313-083843.jpg"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#72564DFF",
+        "contents": [
+          {
+            "type": "text",
+            "text": "- สรรพคุณของกล้วยน้ำว้า -",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": "เคล็ดลับง่ายๆ ดูแลสุขภาพให้แข็งแรง จิตใจร่าเริง สดใส ไร้โรค ด้วยกล้วยน้ำว้า ผลไม้บ้าน ๆ ที่อยู่คู่คนไทยมานานแสนนาน ตั้งแต่เกิดแม่ก็ป้อนกล้วยน้ำว้าให้กิน แต่น้อยคนจะรู้ว่ามีคุณค่าทางโภชนาการและคุณประโยชน์หลากหลายล้นหลาม\n",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "margin": "md",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": ". . . . . . . . . . . . . . . . . . . . . . . .",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "margin": "md",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "margin": "xxl",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "- share -\nNOW",
+                    "weight": "bold",
+                    "color": "#FFFFFFFF",
+                    "align": "center",
+                    "wrap": true,
+                    "action": {
+                      "type": "uri",
+                      "uri": "https://liff.line.me/1655371726-RNJDNqQM?url=https://ofarts007.github.io/ofarts/ofarts007-00/preorder.html"
+                    },
+                    "contents": []
+                  },
+                  {
+                    "type": "text",
+                    "text": "- Walk -\nTogether",
+                    "weight": "bold",
+                    "color": "#FFFFFFFF",
+                    "align": "center",
+                    "wrap": true,
+                    "action": {
+                      "type": "uri",
+                      "uri": "https://lin.ee/5RwzOK7"
+                    },
+                    "contents": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://i.ibb.co/vH4vxc1/20240311-095042.jpg",
+        "size": "full",
+        "aspectRatio": "16:9",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "label": "Line",
+          "uri": "https://i.ibb.co/vH4vxc1/20240311-095042.jpg"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#72564DFF",
+        "contents": [
+          {
+            "type": "text",
+            "text": "- สรรพคุณของกล้วยน้ำว้า -",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": "กล้วยน้ำว้า ยังช่วยระงับกลิ่นปากได้ วิธีการก็คือ รับประทานกล้วยน้ำว้าหลังตื่นนอนทันที แล้วค่อยแปรงฟัน จะช่วยลดกลิ่นปากได้มาก กล้วยน้ำว้ายังสามารถรักษาโรคกระเพาะ เพราะในกล้วยน้ำว้ามีสารแทนนินอยู่มาก ซึ่งสามารถช่วยรักษาอาการท้องเสียแบบไม่รุนแรงได้",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "margin": "md",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": ". . . . . . . . . . . . . . . . . . . . . . . .",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "margin": "md",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "margin": "xxl",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "- share -\nNOW",
+                    "weight": "bold",
+                    "color": "#FFFFFFFF",
+                    "align": "center",
+                    "wrap": true,
+                    "action": {
+                      "type": "uri",
+                      "uri": "https://liff.line.me/1655371726-RNJDNqQM?url=https://ofarts007.github.io/ofarts/ofarts007-00/preorder.html"
+                    },
+                    "contents": []
+                  },
+                  {
+                    "type": "text",
+                    "text": "- Walk -\nTogether",
+                    "weight": "bold",
+                    "color": "#FFFFFFFF",
+                    "align": "center",
+                    "wrap": true,
+                    "action": {
+                      "type": "uri",
+                      "uri": "https://lin.ee/5RwzOK7"
+                    },
+                    "contents": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://i.ibb.co/3N4hG5r/645929.jpg",
+        "size": "full",
+        "aspectRatio": "15:20",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "label": "Line",
+          "uri": "https://i.ibb.co/3N4hG5r/645929.jpg"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#72564DFF",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "- Pre Order -",
+                    "weight": "bold",
+                    "color": "#FFFFFFFF",
+                    "align": "center",
+                    "wrap": true,
+                    "action": {
+                      "type": "uri",
+                      "uri": "https://docs.google.com/forms/d/e/1FAIpQLSf91Ga6_iZ5WfN7clinSpKsCJd677Z4H0zZzzN7b2LCUI6B9g/viewform"
+                    },
+                    "contents": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". . . . . . . . . . . . . . . . . . . . . . . .",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFFFFFFF",
+            "align": "center",
+            "margin": "md",
+            "wrap": true,
+            "contents": []
+          }
+        ]
+      }
+    }
+  ]
+}
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('005sweetpreorder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "005sweet//preorder-ไข่กระทะ",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('004sweetpreorder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "004sweet//preorder-ข้าวต้ม Chicken Ball",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('003sweetpreorder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "003sweet//preorder-ทอร์เทีย",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })          
+document.getElementById('002sweetpreorder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "002sweet//preorder-แฮมเบอร์เกอร์",
+    "contents": 
+          }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('00102sweetpreorder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "00102sweet//preorder-แซนวิชห่มผ้า//แฟรงค์เฟิร์ต",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+document.getElementById('00101sweetpreorder').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "00101sweet//preorder-แซนวิชห่มผ้า//พอร์คแฮมรมควัน",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          });
+        
+
+//........................................................................  
+
+
+          
+// ........................................................................................   0000000000
+
+          
+        } 
+       
+        
+        </script>
+    
+    
+    
+    
+<script charset="utf-8" src="https://static.line-scdn.net/liff/edge/2/sdk.js"></script>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+</body>
+</html>

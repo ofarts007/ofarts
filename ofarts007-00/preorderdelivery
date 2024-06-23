@@ -1,1 +1,554 @@
+<button type="button" class="btn btn-danger" id="001preorderdelivery">001-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="002preorderdelivery">002-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="003preorderdelivery">031-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="004preorderdelivery">004-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="005preorderdelivery">005-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="006preorderdelivery">006-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="007preorderdelivery">007-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="008preorderdelivery">008-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="009preorderdelivery">009-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="00110eorderdelivery">010-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="011preorderdelivery">011-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="012preorderdelivery">012-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="013preorderdelivery">013-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="014preorderdelivery">014-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="015preorderdelivery">015-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="016preorderdelivery">016-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="017preorderdelivery">017-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="018preorderdelivery">018-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="019preorderdelivery">019-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="020preorderdelivery">020-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="021preorderdelivery">021-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="022preorderdelivery">022-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="023preorderdelivery">023-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="024preorderdelivery">024-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="025preorderdelivery">025-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="026preorderdelivery">026-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="027preorderdelivery">027-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="028preorderdelivery">028-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="029preorderdelivery">029-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="030preorderdelivery">030-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="031preorderdelivery">031-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="032preorderdelivery">032-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="033preorderdelivery">033-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="034preorderdelivery">034-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="035preorderdelivery">035-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="036preorderdelivery">036-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="037preorderdelivery">037-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="038preorderdelivery">038-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="039preorderdelivery">039-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="040preorderdelivery">040-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="041preorderdelivery">041-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="042preorderdelivery">042-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="043preorderdelivery">043-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="044preorderdelivery">044-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="045preorderdelivery">045-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="046preorderdelivery">046-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="047preorderdelivery">047-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="048preorderdelivery">048-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="049preorderdelivery">049-xxxxxxxxxx</button>
+<button type="button" class="btn btn-danger" id="050preorderdelivery">050-xxxxxxxxxx</button>
 
+
+//      ...........................  id007
+
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
+document.getElementById('001preorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "001preorder//delivery-xxxxxxxxxx",
+    "contents": 
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })

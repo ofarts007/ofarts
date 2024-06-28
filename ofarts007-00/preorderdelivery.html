@@ -19,7 +19,7 @@
 <button type="button" class="btn btn-danger" id="001preorderdelivery">001-บะหมี่ไก่เทอริยากิ</button>
 <button type="button" class="btn btn-danger" id="002preorderdelivery">002-ข้าวผัดค็อกเทล</button>
 <button type="button" class="btn btn-danger" id="003preorderdelivery">mix-บะหมี่ไก่เทอริยากิ//ข้าวผัดค็อกเทล</button>
-
+<button type="button" class="btn btn-danger" id="e-statementpreorderdelivery">e-statement-โอนเงิน</button>
 
 
 
@@ -42,6 +42,31 @@ window.onload = function(e){
         function usecase(){
 
 // ........................................................................... id007
+document.getElementById('e-statementpreorderdelivery').addEventListener('click',function(){
+          liff.shareTargetPicker([{
+    "type": "flex",
+    "altText": "preorder//delivery-e-statement-โอนเงิน",
+    "contents": {
+  "type": "bubble",
+  "size": "mega",
+  "hero": {
+    "type": "image",
+    "url": "https://i.ibb.co/3N4hG5r/645929.jpg",
+    "size": "full",
+    "aspectRatio": "15:20",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "label": "Line",
+      "uri": "https://i.ibb.co/3N4hG5r/645929.jpg"
+    }
+  }
+}
+    }
+             ]).then(function (){
+        liff.closeWindow();
+     });
+          })
 document.getElementById('003preorderdelivery').addEventListener('click',function(){
           liff.shareTargetPicker([{
     "type": "flex",

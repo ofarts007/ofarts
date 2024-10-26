@@ -9925,42 +9925,6 @@
 
  +result[0][]
 
-
-
-+result[0][]
-
-{
-  "type": "flex",
-  "altText": "วันนี้มีอัพเดทอะไรบ้าง . . . ?",
-  "contents": 
-}
-
- +result[0][]
-
-
-
-+result[0][]
-
-{
-  "type": "flex",
-  "altText": "วันนี้มีอัพเดทอะไรบ้าง . . . ?",
-  "contents": 
-}
-
- +result[0][]
-
-
-
-+result[0][]
-
-{
-  "type": "flex",
-  "altText": "วันนี้มีอัพเดทอะไรบ้าง . . . ?",
-  "contents": 
-}
-
- +result[0][]
-
 007
 
 +result[0][]
@@ -9969,386 +9933,161 @@
   "type": "flex",
   "altText": "วันนี้มีอัพเดทอะไรบ้าง . . . ?",
   "contents": {
-  "type": "carousel",
-  "contents": [
-    {
-      "type": "bubble",
-      "size": "mega",
-      "hero": {
-        "type": "image",
-        "url": ""+result[0][2],
-        "size": "full",
-        "aspectRatio": "1:1",
-        "aspectMode": "cover",
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": ""+result[0][2],
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "label": "Line",
+      "uri": ""+result[0][]2
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "backgroundColor": "#1E2876FF",
+    "contents": [
+      {
+        "type": "text",
+        "text": "โรงเรียนสุรนารีวิทยา",
+        "weight": "bold",
+        "size": "lg",
+        "color": "#FFFFFFFF",
+        "align": "center",
+        "wrap": true,
+        "contents": []
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "\n● ชื่อ-นามสกุล : "+result[0][3],
+                "size": "md",
+                "color": "#FFFFFFFF",
+                "wrap": true,
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": "● ชื่อเล่น : "+result[0][4],
+                "color": "#FFFFFFFF",
+                "wrap": true,
+                "contents": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "xl",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "margin": "xxl",
+            "contents": [
+              {
+                "type": "text",
+                "text": "- ฝ่ายบริหารวิชาการ -",
+                "color": "#FFFFFFFF",
+                "align": "center",
+                "action": {
+                  "type": "uri",
+                  "uri": "https://line.me/R/oaMessage/@455fmiue/?"+result[0][5]
+                },
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": "- ฝ่ายบริหารงานบุคคล -",
+                "color": "#FFFFFFFF",
+                "align": "center",
+                "margin": "md",
+                "action": {
+                  "type": "uri",
+                  "uri": "https://line.me/R/oaMessage/@455fmiue/?"+result[0][6]
+                },
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": "- ฝ่ายบริหารงานงบประมาณ -",
+                "color": "#FFFFFFFF",
+                "align": "center",
+                "margin": "md",
+                "action": {
+                  "type": "uri",
+                  "uri": "https://line.me/R/oaMessage/@455fmiue/?"+result[0][7]
+                },
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": "- ฝ่ายบริหารงานทั่วไป -",
+                "color": "#FFFFFFFF",
+                "align": "center",
+                "margin": "md",
+                "action": {
+                  "type": "uri",
+                  "uri": "https://line.me/R/oaMessage/@455fmiue/?"+result[0][8]
+                },
+                "contents": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n- เบอร์โทรศัพท์ที่ติดต่อได้ -",
+        "weight": "bold",
+        "size": "md",
+        "color": "#FFFFFFFF",
+        "align": "center",
+        "wrap": true,
         "action": {
           "type": "uri",
-          "label": "Line",
-          "uri": ""+result[0][2]
-        }
+          "uri": "tel:"+result[0][9]
+        },
+        "contents": []
       },
-      "body": {
-        "type": "box",
-        "layout": "vertical",
-        "backgroundColor": "#1E2876FF",
-        "contents": [
-          {
-            "type": "text",
-            "text": "โรงเรียนสุรนารีวิทยา",
-            "weight": "bold",
-            "size": "lg",
-            "color": "#FFFFFFFF",
-            "align": "center",
-            "wrap": true,
-            "contents": []
-          },
-          {
-            "type": "box",
-            "layout": "vertical",
-            "contents": [
-              {
-                "type": "box",
-                "layout": "vertical",
-                "contents": [
-                  {
-                    "type": "text",
-                    "text": "\n● คำนำหน้า : "+result[0][3],
-                    "size": "md",
-                    "color": "#FFFFFFFF",
-                    "wrap": true,
-                    "contents": []
-                  },
-                  {
-                    "type": "text",
-                    "text": "● ชื่อ : "+result[0][4],
-                    "size": "md",
-                    "color": "#FFFFFFFF",
-                    "wrap": true,
-                    "contents": []
-                  },
-                  {
-                    "type": "text",
-                    "text": "● นามสกุล : "+result[0][5],
-                    "size": "md",
-                    "color": "#FFFFFFFF",
-                    "wrap": true,
-                    "contents": []
-                  },
-                  {
-                    "type": "text",
-                    "text": "● ชื่อเล่น : "+result[0][6],
-                    "color": "#FFFFFFFF",
-                    "wrap": true,
-                    "contents": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "text",
-            "text": "\n- เบอร์โทรศัพท์ที่ติดต่อได้ -",
-            "weight": "bold",
-            "size": "md",
-            "color": "#FFFFFFFF",
-            "align": "center",
-            "wrap": true,
-            "action": {
-              "type": "uri",
-              "uri": "tel:"+result[0][7]
-            },
-            "contents": []
-          },
-          {
-            "type": "box",
-            "layout": "vertical",
-            "margin": "xl",
-            "contents": [
-              {
-                "type": "box",
-                "layout": "vertical",
-                "margin": "xxl",
-                "contents": [
-                  {
-                    "type": "text",
-                    "text": "- SRN PROFILE -",
-                    "color": "#FFFFFFFF",
-                    "align": "center",
-                    "margin": "md",
-                    "action": {
-                      "type": "uri",
-                      "uri": "https://line.me/R/oaMessage/@455fmiue/?srnpro,"
-                    },
-                    "contents": []
-                  },
-                  {
-                    "type": "text",
-                    "text": "- SRN BOT -",
-                    "color": "#FFFFFFFF",
-                    "align": "center",
-                    "margin": "md",
-                    "wrap": true,
-                    "action": {
-                      "type": "uri",
-                      "uri": "https://line.me/R/oaMessage/@455fmiue/?srnbot"
-                    },
-                    "contents": []
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "styles": {
-        "body": {
-          "backgroundColor": "#1E2876FF"
-        }
+      {
+        "type": "text",
+        "text": "- SRN BOT -",
+        "weight": "bold",
+        "color": "#FFFFFFFF",
+        "align": "center",
+        "margin": "md",
+        "wrap": true,
+        "action": {
+          "type": "uri",
+          "uri": "https://line.me/R/oaMessage/@455fmiue/?srnbot"
+        },
+        "contents": []
       }
-    },
-    {
-      "type": "bubble",
-      "size": "mega",
-      "body": {
-        "type": "box",
-        "layout": "vertical",
-        "backgroundColor": "#1E2876FF",
-        "contents": [
-          {
-            "type": "image",
-            "url": "https://i.ibb.co/mtW7sCs/uc-id-1-PIQT9b-Ix0-JH5-Ch-ZOWOXTDR7gnb9x-Z-D.gif",
-            "margin": "lg",
-            "size": "sm"
-          },
-          {
-            "type": "text",
-            "text": "ฝ่ายบริหารวิชาการ",
-            "weight": "bold",
-            "size": "lg",
-            "color": "#FFFFFFFF",
-            "align": "center",
-            "wrap": true,
-            "contents": []
-          },
-          {
-            "type": "box",
-            "layout": "horizontal",
-            "contents": [
-              {
-                "type": "box",
-                "layout": "vertical",
-                "contents": [
-                  {
-                    "type": "text",
-                    "text": "\n● คำนำหน้า : "+result[0][3],
-                    "size": "md",
-                    "color": "#FFFFFFFF",
-                    "wrap": true,
-                    "contents": []
-                  },
-                  {
-                    "type": "text",
-                    "text": "● ชื่อ : "+result[0][4],
-                    "size": "md",
-                    "color": "#FFFFFFFF",
-                    "wrap": true,
-                    "contents": []
-                  },
-                  {
-                    "type": "text",
-                    "text": "● นามสกุล : "+result[0][5],
-                    "size": "md",
-                    "color": "#FFFFFFFF",
-                    "wrap": true,
-                    "contents": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "box",
-            "layout": "horizontal",
-            "contents": [
-              {
-                "type": "box",
-                "layout": "vertical",
-                "contents": [
-                  {
-                    "type": "text",
-                    "text": "● กลุ่มสาระการเรียนรู้ . . . \n"+result[0][8],
-                    "size": "md",
-                    "color": "#FFFFFFFF",
-                    "margin": "xl",
-                    "wrap": true,
-                    "contents": []
-                  },
-                  {
-                    "type": "text",
-                    "text": "● ตำแหน่ง : \n"+result[0][9],
-                    "size": "md",
-                    "color": "#FFFFFFFF",
-                    "wrap": true,
-                    "contents": []
-                  },
-                  {
-                    "type": "text",
-                    "text": "● หน้าที่ : "+result[0][10],
-                    "size": "md",
-                    "color": "#FFFFFFFF",
-                    "wrap": true,
-                    "contents": []
-                  },
-                  {
-                    "type": "text",
-                    "text": "● ตารางสอน : "+result[0][11],
-                    "size": "md",
-                    "color": "#FFFFFFFF",
-                    "wrap": true,
-                    "action": {
-                      "type": "uri",
-                      "uri": "https://line.me/R/oaMessage/@455fmiue/?"+result[0][12]
-                    },
-                    "contents": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "box",
-            "layout": "horizontal",
-            "contents": [
-              {
-                "type": "box",
-                "layout": "vertical",
-                "contents": [
-                  {
-                    "type": "text",
-                    "text": "\nหน้าที่ในกลุ่มสาระฯ . . .",
-                    "size": "md",
-                    "color": "#FFFFFFFF",
-                    "wrap": true,
-                    "contents": []
-                  },
-                  {
-                    "type": "text",
-                    "text": "● งาน : "+result[0][13],
-                    "size": "md",
-                    "color": "#FFFFFFFF",
-                    "wrap": true,
-                    "action": {
-                      "type": "uri",
-                      "uri": "https://line.me/R/oaMessage/@455fmiue/?"+result[0][14]
-                    },
-                    "contents": []
-                  },
-                  {
-                    "type": "text",
-                    "text": "● งาน : "+result[0][15],
-                    "size": "md",
-                    "color": "#FFFFFFFF",
-                    "wrap": true,
-                    "action": {
-                      "type": "uri",
-                      "uri": "https://line.me/R/oaMessage/@455fmiue/?"+result[0][16]
-                    },
-                    "contents": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "box",
-            "layout": "vertical",
-            "contents": [
-              {
-                "type": "box",
-                "layout": "vertical",
-                "contents": [
-                  {
-                    "type": "text",
-                    "text": "\n000000000000",
-                    "size": "xxs",
-                    "color": "#1E2876FF",
-                    "align": "center",
-                    "wrap": true,
-                    "contents": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "box",
-            "layout": "vertical",
-            "margin": "lg",
-            "contents": [
-              {
-                "type": "box",
-                "layout": "vertical",
-                "margin": "xxl",
-                "contents": [
-                  {
-                    "type": "text",
-                    "text": "\n- ฝ่ายบริหารวิชาการ -",
-                    "color": "#FFFFFFFF",
-                    "align": "center",
-                    "action": {
-                      "type": "uri",
-                      "uri": "https://line.me/R/oaMessage/@455fmiue/?ฝ่ายบริหารวิชาการ"
-                    },
-                    "contents": []
-                  },
-                  {
-                    "type": "text",
-                    "text": "- SRN PROFILE -",
-                    "color": "#FFFFFFFF",
-                    "align": "center",
-                    "margin": "md",
-                    "action": {
-                      "type": "uri",
-                      "uri": "https://line.me/R/oaMessage/@455fmiue/?srnpro,"
-                    },
-                    "contents": []
-                  },
-                  {
-                    "type": "text",
-                    "text": "- SRN BOT -",
-                    "color": "#FFFFFFFF",
-                    "align": "center",
-                    "margin": "md",
-                    "wrap": true,
-                    "action": {
-                      "type": "uri",
-                      "uri": "https://line.me/R/oaMessage/@455fmiue/?srnbot"
-                    },
-                    "contents": []
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "styles": {
-        "body": {
-          "backgroundColor": "#1E2876FF"
-        }
-      }
+    ]
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#1E2876FF"
     }
-  ]
+  }
 }
 }
 
  +result[0][]
 
 007
-
-
-
-
-
-
-
-

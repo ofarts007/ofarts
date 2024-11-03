@@ -9885,7 +9885,86 @@
 {
   "type": "flex",
   "altText": "วันนี้มีอัพเดทอะไรบ้าง . . . ?",
-  "contents": 
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "backgroundColor": "#1E2876FF",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://i.ibb.co/mtW7sCs/uc-id-1-PIQT9b-Ix0-JH5-Ch-ZOWOXTDR7gnb9x-Z-D.gif",
+        "margin": "xl"
+      },
+      {
+        "type": "text",
+        "text": "ภาคเรียนที่ : "+result[0][2],
+        "size": "md",
+        "color": "#FFFFFFFF",
+        "align": "center",
+        "margin": "xl",
+        "wrap": true,
+        "contents": []
+      },
+      {
+        "type": "text",
+        "text": "ชื่อ - สกุล : "+result[0][3],
+        "color": "#FFFFFFFF",
+        "align": "center",
+        "contents": []
+      },
+      {
+        "type": "text",
+        "text": "กลุ่มสาะฯ : "+result[0][4],
+        "color": "#FFFFFFFF",
+        "align": "center",
+        "contents": []
+      },
+      {
+        "type": "image",
+        "url": ""+result[0][5],
+        "margin": "md",
+        "size": "full",
+        "aspectRatio": "4:3",
+        "aspectMode": "fit",
+        "action": {
+          "type": "uri",
+          "uri": ""+result[0][5]
+        }
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "- SRNTEACH -",
+          "uri": "https://line.me/R/oaMessage/@455fmiue/?srnteach,"
+        },
+        "color": "#555D9DFF",
+        "height": "sm",
+        "style": "primary"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "- SRN BOT -",
+          "uri": "https://line.me/R/oaMessage/@455fmiue/?srnbot"
+        },
+        "color": "#555D9DFF",
+        "margin": "xs",
+        "height": "sm",
+        "style": "primary"
+      }
+    ]
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#1E2876FF"
+    }
+  }
+}
 }
 
  +result[0][]
